@@ -24,7 +24,7 @@
 
 
 <!--Links-->
-[P1]: https://www.youtube.com
+[P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/CyberLaw(Chapter-1).md
 [P2]: https://www.youtube.com
 [P3]: https://www.youtube.com
 [P4]: https://www.youtube.com
