@@ -31,3 +31,28 @@ D. Internet Regulation in different Countries.
 Regulation of the content and information available on the internet.<br/>
 
 7. Protection and regulation of freedom of speech and expression and right to information.<br/></p>
+
+
+### **<br/>Importance of cyber law**
+
+<p>Cyber law is the law governing computers and the Internet. In today's highly digitalized world, almost everyone is affected by cyber law. For example...<br/>
+
+1. Almost all transactions in shares are in demitting form. Increased online share trading transactions have led to many identity theft frauds.<br/>
+
+2. Almost all companies extensively depend upon their computer networks and keep their valuable data in electronic form. Criminals are targeting this data for espionage and extortion.<br/>
+
+3. Government forms including income tax returns, company law forms, etc are now filled in electronically form.<br/>
+
+4. Consumers are increasingly using credit cards for online and offline shopping. This has led to a huge increase in the number and value of credit card frauds.<br/>
+
+5. Most people are using email, cell phones, and SMS messages for communication.<br/>
+
+6. The extensive use of blogs and networking sites has led to cyberstalking and defamation cases.<br/>
+
+7. Most banking transactions take place electronically online.<br/>
+
+8. Even in "non-cyber crime" cases, important evidence is found in computers, and cell phones e.g. in cases of divorce, murder, kidnapping, tax evasion, organized crime, terrorist operations, counterfeit currency, etc.<br/>
+
+9. Cyber crime cases such as online banking fraud, online share trading fraud, source code theft, credit card fraud, tax evasion, virus attacks, cyber sabotage, email hijacking, denial of service, hacking, pornography, etc are becoming common.<br/>
+
+10. Digital signatures and e-contracts are fast replacing conventional methods of transacting business.<br/></p>
