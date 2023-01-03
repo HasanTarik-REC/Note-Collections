@@ -66,5 +66,13 @@ The efficiency of an algorithm depends upon 3 factors.
 
 <p>Order of growth is a set of functions whose asymptotic growth behavior is considered equivalent. For example, 2n, 100n, and n+1 belong to the same order of growth which is written O(n) in Big-Oh notation and is often called linear because every function in the set grows linearly with n.<br/></p>
 
+### **<br/>Why do we use O-notation?**
+<p>Big O Notation is one of computer science's most necessary mathematical notations to measure an algorithm's efficiency.<br/> 
+Big O Notation tells us how well an algorithm will perform in a particular situation.
+In other words, it gives an algorithm's upper-bound runtime or worst-case complexity.<br/>
+For the sake of analysis, we ignore constants: O(C * f(n))  = O(g(n)) or O(5N) = O(N).<br/>
+So, we use O-natation to describe the amount of time a given algorithm would take in the worst case, based on the input size n.<br/></p>
+
+
 
 
