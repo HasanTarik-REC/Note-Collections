@@ -4,6 +4,10 @@
 
 <p>The main objective of ICT policy is to take the country to a new height of excellence, building a new "Digital Bangladesh" identity by strengthening the ICT sector.<br/></p>
 
+### **<br/>The vision of ICT Policy in Bangladesh**
+
+<p>This Policy aims at building an ICT-driven nation comprising a knowledge-based society by 2006. In view of this, a country-wide ICT infrastructure will be developed to ensure access to information by every citizen to facilitate the empowerment of people and enhance democratic values and norms for sustainable economic development by using the infrastructure for human resources development, governance, e-commerce, banking, public utility services, and all sorts of online ICT-enabled services.<br/></p>
+
 
 ### **<br/>The objectives of ICT policy in Bangladesh**
 
@@ -55,3 +59,20 @@ The Telemedicine Network will be used for rural patient management, distant medi
 International tele-consultation through telemedicine for critical patients will be promoted in both private and public sector.
 4. All public hospitals and medical research centers shall be linked by computer networks with Medical center of excellence as the central
 hub in order to make expert services available throughout the country. This network may be gradually extended to the local level.<br/>
+
+### **<br/>Research and Development in ICT**
+
+1. Research and development in ICT will focus on need-based fundamental and applied research
+contributing to the improvement of quality and efficiency of the application to our ICT industry.
+2. Bangladesh Computer Council will encourage ICT R&D activities carried out by the public and
+ private sector organizations.
+3. BCC along with ICT industries will assist in formulating plans to conduct need-based R&D
+ activities in the Universities. BITs and public & activities. The ICT industry may fund for
+ R&D activities for new ICT products and services through Industry-Academia collaboration.
+4. A central online data bank for scientific and technological institutions and other R&D
+ organizations.
+5. R&D efforts on Bangla text processing, Bangla voice recognition, translation, and synthesis
+ will be intensified.
+6. Technology Corporations such as Microsoft, IBM, Computer Associates, Oracle, SAP, etc. will
+be approached to set up their R&D centers in Bangladesh.
+7. Contents for the Internet and Intranet will be developed in Bangla.<br/>
