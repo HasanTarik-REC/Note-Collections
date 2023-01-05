@@ -76,3 +76,5 @@ contributing to the improvement of quality and efficiency of the application to 
 6. Technology Corporations such as Microsoft, IBM, Computer Associates, Oracle, SAP, etc. will
 be approached to set up their R&D centers in Bangladesh.
 7. Contents for the Internet and Intranet will be developed in Bangla.<br/>
+
+
