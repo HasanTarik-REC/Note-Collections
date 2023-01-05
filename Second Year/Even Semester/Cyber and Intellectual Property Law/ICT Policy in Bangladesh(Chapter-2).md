@@ -8,8 +8,35 @@
 
 <p>This Policy aims at building an ICT-driven nation comprising a knowledge-based society by 2006. In view of this, a country-wide ICT infrastructure will be developed to ensure access to information by every citizen to facilitate the empowerment of people and enhance democratic values and norms for sustainable economic development by using the infrastructure for human resources development, governance, e-commerce, banking, public utility services, and all sorts of online ICT-enabled services.<br/></p>
 
+### **<br/>Objectives of ICT Policy 2018**
 
-### **<br/>The objectives of ICT policy in Bangladesh**
+1. Digital Government:
+Through the use of information technology in all activities of the government, ensuring that services reach the doorsteps of the people easily and developing technical and efficient information management;
+
+2. Digital Security:
+In all areas, making the use of information and communication technology safe and risk-free;
+
+3. Social Equity and Universal Access:
+By using information and communication technology, establish social equity at all levels and ensure universal access to state information flows;
+
+4. Education, Research, and Innovation:
+To form a knowledge-based society through the successful application and maintenance of information technology in education and research and to provide support and incentives to innovative activities;
+
+5. Skill Development and Employment Generation:
+By appropriate training develop information technology knowledgeable skilled manpower and create employment opportunities;
+
+6. Strengthening Domestic Capability:
+Establish information technology-based industry locally and increase service-providing capacity and increase domestic capacity by creating a business-friendly environment to encourage investment in this purpose;
+
+7. Environment, Climate, and Disaster Management:
+Innovating and assimilating environment-friendly green technologies in the ICT sector to reduce the risks caused by climate change, taking information technology-based effective steps in the safe management of electronic waste,   disaster response, and climate change management; And
+
+8. Enhancing Productivity:
+Taking effective measures to increase productivity and encourage digital entrepreneurship by using information technology in all sectors including health, agriculture, communication, trade, and financial sectors of the country.<br/>
+
+
+
+### **<br/>The objectives of ICT policy in Bangladesh 2002**
 
 1. In order to give a thrust to the ICT sector and expeditious development of Software
 industry and its export required infrastructural facilities and legal framework will be created..
