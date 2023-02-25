@@ -20,7 +20,7 @@ In all areas, making the use of information and communication technology safe an
 By using information and communication technology, establish social equity at all levels and ensure universal access to state information flows;
 
 4. Education, Research, and Innovation:
-To form a knowledge-based society through the successful application and maintenance of information technology in education and research and to provide support and incentives to innovative activities;
+To form a knowledge-based society through the successful use and maintenance of information technology in education and research and to provide support and incentives to innovative activities;
 
 5. Skill Development and Employment Generation:
 By appropriate training develop information technology knowledgeable skilled manpower and create employment opportunities;
