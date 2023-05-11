@@ -76,9 +76,7 @@ promptly setting up appropriate enforcing bodies as mentioned in the Act.
 7. Bangladesh Armed forces should use ICT to the fullest extent to increase their efficiency and effectiveness.<br/>
 
 ### **<br/>ICT Policy in Health Care**
-1. The main focus in the use of ICT and communication technologies in Healthcare will be to deliver new capabilities for hospitals
-and healthcare providers. ICT should be used to develop such capabilities specifically in the areas of electronic medical records,
- telemedicine, medical and health education etc.
+1. The main focus in using ICT and communication technologies in Healthcare will be to deliver new capabilities for hospitals and healthcare providers. ICT should be used to develop such capabilities in electronic medical records, telemedicine, medical and health education, etc.
 2. Telemedicine System Network shall be introduced throughout the country for cost-effective delivery of health care services.
 The Telemedicine Network will be used for rural patient management, distant medical education, training of health professionals
  and to develop mass awareness for disease prevention.
