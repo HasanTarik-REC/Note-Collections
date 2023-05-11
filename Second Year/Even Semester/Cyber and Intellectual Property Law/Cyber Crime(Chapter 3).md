@@ -91,6 +91,18 @@ could be fatal.
 ### **<br/>Password Fraud**
 Password fraud is Fraud that can be committed through many methods, including mail, wire, phone, and the internet, computer crime, and internet fraud by cracking passwords. Fraud, in addition to being a criminal act, is also a type of civil law violation known as a tort. A tort is a civil wrong for which the law provides a remedy.
 
+### **<br/>Cybercrime investigation Tools:<br/>**
+X-way forensics<br/>
+Sleuth kit<br/>
+Imager FTK<br/>
+Oxygen detective forensic software<br/>
+Bulk extractor program<br/>
+Digital forensics<br/>
+CAINE<br/>
+PALADIN<br/>
+Digital Forensics Framework<br/>
+
+
 
 
 
