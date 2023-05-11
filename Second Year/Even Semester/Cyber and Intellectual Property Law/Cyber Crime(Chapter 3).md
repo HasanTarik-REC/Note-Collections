@@ -97,6 +97,9 @@ Data diddling is extracting and changing the value of data without the knowledge
 ### **<br/>Salami attacks**
 An attack on a computer network involves the intruder siphoning off small amounts of money from a file and placing them in another file that he or she can access. A simple example is when an attacker removes Tk. 0.01 (1 paise) from each account of Bangladesh Bank. No one will notice such a tiny mismatch. But when 1 paise is deducted from all account holders of Bangladesh's largest Bank(Bangladesh Bank), It produces a huge amount.
 
+### **<br/>Cyberstalking**
+The Oxford Dictionary defines stalking as "pursuing stealthily". Cyberstalking involves a person's movements across the Internet. The person sends the messages on the bulletin boards frequently to the victim. He can enter the chat rooms and disturb the victim by constantly sending emails.
+
 ### **<br/>Cybercrime investigation Tools**
 1. X-way forensics
 2. Sleuth kit
