@@ -45,6 +45,13 @@ These are classified as follows.
 13. Theft of computer system
 14. Physically damaging a computer system 
 
+### **<br/>Black Hat Hacker**
+A hacker who gains unauthorized access to computer systems for personal gain. 
+The intent of black hat hackers is usually to steal corporate data, violate privacy rights, transfer funds from bank accounts, etc.
+
+### **<br/>White Hat Hacker**
+A White Hat hacker who gains access to systems with a view to fixing the identified weaknesses. Then he performs penetration testing and vulnerability assessments.
+
 ### **<br/>What is Vandalism?**
 Vandalism means willful wanton and malicious destruction of the property of others. It is the conspicuous defacement or destruction of a structure,  a symbol, or anything else that goes against the will of the owner / governing body, and usually constitutes a crime.
 
@@ -110,9 +117,6 @@ The Oxford Dictionary defines stalking as "pursuing stealthily". Cyberstalking i
 7. CAINE
 8. PALADIN
 9. Digital Forensics Framework
-
-
-
 
 
 
