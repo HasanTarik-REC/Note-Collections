@@ -91,16 +91,22 @@ could be fatal.
 ### **<br/>Password Fraud**
 Password fraud is Fraud that can be committed through many methods, including mail, wire, phone, and the internet, computer crime, and internet fraud by cracking passwords. Fraud, in addition to being a criminal act, is also a type of civil law violation known as a tort. A tort is a civil wrong for which the law provides a remedy.
 
-### **<br/>Cybercrime investigation Tools:<br/>**
-X-way forensics<br/>
-Sleuth kit<br/>
-Imager FTK<br/>
-Oxygen detective forensic software<br/>
-Bulk extractor program<br/>
-Digital forensics<br/>
-CAINE<br/>
-PALADIN<br/>
-Digital Forensics Framework<br/>
+### **<br/>Data diddling**
+Data diddling is extracting and changing the value of data without the knowledge of the owner. Data diddling (also called false data entry) simply means altering data before entering it or entering it into the computer system. This form of cybercrime usually occurs within the organization providing customer services i.e. electricity organization, medical organization, transport organization, etc. where customer bills, personal information, or order of valuable and important records are manipulated.
+
+### **<br/>Salami attacks**
+An attack on a computer network involves the intruder siphoning off small amounts of money from a file and placing them in another file that he or she can access. A simple example is when an attacker removes Tk. 0.01 (1 paise) from each account of Bangladesh Bank. No one will notice such a tiny mismatch. But when 1 paise is deducted from all account holders of Bangladesh's largest Bank(Bangladesh Bank), It produces a huge amount.
+
+### **<br/>Cybercrime investigation Tools**
+1. X-way forensics
+2. Sleuth kit
+3. Imager FTK
+4. Oxygen Detective forensic software
+5. Bulk extractor program
+6. Digital forensics
+7. CAINE
+8. PALADIN
+9. Digital Forensics Framework
 
 
 
