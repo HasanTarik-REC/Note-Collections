@@ -82,8 +82,7 @@ The Telemedicine Network will be used for rural patient management, distant medi
  and to develop mass awareness for disease prevention.
 3. Development of Bangladesh Health Protal should be given priority for appropriate growth of e-health and telemedicine referral system.
 International tele-consultation through telemedicine for critical patients will be promoted in both private and public sector.
-4. All public hospitals and medical research centers shall be linked by computer networks with Medical center of excellence as the central
-hub in order to make expert services available throughout the country. This network may be gradually extended to the local level.<br/>
+4. All public hospitals and medical research centers shall be linked by computer networks with the Medical Center of Excellence as the central hub in order to make expert services available throughout the country. This network may be gradually extended to the local level.<br/>
 
 ### **<br/>Research and Development in ICT**
 
