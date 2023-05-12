@@ -12,6 +12,12 @@ According to law, "Jurisdiction is the practical authority granted to a formally
 ### **<br/>Digital evidence**
 Digital evidence is data stored within electronic devices or systems that can be recovered by forensic experts and used as acceptable evidence in court. Examples: email, text messages, hard drives, social media accounts, audio and video files, smart TVs, etc.
 
+### **<br/>Digital Signature**
+A digital signature is an electronic signature based on the cryptographic methods of the originator authentication, computed by using a set of rules and a set of parameters such that the identity of the signer and the integrity of the data can be verified.
+
+### **<br/>Electronic Record**
+Electronic records are the combination of text, graphics, data, audio, pictorial, or other information representation in digital form that is created, modified, maintained, archived, retrieved, or distributed by a computer system. Electronic Records are created by means of a computing device and subsequently stored on an electronic storage media.
+
 ### **<br/>RAM Slack**
 The data used for padding is taken from the memory buffers of the system. This data originates from the memory of the computer and is called RAM Slack. RAM Slack pertains only to the last sector of a file. RAM Slack can contain any information that may have been created, viewed, modified, downloaded, or copied during the past work sessions since the computer was last booted. Thus, if the computer has not been shut down for several days, the data stored in the file slack can come from work sessions that occurred in the past. 
 
