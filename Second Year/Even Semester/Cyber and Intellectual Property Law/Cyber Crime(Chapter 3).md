@@ -9,6 +9,19 @@ According to law, "Jurisdiction is the practical authority granted to a formally
 2. Territorial jurisdiction(locum)
 3. Subject matter jurisdiction(subjectam)
 
+### **<br/>Digital evidence**
+Digital evidence is data stored within electronic devices or systems that can be recovered by forensic experts and used as acceptable evidence in court. Examples: email, text messages, hard drives, social media accounts, audio and video files, smart TVs, etc.
+
+### **<br/>RAM Slack**
+The data used for padding is taken from the memory buffers of the system. This data originates from the memory of the computer and is called RAM Slack. RAM Slack pertains only to the last sector of a file. RAM Slack can contain any information that may have been created, viewed, modified, downloaded, or copied during the past work sessions since the computer was last booted. Thus, if the computer has not been shut down for several days, the data stored in the file slack can come from work sessions that occurred in the past. 
+
+### **<br/>File Slack**
+When a file is created its length depends upon its contents. When this file is saved to the disk any system using DOS, Windows, or Windows NT saves it in the form of blocks of data. These blocks are of a fixed length and are known as clusters. Most of the time, the contents of files do not exactly match the size of these clusters. The space that remains from the end of the file contents to the last cluster assigned to the file which is called File Slack. To fill in this space randomly selected data from the computer's memory is used. File Slack is created at the time when a file is saved to disk. File Slack is created utilizing randomly selected data from the computer memory.
+
+### **<br/>Drive Slack**
+In certain situations, more or additional sectors need to be added to fill out the blocks of the last cluster assigned to a particular file. In such a case, a different kind of slack has to be created.  This is known as Drive Slack. This is then stored in the sectors needed to fill up the last cluster for a file.
+
+
 ### **<br/>Definition of Cybercrime**
 E-crimes are almost conventional crimes in nature committed by using computers and ICT with the intention of making social disorder.
 
