@@ -126,11 +126,20 @@ An attack on a computer network involves the intruder siphoning off small amount
 ### **<br/>Cyberstalking**
 The Oxford Dictionary defines stalking as "pursuing stealthily". Cyberstalking involves a person's movements across the Internet. The person sends the messages on the bulletin boards frequently to the victim. He can enter the chat rooms and disturb the victim by constantly sending emails.
 
+### **<br/>Ping of death attacks**
+The ping of Death is a large Internet Control Message Protocol (ICMP) packet sent by a computer workstation to a target. The target receives the ping in fragments and starts reassembling the packet. When the size of the packet has become too big for the buffer then it overflows. This causes unpredictable results to make the system hangs. This is called a Ping of death attack.
+
 ### **<br/>Trojan horse**
 A Trojan horse is a type of malicious code or software that looks legitimate but can take control of your computer. A Trojan is designed to damage, disrupt, steal, or in general inflict some other harmful action on your data or network.
 
 ### **<br/>How does Trojan horse differ from viruses**
  Trojan Horses do not replicate themselves.
+
+### **<br/>Password Trojans**
+Password Trojans search the victim's computer for passwords and then send them to the attacker or the author of the Trojan. The password may be an Internet password or an email password. There is a Trojan which used for every password. These Trojans usually send the information back to the attacker via Email.
+
+### **<br/>Key loggers**
+Key loggers Trojans are very simple. They log all of the victim's keystrokes on the keyboard including passwords. Then they either save them on a file or email them to the attacker. Key loggers usually don't take much disk space and can masquerade as important utilities, thus making them very hard to detect.
 
 ### **<br/>Worms**
 A computer worm is a self-contained program or set of programs that are able to spread functional copies of itself or its segments to other computer systems. This is usually done via network connections. Unlike viruses, worms do not need to attach themselves to a host program. There are two types of worms:
