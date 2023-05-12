@@ -107,6 +107,26 @@ An attack on a computer network involves the intruder siphoning off small amount
 ### **<br/>Cyberstalking**
 The Oxford Dictionary defines stalking as "pursuing stealthily". Cyberstalking involves a person's movements across the Internet. The person sends the messages on the bulletin boards frequently to the victim. He can enter the chat rooms and disturb the victim by constantly sending emails.
 
+### **<br/>Trojan horse**
+A Trojan horse is a type of malicious code or software that looks legitimate but can take control of your computer. A Trojan is designed to damage, disrupt, steal, or in general inflict some other harmful action on your data or network.
+
+### **<br/>How does Trojan horse differ from viruses**
+ Trojan Horses do not replicate themselves.
+
+### **<br/>Worms**
+A computer worm is a self-contained program or set of programs that are able to spread functional copies of itself or its segments to other computer systems. This is usually done via network connections. Unlike viruses, worms do not need to attach themselves to a host program. There are two types of worms:
+1. Host computer worms
+2. Network worms
+
+### **<br/>Packet sniffing**
+When any data has to be transmitted over the computer network, it is broken down into smaller units at the sender’s node called data packets and reassembled at the receiver’s node in its original format. It is the smallest unit of communication over a computer network. The act of capturing data packets across the computer network is called packet sniffing.
+
+### **<br/>Keylogging**
+Keylogging is the practice of secretly recording input signals from a computer keyboard when the computer user is not aware. It is the equivalent of digital surveillance. It publishes every click and touch, every download and conversation. 
+
+### **<br/>Spyware**
+Spyware is a type of malware installed on your device without your knowledge or permission to gather information about you. It keeps an eye on your sensitive information and can do everything from showing pesky advertising and pop-ups on your device all the way to tracking your keystrokes and login credentials. Then it supplies the information to the spyware author or a third party.
+
 ### **<br/>Cybercrime investigation Tools**
 1. X-way forensics
 2. Sleuth kit
