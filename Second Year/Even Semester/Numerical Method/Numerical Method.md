@@ -13,3 +13,47 @@ If EA is the relative error and X is the true value of a quantity the relative e
 
 ### **<br/>Percentage Error**
 If ER is the relative error then percentage error is defined by EP = ER x 100.
+
+### **<br/>Round off Error**
+Round off error is the difference between a rounded off numerical and standard value.
+
+### **<br/>What is numerical method ?**
+A numerical method is a mathematical tool designed to solve numerical problems.
+Or, Numerical methods are a set of mathematical techniques used to solve problems. They can be used to find approximate solutions to equation, or to optimize designs.
+
+### **<br/>Write the reason to study numerical method.**
+1. Finding roots of equation
+2. Solving Ordinary Differential equation
+3. Finding the value of Integral equation
+4. Interpolation and Extrapolation
+
+### **<br/>Inherent Error**
+Errors which exist in the problem either due to approximate given data, limitations of computing aids are called inherent errors.
+In other word, Inherent error is the error present in source documents.
+
+### **<br/>Exact Number**
+Any number which has finite number of digit is called exact number.
+Example: 1, 2, 3, 1.758 etc.
+
+### **<br/>Approximate Number**
+Which number cannot be expressed by finite digit is called Approximate Number.
+Example: 4/3= 1.3333.........
+pi = 3.1415.............
+root 2 = 1.4142......
+
+### **<br/>Significant digit**
+The digit used to express a number are called significant digit.
+
+### **<br/>Truncation Error**
+Truncation errors are the difference between the actual value of the function and the truncated value of the given function.
+Example: The exact value of pi = 3.14192654
+The truncated value upto 4 decimal place is 3.1416
+Hence, the truncation error is -0.000007364102.
+
+### **<br/>Algebraic Equation**
+The equation f(x)=0 is said to be algebraic if f(x) is purely a polynomial in x.
+Example: x^3-7x+8=0
+
+### **<br/>Transcendental Equation**
+If f(x) cantains trigonometric, logarithmic, Exponential etc then the equation f(x)=0 is called a transcendental Equation.
+Example: 3x-cosx-1=0
