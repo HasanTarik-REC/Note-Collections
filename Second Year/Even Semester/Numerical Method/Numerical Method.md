@@ -72,3 +72,21 @@ Example: x^3-7x+8=0
 ### **<br/>Transcendental Equation**
 If f(x) cantains trigonometric, logarithmic, Exponential etc then the equation f(x)=0 is called a transcendental Equation.
 Example: 3x-cosx-1=0
+
+### **<br/>Numerical Expression**
+A numerical expression is a combination of numbers and mathematical operations such as addition, subtraction, multiplication or division.
+Example: 7+50/5
+
+### **<br/>Algebraic Expression**
+An algebraic expression is a combination of constants, variables and mathematical operations.
+Example: 3x +5
+
+### **<br/>Transcendental Expression**
+If an expression contains trigonometric, exponential, logarithmic functions then it is called transcendental expression.
+Example: logx, sinx, e^x etc.
+
+### **<br/>Application of Numerical Method**
+Numerical methods are extremely powerful problem solving tools. They are capable of handling large system of equations, non-linearities, and complicated geometrics that are not uncommon in modern science and engineering practice and that are often impossible to solve analytically. As such, thay greatly enhance our problem solving skills. Numerical methods or their new applications lead to important progress in the related field. Thus, numerical methods become more and more essential in modern science and engineering.
+
+### **<br/>Curve fitting**
+The exact mathematical relationship between the two variables is given by simple algebraic expression called curve fitting.
