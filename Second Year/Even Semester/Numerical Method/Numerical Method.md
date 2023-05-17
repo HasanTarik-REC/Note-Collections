@@ -9,7 +9,7 @@ The difference between exact value and measured value is called absolute error.
 If X is the true value and X1 is the measured value, then absolute error is EA = |X - X1|
 
 ### **<br/>Relative Error**
-If EA is the relative error and X is the true value of a quantity the relative error is defined by ER = EA/X.
+If EA is the relative error and X is the true value of a quantity, then relative error is defined by ER = EA/X.
 
 ### **<br/>Percentage Error**
 If ER is the relative error then percentage error is defined by EP = ER x 100.
