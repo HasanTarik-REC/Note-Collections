@@ -27,7 +27,7 @@ In this repository, I have stored my all note.
 
     <!--Links-->
     [SE1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/Contents%20of%20Cyber%20and%20Intellectual%20Property%20Law.md
-    [SE2]: https://www.youtube.com
+    [SE2]: [https://www.youtube.com](https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Numerical%20Method/Numerical%20Method.md)
     [SE3]: https://www.youtube.com
     [SE4]: https://www.youtube.com
     [SE5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Design%20and%20Analysis%20of%20Algorithms/Contents%20of%20Algorithm.md
