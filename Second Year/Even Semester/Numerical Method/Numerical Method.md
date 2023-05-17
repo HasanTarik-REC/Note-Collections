@@ -51,13 +51,13 @@ The digit used to express a number are called significant digit.
 
 ### **<br/>Write the rules for identifying significant figures with examples**
 1. All non-zero digits are significant.
-   Example: the value 211.8 has four significant figures.
+Example: the value 211.8 has four significant figures.
 2. All zeros that are found between non-zero digits are significant.
-   Example: 20007 has five significant figure.
+Example: 20007 has five significant figure.
 3. Leading zeros are not significant.
-   Example: 0.0085 has two significant.
+Example: 0.0085 has two significant.
 4. Trailing zeros to the right of the decimal are significant.
-   Example: 92.00 has four significant.
+Example: 92.00 has four significant.
 
 ### **<br/>Truncation Error**
 Truncation errors are the difference between the actual value of the function and the truncated value of the given function.
