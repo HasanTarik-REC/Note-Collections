@@ -38,7 +38,7 @@ In simple terms, an algorithm is a series of instructions to solve a problem.<br
 
 -  The best-case complexity of the algorithm is the function defined by the minimum number of steps taken in any instance of size n.<br/>
 -   The worst-case complexity of the algorithm is the function defined by the maximum number of steps taken in any instance of size n.<br/>
--   The average-case complexity of the algorithm, which is the function defined by the average number of steps over all instances of size n.<br/>
+-   The average-case complexity of the algorithm, which is the function defined by the average number of steps taken over all instances of size n.<br/>
 
 ### **The efficiency of an algorithm**
 
