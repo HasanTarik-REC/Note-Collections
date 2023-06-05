@@ -31,4 +31,4 @@ In this repository, I have stored my all note.
     [SE3]: https://www.youtube.com
     [SE4]: https://www.youtube.com
     [SE5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Design%20and%20Analysis%20of%20Algorithms/Contents%20of%20Algorithm.md
-    [SE6]: https://www.youtube.com
+    [SE6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Computer%20Architecture%20and%20Organization/Computer%20Architecture%20and%20Organization.md
