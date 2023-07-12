@@ -4,7 +4,7 @@ In this repository, I have stored my all note.
 # CSE Third Year
 - ## Odd Semester
     - [System Analysis and Design][p]
-    - [Database Management System][P1]
+    - [Database Management System][PP1]
 
 # CSE Second Year
 - ## Even Semester
@@ -37,3 +37,4 @@ In this repository, I have stored my all note.
     [SE4]: https://www.youtube.com
     [SE5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Design%20and%20Analysis%20of%20Algorithms/Contents%20of%20Algorithm.md
     [SE6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Computer%20Architecture%20and%20Organization/Computer%20Architecture%20and%20Organization.md
+  [PP1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Database%20Management%20System/DatabaseManagementSystem.md
