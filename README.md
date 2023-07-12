@@ -1,6 +1,11 @@
 # Note-Collections
 In this repository, I have stored my all note.
 
+# CSE Third Year
+- ## Odd Semester
+    - [System Analysis and Design][p]
+    - [Database Management System][P1]
+
 # CSE Second Year
 - ## Even Semester
     - [Cyber and Intellectual Property Law][SE1]
