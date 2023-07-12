@@ -24,13 +24,19 @@ Responsibilities of a Database Administrator
 List six major steps that you would take in setting up a database for a particular
 enterprise.
 Answer: Six major steps in setting up a database for a particular enterprise are:
-• Define the high-level requirements of the enterprise (this step generates a
-the document is known as the system requirements specification.)
+• Define the high-level requirements of the enterprise (this step generates a document known as the system requirements specification.)
 • Define a model containing all appropriate types of data and data relationships.
 • Define the integrity constraints on the data.
 • Define the physical level.
-• For each known problem to be solved on a regular basis (e.g., tasks to be
-carried out by clerks or Web users) define a user interface to carry out
-the task, and write the necessary application programs to implement the user
-interface.
+• For each known problem to be solved on a regular basis (e.g., tasks to be carried out by clerks or Web users) define a user interface to carry out the task, and write the necessary application programs to implement the user interface.
 • Create/initialize the database.
+
+
+What are the five main functions of a database administrator?
+Answer: Five main functions of a database administrator are:
+• To create the scheme definition
+• To define the storage structure and access methods
+• To modify the scheme and/or physical organization when necessary
+• To grant authorization for data access
+• To specify integrity constraints
+
