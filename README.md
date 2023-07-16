@@ -2,9 +2,19 @@
 In this repository, I have stored my all note.
 
 # CSE Third Year
+- ## Even Semester
+    - [Software Engineering][]
+    - [Computer Graphics][]
+    - [Microprocessor and Assembly Language][]
+    - [Operating System and System Programming][]
+    - [Communication Engineering][]
+
 - ## Odd Semester
     - [System Analysis and Design][p]
-    - [Database Management System][PP1]
+    - [Database Management Systems][PP1]
+    - [Digital Signal Processing][]
+    - [Compiler Design][]
+    - [Computer Networks][]
 
 # CSE Second Year
 - ## Even Semester
