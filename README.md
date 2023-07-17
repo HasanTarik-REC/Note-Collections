@@ -3,7 +3,7 @@ In this repository, I have stored my all note.
 
 # CSE Third Year
 - ## Odd Semester
-    - [System Analysis and Design][p]
+    - [System Analysis and Design][S1]
     - [Database Management Systems][PP1]
     - [Digital Signal Processing][]
     - [Compiler Design][]
@@ -48,3 +48,4 @@ In this repository, I have stored my all note.
     [SE5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Design%20and%20Analysis%20of%20Algorithms/Contents%20of%20Algorithm.md
     [SE6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Computer%20Architecture%20and%20Organization/Computer%20Architecture%20and%20Organization.md
   [PP1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Database%20Management%20System/DatabaseManagementSystem.md
+  [S1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/SystemAnalysisAndDesign.md
