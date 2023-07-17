@@ -2,26 +2,26 @@
 
 ### **<br/>Level of Data Abstraction**
 
-<p>- Physical level: The lowest level of abstraction describes how the data are actually stored. 
+1. Physical level: The lowest level of abstraction describes how the data are actually stored. 
 The physical level describes complex low-level data structures in detail.
-- Logical level: The next-higher level of abstraction describes what data are stored in the database, and what 
+2. Logical level: The next-higher level of abstraction describes what data are stored in the database, and what 
 relationships exist among those data. The logical level thus describes the entire database in terms of a small number 
 of relatively simple structures. Although implementation of simple structures at the logical level may involve 
 complex physical-level structures the user of the logical level does not need to be aware of this complexity. 
 Database administrators, who must decide what information to keep in the database, use the logical level of abstraction.
-- View level: The highest level of abstraction describe only part of the entire database. Even though the logical level 
+3. View level: The highest level of abstraction describe only part of the entire database. Even though the logical level 
 uses simpler structures, complexity remains because of the variety of information stored in a large database. 
 Many users of the database system do not need all this information; instead, they need to access only a part of the database. 
 The view level of abstraction exists to simplify their interaction with the system. The system may provide many views for 
-the same database.</p>
+the same database.
 
-Responsibilities of a Database Administrator
+### **<br/>Responsibilities of a Database Administrator**
 1. Periodically backing up the database, either onto tapes or onto remote servers, to prevent loss of data in case of disasters such as flooding.
 2. Ensuring that enough free disk space is available for normal operations, and upgrading disk space as required.
 3. Monitoring jobs running on the database and ensuring that performance is not degraded by very expensive tasks submitted by some users.
 
 
-Six major steps that you would take in setting up a database for an enterprise
+## **<br/Six major steps that you would take in setting up a database for an enterprise**
 
 1. Define the high-level requirements of the enterprise (this step generates a document known as the system requirements specification.)
 2. Define a model containing all appropriate types of data and data relationships.
@@ -31,7 +31,7 @@ Six major steps that you would take in setting up a database for an enterprise
 6. Create/initialize the database.
 
 
-Five main functions of a database administrator
+## **<br/Five main functions of a database administrator**
 
 1. To create the scheme definition
 2. To define the storage structure and access methods
