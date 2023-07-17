@@ -21,7 +21,7 @@ the same database.
 3. Monitoring jobs running on the database and ensuring that performance is not degraded by very expensive tasks submitted by some users.
 
 
-## **<br/Six major steps that you would take in setting up a database for an enterprise**
+## **<br/>Six major steps that you would take in setting up a database for an enterprise**
 
 1. Define the high-level requirements of the enterprise (this step generates a document known as the system requirements specification.)
 2. Define a model containing all appropriate types of data and data relationships.
@@ -31,7 +31,7 @@ the same database.
 6. Create/initialize the database.
 
 
-## **<br/Five main functions of a database administrator**
+## **<br/>Five main functions of a database administrator**
 
 1. To create the scheme definition
 2. To define the storage structure and access methods
