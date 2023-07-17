@@ -2,23 +2,23 @@
 
 ### **<br/>Level of Data Abstraction**
 
-1. Physical level: The lowest level of abstraction describes how the data are actually stored. 
+- Physical level: The lowest level of abstraction describes how the data are actually stored. 
 The physical level describes complex low-level data structures in detail.
-2. Logical level: The next-higher level of abstraction describes what data are stored in the database, and what 
+- Logical level: The next-higher level of abstraction describes what data are stored in the database, and what 
 relationships exist among those data. The logical level thus describes the entire database in terms of a small number 
 of relatively simple structures. Although implementation of simple structures at the logical level may involve 
 complex physical-level structures the user of the logical level does not need to be aware of this complexity. 
 Database administrators, who must decide what information to keep in the database, use the logical level of abstraction.
-3. View level: The highest level of abstraction describe only part of the entire database. Even though the logical level 
+- View level: The highest level of abstraction describe only part of the entire database. Even though the logical level 
 uses simpler structures, complexity remains because of the variety of information stored in a large database. 
 Many users of the database system do not need all this information; instead, they need to access only a part of the database. 
 The view level of abstraction exists to simplify their interaction with the system. The system may provide many views for 
 the same database.
 
 ### **<br/>Responsibilities of a Database Administrator**
-1. Periodically backing up the database, either onto tapes or onto remote servers, to prevent loss of data in case of disasters such as flooding.
-2. Ensuring that enough free disk space is available for normal operations, and upgrading disk space as required.
-3. Monitoring jobs running on the database and ensuring that performance is not degraded by very expensive tasks submitted by some users.
+- Periodically backing up the database, either onto tapes or onto remote servers, to prevent loss of data in case of disasters such as flooding.
+- Ensuring that enough free disk space is available for normal operations, and upgrading disk space as required.
+- Monitoring jobs running on the database and ensuring that performance is not degraded by very expensive tasks submitted by some users.
 
 
 ## **<br/>Six major steps that you would take in setting up a database for an enterprise**
