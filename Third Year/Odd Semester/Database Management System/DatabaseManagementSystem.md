@@ -3,11 +3,11 @@
 
 #### **Saturday  ---------- Introduction</br>**
 #### **Sunday    ---------- Introduction to the Relational Model</br>**
-#### **Monday    ---------- Introduction to SQL</br>**
-#### **Tuesday   ---------- Intermediate SQL</br>**
-#### **Wednesday ---------- Advanced SQL</br>**
-#### **Thrusday  ---------- Formal Relational Query Language</br>**
-#### **Friday    ---------- Lab</br>**
+#### **Monday    ---------- Introduction</br>**
+#### **Tuesday   ---------- Intermediate to the Relational Model</br>**
+#### **Wednesday ---------- Introduction to SQL</br>**
+#### **Thrusday  ---------- Introduction</br>**
+#### **Friday    ---------- Introduction to SQL</br>**
 
 
 ## </br></br>Chapter
