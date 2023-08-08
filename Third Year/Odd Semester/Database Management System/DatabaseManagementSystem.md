@@ -4,7 +4,7 @@
 #### **Saturday  ---------- Introduction</br>**
 #### **Sunday    ---------- Introduction to the Relational Model</br>**
 #### **Monday    ---------- Introduction</br>**
-#### **Tuesday   ---------- Intermediate to the Relational Model</br>**
+#### **Tuesday   ---------- Introduction to the Relational Model</br>**
 #### **Wednesday ---------- Introduction to SQL</br>**
 #### **Thrusday  ---------- Introduction</br>**
 #### **Friday    ---------- Introduction to SQL</br>**
