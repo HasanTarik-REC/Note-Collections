@@ -26,7 +26,7 @@ In this repository, I have stored my all note.
     - [Computer Architecture and Organization][SE6]
  
 - ## Odd Semester
-    - [Digital System Design] [sabbir]
+    - [Digital System Design]
 
 
 
