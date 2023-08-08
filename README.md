@@ -26,7 +26,7 @@ In this repository, I have stored my all note.
     - [Computer Architecture and Organization][SE6]
  
 - ## Odd Semester
-    - [Digital System Design]
+    - [Digital System Design][sabbir]
 
 
 
@@ -44,6 +44,7 @@ In this repository, I have stored my all note.
 
 
     <!--Links-->
+    [sabbir]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Odd%20Semester/Digital%20System%20Design.md
     [SE1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/Contents%20of%20Cyber%20and%20Intellectual%20Property%20Law.md
     [SE2]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Numerical%20Method/Numerical%20Method.md
     [SE3]: https://www.youtube.com
