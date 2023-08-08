@@ -7,7 +7,7 @@
 #### **Tuesday   ---------- Intermediate SQL</br>**
 #### **Wednesday ---------- Advanced SQL</br>**
 #### **Thrusday  ---------- Formal Relational Query Language</br>**
-#### **Friday    ---------- Lab
+#### **Friday    ---------- Lab</br>**
 
 
 ## </br></br>Chapter
