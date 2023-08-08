@@ -24,6 +24,9 @@ In this repository, I have stored my all note.
     - [Theory of Computation][SE4]
     - [Design and Analysis of Algorithm][SE5]
     - [Computer Architecture and Organization][SE6]
+ 
+- ## Odd Semester
+    - [Digital System Design] [sabbir]
 
 
 
