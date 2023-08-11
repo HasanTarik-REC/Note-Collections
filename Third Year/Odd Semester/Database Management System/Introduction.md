@@ -10,9 +10,7 @@ A database-management system (DBMS) is a collection of interrelated data and a s
 The physical level describes complex low-level data structures in detail.
 - Logical level: The next-higher level of abstraction describes what data are stored in the database, and what 
 relationships exist among those data. The logical level thus describes the entire database in terms of a small number 
-of relatively simple structures. Although implementation of simple structures at the logical level may involve 
-complex physical-level structures the user of the logical level does not need to be aware of this complexity. 
-Database administrators, who must decide what information to keep in the database, use the logical level of abstraction.
+of relatively simple structures. Database administrators, who must decide what information to keep in the database, use the logical level of abstraction.
 - View level: The highest level of abstraction describes only part of the entire database. Even though the logical level 
 uses simpler structures, complexity remains because of the variety of information stored in a large database. 
 Many users of the database system do not need all this information; instead, they need to access only a part of the database. 
