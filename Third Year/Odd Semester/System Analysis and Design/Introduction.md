@@ -30,4 +30,17 @@ Feedback may be positive or negative, routine or informational. Positive feedbac
 | 4. For example, the physical parts of a computer center. | 4. For example, models the abstract conceptualization of physical situations. |
 
 
+### **<br/>Difference between open system and closed system.**
+
+The difference between open and closed system is given below:
+| `Open System`                                                                                           | `Closed System`                                                                                               |
+|---------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|
+| 1. Open system is a thermodynamic system where energy and matter can be exchanged with its surrounding. | 1. Closed system is a thermodynamic system where energy can be exchanged with its surrounding but not matter. |
+| 2. Can exchange matter with the surrounding.                                                            | 2. Cannot exchange matter with the surrounding.                                                               |
+| 3. Mass of the system will vary with time.                                                              | 3. Mass of the system is constant.                                                                            |
+| 4. Have boundaries which are not closed.                                                                | 4. Have boundaries which are completely closed.                                                               |
+
+
+
+
 
