@@ -17,7 +17,7 @@ The elements of a system are-
 
 ### **<br/>What are the differences between physical & abstract system?**
 
-| 'Physical System'                                        | `Abstract System`                                                             |
+| `Physical System`                                        | `Abstract System`                                                             |
 |----------------------------------------------------------|-------------------------------------------------------------------------------|
 | 1. Physical systems are tangible entities.               | 1. Abstract systems are conceptual entities.                                  |
 | 2. They can be seen and counted.                         | 2. They can't be seen.                                                        |
