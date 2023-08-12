@@ -23,11 +23,11 @@ Feedback may be positive or negative, routine or informational. Positive feedbac
 ### **<br/>Discuss the primary characteristics of the open system. In what way is a system entropic?**
 
 The primary characteristics of an open system:
-1. <u>Input from outside:</u> Open ssystem are self-adjusting and self-regulating. When functioning properly, an open system reaches a steady state or equilibrium.
-2. <u>Entropy:</u> All dynamic systems tend to run down over time, resulting in entropy or loss of energy.
-3. <u>Process, Output, and Cycles:</u> Open systems produce useful outputs and operate in cycles, following a continuous flow path.
-4. <u>Differentiation:</u> Open systems have a tendency toward an increasing specialization of functions and a greater differentiation of their components.
-5. <u>Equifinality:</u> The term implies that goals are achieved through differing courses of action and a variety of paths.
+1. <u>` Input from outside:`</u> Open ssystem are self-adjusting and self-regulating. When functioning properly, an open system reaches a steady state or equilibrium.
+2. <u>` Entropy:`</u> All dynamic systems tend to run down over time, resulting in entropy or loss of energy.
+3. <u>` Process, Output, and Cycles:`</u> Open systems produce useful outputs and operate in cycles, following a continuous flow path.
+4. <u>` Differentiation:`</u> Open systems have a tendency toward an increasing specialization of functions and a greater differentiation of their components.
+5. <u>` Equifinality:`</u> The term implies that goals are achieved through differing courses of action and a variety of paths.
 <br/>
 
  <p>The entropy of an object is a measure of the amount of energy that is unavailable to work. Entropy is also a measure of the number of possible arrangements the atoms in a system can have. A system in which energy can only be transferred in one direction from an ordered state to a disordered state.</p>
