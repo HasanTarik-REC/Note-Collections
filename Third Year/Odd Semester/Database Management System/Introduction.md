@@ -4,6 +4,21 @@
 
 A database-management system (DBMS) is a collection of interrelated data and a set of programs to access those data. The collection of data, usually referred to as the database, contains information relevant to an enterprise. The primary goal of a DBMS is to provide a way to store and retrieve database information that is both convenient and efficient.
 
+
+### **<br/> Application of Database Management System**
+
+Databases are widely used. Here are some representative applications:
+
+- `Banking:` For customer information, accounts, loans, and all transactions.
+- `Airlines:` For reservations and schedule information.
+- `Universities:` For student information, course registrations, and grades.
+- `Sales:` For customer, product, and purchase information.
+- `Manufacturing:` For management of the supply chain, orders, inventory, and production of items in factories.
+- `Human resources:` For information about employees, salaries, tax deductions, etc.
+
+Databases touch all aspects of our lives.
+
+
 ### **<br/>Level of Data Abstraction**
 
 - Physical level: The lowest level of abstraction describes how the data are actually stored. 
@@ -16,6 +31,7 @@ uses simpler structures, complexity remains because of the variety of informatio
 Many users of the database system do not need all this information; instead, they need to access only a part of the database. 
 The view level of abstraction exists to simplify their interaction with the system. The system may provide many views for 
 the same database.
+
 
 ### **<br/>Responsibilities of a Database Administrator**
 - Periodically backing up the database, either onto tapes or onto remote servers, to prevent loss of data in case of disasters such as flooding.
