@@ -19,6 +19,20 @@ Databases are widely used. Here are some representative applications:
 Databases touch all aspects of our lives.
 
 
+### **<br/>Purpose of Database systems**
+<p>The purpose of database systems is to make the database user-friendly and do easy operations. Users can easily insert, update, and delete. Actually, the main purpose is to have more control of the data.<br/></p>
+
+The purpose of database systems is to manage the following insecurities:<br/>
+1. Data redundancy and inconsistency
+2. Difficulty in accessing data,
+3. Data isolation,
+4. Atomicity of updates,
+5. Concurrent access,
+6. Security problems, and
+7. Supports multiple views of data.
+
+
+
 ### **<br/>Level of Data Abstraction**
 
 - Physical level: The lowest level of abstraction describes how the data are actually stored. 
