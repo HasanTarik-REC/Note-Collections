@@ -23,7 +23,7 @@ Feedback may be positive or negative, routine or informational. Positive feedbac
 ### **<br/>Discuss the primary characteristics of the open system. In what way is a system entropic?**
 
 The primary characteristics of an open system:
-1. <u>` Input from outside:`</u> Open ssystem are self-adjusting and self-regulating. When functioning properly, an open system reaches a steady state or equilibrium.
+1. <u>` Input from outside:`</u> Open systems are self-adjusting and self-regulating. When functioning properly, an open system reaches a steady state or equilibrium.
 2. <u>` Entropy:`</u> All dynamic systems tend to run down over time, resulting in entropy or loss of energy.
 3. <u>` Process, Output, and Cycles:`</u> Open systems produce useful outputs and operate in cycles, following a continuous flow path.
 4. <u>` Differentiation:`</u> Open systems have a tendency toward an increasing specialization of functions and a greater differentiation of their components.
