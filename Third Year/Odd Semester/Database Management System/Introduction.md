@@ -47,12 +47,6 @@ The view level of abstraction exists to simplify their interaction with the syst
 the same database.
 
 
-### **<br/>Responsibilities of a Database Administrator**
-- Periodically backing up the database, either onto tapes or onto remote servers, to prevent loss of data in case of disasters such as flooding.
-- Ensuring that enough free disk space is available for normal operations, and upgrading disk space as required.
-- Monitoring jobs running on the database and ensuring that performance is not degraded by very expensive tasks submitted by some users.
-
-
 ## **<br/>Six major steps that you would take in setting up a database for an enterprise**
 
 1. Define the high-level requirements of the enterprise (this step generates a document known as the system requirements specification.)
@@ -63,6 +57,11 @@ the same database.
 6. Create/initialize the database.
 
 
+### **<br/>Database Administrator**
+
+A person who has such central control over the system is called a database administrator(DBA).
+
+
 ## **<br/>Five main functions of a database administrator**
 
 1. To create the scheme definition
@@ -70,4 +69,9 @@ the same database.
 3. To modify the scheme and/or physical organization when necessary
 4. To grant authorization for data access
 5. To specify integrity constraints
+
+### **<br/>Responsibilities of a Database Administrator**
+- Periodically backing up the database, either onto tapes or onto remote servers, to prevent loss of data in case of disasters such as flooding.
+- Ensuring that enough free disk space is available for normal operations, and upgrading disk space as required.
+- Monitoring jobs running on the database and ensuring that performance is not degraded by very expensive tasks submitted by some users.
 
