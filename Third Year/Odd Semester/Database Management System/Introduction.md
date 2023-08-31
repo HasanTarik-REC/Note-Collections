@@ -66,11 +66,12 @@ The functional components of a database system can be broadly divided into the s
 ### **<br/>Storage Manager**
 
 A storage Manager is a program module that provides the interface between the low-level data stored in the database and the application programs and queries submitted to the system. The storage manager is responsible for the interaction with the file manager.<br/>
+
 The storage manager components include:<br/>
-- Authorization and integrity manager
-- Transaction manager
-- File manager
-- Buffer manager
+- **Authorization and integrity manager**, which tests for the satisfaction of integrity constraints and checks the authority of users to access data.
+- **Transaction manager**, which ensures that the database remains in a consistent state despite system failures and that concurrent transaction execution proceeds without conflict.
+- **File manager**, which manages the allocation  of space on disk storage and the data structures used to represent information stored on disk.
+- **Buffer manager**, which is responsible for fetching data from disk storage into main memory and deciding what data to cache in main memory. The buffer manager is a critical part of the database system since it enables the database to handle data sizes that are much larger than the size of the main memory.
 
 The storage manager implements several data structures as part of the physical system implementation:<br/>
 - Data files
