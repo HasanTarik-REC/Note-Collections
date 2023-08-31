@@ -57,7 +57,7 @@ the same database.
 6. Create/initialize the database.
 
 
-### **<br/>Data storage and Querying
+### **<br/>Data storage and Querying**
 
 The functional components of a database system can be broadly divided into the storage manager and the query processor components.
 - The storage manager is important because databases typically require a large amount of storage space.
