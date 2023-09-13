@@ -32,6 +32,16 @@ The purpose of database systems is to manage the following insecurities:<br/>
 7. Supports multiple views of data.
 
 
+### **<br/>Advantage of DBMS over file system**
+
+`No redundant data:` Redundancy removed by data normalization. No data duplication saves storage and improves access time.
+`Data Consistency and Integrity:` As we discussed earlier the root cause of data inconsistency is data redundancy, Data inconsistency has also been taken care of as part of it.
+`Data Security:` DBMS provides various security features to protect data from unauthorized access, modification, or destruction. 
+`Easy access to data:` Database systems manages data in such away so that the data is easily accessible with fast response time.
+`Data Sharing:` DBMS makes it easy to share data among multiple users and applications.
+`Data Scalability:` DBMS can be scaled to accommodate large amounts of data and users.
+`Data backup and recovery:` DBMS provides built-in backup and recovery feaures to protect data from loss or corruption.
+
 
 ### **<br/>Level of Data Abstraction**
 
