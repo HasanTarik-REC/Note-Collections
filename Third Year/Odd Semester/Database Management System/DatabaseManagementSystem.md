@@ -19,6 +19,7 @@
 - [Intermediate SQL][P4]
 - [Advanced SQL][P5]
 - [Formal Relational Query Language][P6]
+- [Database Design and the E-R Model][p7]
 
 
 
@@ -28,5 +29,6 @@
 [P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Database%20Management%20System/Introduction.md
 [P2]: https://github.com/HasanTarik-REC/Note-Collections/
 [P3]: https://github.com/HasanTarik-REC/Note-Collections/
+[p7]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Database%20Management%20System/Database%20Design%20and%20the%20E-R%20Model.md
 
 <!--End-->
