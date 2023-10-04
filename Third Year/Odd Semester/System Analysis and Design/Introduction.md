@@ -2,7 +2,7 @@
 
 ### **<br/>What is a system?**
 
-A system is an orderly group of components linked together to perform pre-defined tasks.
+A system is an orderly group of independent components linked together to perform pre-defined tasks.
 
 
 ### **<br/>What are the elements of a system?**
