@@ -2,7 +2,7 @@
 # Systems Analysis and Design
 
 #### **Saturday  ---------- Introduction</br>**
-#### **Sunday    ---------- Overview</br>**
+#### **Sunday    ---------- System Development Life Cycle</br>**
 #### **Monday    ---------- Systems Analysis</br>**
 #### **Tuesday   ---------- Systems Design</br>**
 #### **Wednesday ---------- Introduction</br>**
@@ -13,7 +13,7 @@
 <hr/>
 
 - [Introduction][P1]
-- [Overview][P2]
+- [System Development Life Cycle][P2]
 - [Systems Analysis][P3]
 - [Systems Design][P4]
 - [System Implementation][P5]
@@ -25,7 +25,7 @@
 
 <!--Links-->
 [P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/Introduction.md
-[P2]: https://github.com/HasanTarik-REC/Note-Collections/
+[P2]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/System%20Development%20Life%20Cycle.md
 [P3]: https://github.com/HasanTarik-REC/Note-Collections/
 
 <!--End-->
