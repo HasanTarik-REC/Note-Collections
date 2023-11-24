@@ -9,9 +9,17 @@ The system development life cycle referred to as the application development lif
 A system development life cycle is a very important process in the system analysis. It describes a system analyst, and how to plan and analyze a system. After analyzing a system, a system analyst needs to design and implement it. That is also in the system development life cycle. The system development life cycle also tells how to maintain a system. So it is directly related to system analysis.
 
 
-### **<br/>Write down the steps of the system development life cycle and discuss them briefly**
+### **<br//>Write down the steps of the system development life cycle and discuss them briefly**
 
 #### `Planning:`
+
+#### `Analysis:`
+
+#### `Design:`
+
+#### `Implementation:`
+
+#### `Maintenance:`
 
 
 ### **<br/>Give insight into the contents of a formal system proposal**
