@@ -18,7 +18,7 @@ The elements of a system are-
 ### **<br/>Can you have a viable system without feedback? Explain.**
 
 
-Yes. We can have a viable system without feedback but it is highly impractical and is not recommended.
+Yes. We can have a viable system without feedback but it is highly impractical and is not recommended.<br/><br/>
 Control in a dynamic system is achieved by feedback. Feedback measures output against a standard in some form of cybernetic procedure that includes communication and control.<br/>
 Feedback may be positive or negative, routine or informational. Positive feedback reinforces the performance of the system. It is routine in nature. Negative feedback generally provides the controller with information for action.
 
