@@ -11,7 +11,7 @@ A system development life cycle is a very important process in the system analys
 
 ### **<br/>Write down the steps of the system development life cycle and discuss them briefly**
 
-### `Planning:`
+#### `Planning:`
 
 
 ### **<br/>Give insight into the contents of a formal system proposal**
