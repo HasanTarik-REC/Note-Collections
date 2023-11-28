@@ -15,6 +15,15 @@ The elements of a system are-
 - Environment
 - Boundaries and interface
 
+### **<br/>Discuss the elements of a system**
+
+`## Outputs and Inputs:` A major objective of a system is to produce an output that has value to its user. In order to get a good output, inputs to the system must be appropriate.
+`## Processors:` It is the element of a system that involves the actual transformation of input into output. It is the operational component of a system.
+`## Control:` The control elements guide the system.
+`## Feedback:` Feedback measures output against a standard in some form of cybernetic procedure that includes communication and control.
+`## Environment:` The environment is the "supra-system" within which an organization operates.
+`## Boundaries and Interface:` A system should be defined by its boundaries the limits that identify its components, processes, and interrelationships when it interfaces with another system.
+
 ### **<br/>Can you have a viable system without feedback? Explain.**
 
 
