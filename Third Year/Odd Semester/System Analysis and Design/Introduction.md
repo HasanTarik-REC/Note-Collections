@@ -17,7 +17,7 @@ The elements of a system are-
 
 ### **<br/>Discuss the elements of a system**
 
-` ## Outputs and Inputs:` A major objective of a system is to produce an output that has value to its user. In order to get a good output, inputs to the system must be appropriate.<br/>
+`## **Outputs and Inputs:**` A major objective of a system is to produce an output that has value to its user. In order to get a good output, inputs to the system must be appropriate.<br/>
 `## Processors:` It is the element of a system that involves the actual transformation of input into output. It is the operational component of a system.<br/>
 `## Control:` The control elements guide the system.<br/>
 `## Feedback:` Feedback measures output against a standard in some form of cybernetic procedure that includes communication and control.<br/>
