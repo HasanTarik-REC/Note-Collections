@@ -51,5 +51,5 @@ The factors are given below
 
 ### **<br/>What internal and external factors influence the system change?**
 
-** `Internal Factors:`**
+` **Internal Factors:**`
 
