@@ -62,6 +62,9 @@ The factors are given below
   - Union
   - Competition
 
-
-
+### **<br/>Protyping**
+An alternative to this "paralysis by analysis" is an advanced technique called prototyping. Prototyping recognizes problems of cognitive style and uses advanced computer technology. It advocates building a simple system through trial and error and refining it through an iterative process.<br/>
+The basic steps are-
+  - Identify the user's information and operating requirements.
+  - Develop a working prototype that focuses on only the most important functions, using a basic data base.
 
