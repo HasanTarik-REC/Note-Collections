@@ -40,3 +40,12 @@ Depending on the result of the initial investigation, a survey is expanded to mo
 
 Depending on the user's request system analyst needs to initial investigation. After the initial investigation, a system analyst or system analyst team builds a demo system. Different system analysts can form different demo systems. According to which system analyst should go forward. Those systems are called candidate systems.
 
+### **<br/>To what extent and how quickly a user-originated idea is converted to a feasibility study depends on which factors?**
+
+The factors are given below
+- The risks and potential returns.
+- Managements bias toward the user.
+- Financial costs, and the funds available for system work.
+- Priorities of other projects in the firm.
+- The persuasive ability of the user.
+
