@@ -44,8 +44,12 @@ Depending on the user's request system analyst needs to initial investigation. A
 
 The factors are given below
 - The risks and potential returns.
-- Managements bias toward the user.
+- Management bias toward the user.
 - Financial costs, and the funds available for system work.
 - Priorities of other projects in the firm.
 - The persuasive ability of the user.
+
+### **<br/>What internal and external factors influence the system change?**
+
+** `Internal Factors:`**
 
