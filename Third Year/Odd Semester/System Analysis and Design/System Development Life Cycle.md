@@ -40,6 +40,22 @@ Depending on the result of the initial investigation, a survey is expanded to mo
 
 Depending on the user's request system analyst needs to initial investigation. After the initial investigation, a system analyst or system analyst team builds a demo system. Different system analysts can form different demo systems. According to which system analyst should go forward. Those systems are called candidate systems.
 
+### **<br/>What are the considerations that act as important factors in deciding a candidate system?**
+
+#### `Considerations for candidate system:`
+  - Operations of existing systems.
+  - Maintenance that focuses on "patching" programs.
+  - Enhancements that involve major modifications in program structure.
+  - Requests for candidate systems.
+#### `On the human side, the computer department has to provide the following:`
+  - Computer operators to run the equipment.
+  - Data entry personnel.
+  - Systems analysts to define and design specifications.
+  - Application programmers to convert system specifications to computer programs.
+  - Maintenance programs to repair errors.
+  - Supervisors, project leaders, and managers to coordinate the jobs with the users.
+
+
 ### **<br/>To what extent and how quickly a user-originated idea is converted to a feasibility study depends on which factors?**
 
 The factors are given below
@@ -63,9 +79,9 @@ The factors are given below
   - Competition
 
 ### **<br/>Protyping**
-An alternative to this "paralysis by analysis" is an advanced technique called prototyping. Prototyping recognizes problems of cognitive style and uses advanced computer technology. It advocates building a simple system through trial and error and refining it through an iterative process.<br/><br/>
-The basic steps are-
+An alternative to this "paralysis by analysis" is an advanced technique called prototyping. Prototyping recognizes problems of cognitive style and uses advanced computer technology. It advocates building a simple system through trial and error and refining it through an iterative process.<br/>
+<br/>The basic steps are-
   - Identify the user's information and operating requirements.
   - Develop a working prototype that focuses on only the most important functions, using a basic database.
   - Allow the user to use the prototype, discuss requested changes, and implement the most important changes.
-  - Repeat the next version of the prototype with further changes. In corporated until the system fully meets user requirements.
+  - Repeat the next version of the prototype with further changes. In corporate until the system fully meets user requirements.
