@@ -51,5 +51,17 @@ The factors are given below
 
 ### **<br/>What internal and external factors influence the system change?**
 
-` **Internal Factors:**`
+#### `Internal Factors:`
+  - Organization
+  - Top management
+  - User
+  - System Analyst
+#### `External Factors:`
+  - Government Rules & Regulations
+  - Consumers
+  - Union
+  - Competition
+
+
+
 
