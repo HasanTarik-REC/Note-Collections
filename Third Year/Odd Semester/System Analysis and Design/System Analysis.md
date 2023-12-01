@@ -24,5 +24,4 @@ There are several reasons why it is difficult to determine user requirements:
 - System requirements change and user requirements must be modified to account for these changes.
 - The articulation of requirements is difficult, expert for experienced users.
 - Heavy user involvement and motivation are difficult.
-- The pattern of interaction between users and analysts in designi
-- ng information requirements is complex.
+- The pattern of interaction between users and analysts in designing information requirements is complex.
