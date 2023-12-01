@@ -26,6 +26,6 @@
 <!--Links-->
 [P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/Introduction.md
 [P2]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/System%20Development%20Life%20Cycle.md
-[P3]: https://github.com/HasanTarik-REC/Note-Collections/
+[P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/System%20Analysis.md
 
 <!--End-->
