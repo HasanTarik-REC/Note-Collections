@@ -30,7 +30,7 @@ Databases touch all aspects of our lives.
 
 
 ### **<br/>Purpose of Database systems**
-<p>The purpose of database systems is to make the database user-friendly and do easy operations. Users can easily insert, update, and delete. Actually, the main purpose is to have more control of the data.<br/></p>
+<p>The purpose of database systems is to make the database user-friendly and do easy operations. Users can easily insert, update, and delete. The main purpose is to have more control of the data.<br/></p>
 
 The purpose of database systems is to manage the following insecurities:<br/>
 1. Data redundancy and inconsistency
@@ -52,10 +52,13 @@ The purpose of database systems is to manage the following insecurities:<br/>
 - `Data Scalability:` DBMS can be scaled to accommodate large amounts of data and users.
 - `Data backup and recovery:` DBMS provides built-in backup and recovery features to protect data from loss or corruption.
 
+### **<br/>Two disadvantages associated with database systems are listed below**
+  a. Database system setup requires more knowledge, money, skills, and time.
+  b. The complexity of the database may result in poor performance.
 
 ### **<br/>Level of Data Abstraction**
 
-- **Physical level**: The lowest level of abstraction describes how the data are actually stored. 
+- **Physical level**: The lowest level of abstraction describes how the data are stored. 
 The physical level describes complex low-level data structures in detail.
 - **Logical level**: The next-higher level of abstraction describes what data are stored in the database, and what 
 relationships exist among those data. The logical level thus describes the entire database in terms of a small number 
