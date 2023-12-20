@@ -8,3 +8,21 @@ Example:
 2. Audio and music processing
 3. Telecommunications
 4. Image and video processing
+
+
+### **<br/>Define signal**
+
+A signal is defined as any physical quantity that varies with time, space, or any other independent variable or variables. 
+Example:
+1. Audio signal
+2. Communication signal
+3. Image signal
+
+### **<br/>Define system**
+
+A system may be defined as a physical device that performs an operation on a signal.
+Example:
+1. Audio system
+2. Control system
+3. Communication system
+4. Image processing system
