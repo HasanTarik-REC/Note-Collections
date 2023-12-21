@@ -12,7 +12,7 @@ Example:
 
 ### **<br/>Define signal**
 
-A signal is defined as any physical quantity that varies with time, space, or any other independent variable or variables. 
+A signal is defined as any physical quantity that varies with time, space, or any other independent variable. 
 Example:
 1. Audio signal
 2. Communication signal
