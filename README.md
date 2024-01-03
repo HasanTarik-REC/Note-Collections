@@ -7,7 +7,7 @@ In this repository, I have stored my all note.
     - [Database Management Systems][PP1]
     - [Digital Signal Processing][S11]
     - [Compiler Design][]
-    - [Computer Networks][]
+    - [Computer Networks][CN1]
     - 
 - ## Even Semester
     - [Software Engineering][]
@@ -54,3 +54,4 @@ In this repository, I have stored my all note.
   [PP1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Database%20Management%20System/DatabaseManagementSystem.md
   [S1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/SystemAnalysisAndDesign.md
   [S11]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Digital%20Signal%20Processing/DigitalSignalProcessing.md
+  [CN1]: https://github.com/HasanTarik-REC/Note-Collections/tree/Feature/Third%20Year/Odd%20Semester/Computer%20Networks
