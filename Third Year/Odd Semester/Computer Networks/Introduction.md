@@ -10,4 +10,5 @@ single technology. Two computers are said to be interconnected if they are able 
   - Mobile Users
   - Social Issues
 
-     
+### **<br/>Can you clarify the mechanism of the client-server model in the context of a computer network?**
+If we look at the client-server model in detail, we see that two processes are involved, one on the client machine and one on the server machine. Communication takes the form of the client process sending a message over the network to the server process. The client process then waits for a reply message. When the server process gets the request, it performs the requested work or looks up the requested data and sends back a reply.
