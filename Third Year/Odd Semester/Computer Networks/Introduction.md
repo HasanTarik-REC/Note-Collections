@@ -72,6 +72,16 @@ The goal is to make all programs equipment, and especially data available to any
 
 `WAN:` A Wide Area Network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking.
 
+### **<br/>Difference between LAN, MAN, and WAN.**
+
+| LAN | MAN | WAN |
+|---|---|---|
+|1. LAN stands for Local Area Network.  |1. MAN stands for Metropolitan Area Network.|1. WAN stands for Wide Area Network.|
+|2. Operates in small areas such as rooms, buildings, and campuses.|2. Operates in large areas such as a city.|2. Operates in large areas such as country or continent.|
+|3. The transmission speed of a LAN is high.|3. The transmission speed of a MAN is average.|3. The transmission speed of a WAN is low.|
+|4. Design and maintenance  are easy.|4. Design and maintenance are more difficult than LAN.|4. Design and maintenance are more difficult than LAN as well MAN.|
+
+
 ### **<br/>Design Issues for the layers**
 - Reliability
   - uses codes for error detection.
