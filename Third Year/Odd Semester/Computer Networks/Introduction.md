@@ -43,3 +43,11 @@ The goal is to make all programs equipment, and especially data available to any
 - Instant messaging.
 - Twitter, Facebook, WhatsApp.
 - E-commerce.
+
+### **<br/>Mobile User Application of Computer Network**
+- Connectivity
+- Mobile Hotspot
+- Texting, sms
+- GPS
+- M-commerce
+- NFC(Near Field Communication)
