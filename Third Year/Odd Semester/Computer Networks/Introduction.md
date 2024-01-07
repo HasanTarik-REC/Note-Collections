@@ -1,7 +1,7 @@
 ### Chapter 1 (Introduction)
 
 ### **<br/>What is Computer Network?**
-Computer network to mean a Collection of autonomous computers interconnected by a
+Computer network is a Collection of autonomous computers interconnected by a
 single technology. Two computers are said to be interconnected if they can exchange information. The connection need not be via a copper wire; fiber optics, microwaves, infrared, and communication satellites can also be used.
 
 ### **<br/>Application of Computer Network**
@@ -31,3 +31,15 @@ The goal is to make all programs equipment, and especially data available to any
      - TeamViewer<br/>
 #### `Tertiary Goal`<br/>
   - E-commerce(electronic commerce)
+
+
+### **<br/>Home Application of Computer Network**
+- Connectivity:
+  - to remote computers.
+  - home users can access information, communicate with other people, and buy products and services with e-commerce.
+  - people can surf the net for fun, movies, chatting, etc.
+  - people can surf the net for news portals.
+  - people can surf the net for research like IEEE, Springers, etc.
+- Instant messaging.
+- Twitter, Facebook, WhatsApp.
+- E-commerce.
