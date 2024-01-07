@@ -74,19 +74,19 @@ The goal is to make all programs equipment, and especially data available to any
 
 ### **<br/>Design Issues for the layers**
 - Reliability
- - uses codes for error detection.
- - error correction
- - They are used at low layers
+  - uses codes for error detection.
+  - error correction
+  - They are used at low layers
 - Routing
- - Finding a working path through a network.
- - addressing or naming.
- - internetworking.
+  - Finding a working path through a network.
+  - addressing or naming.
+  - internetworking.
 - Resource allocation
- - who will get priority
- - flow control
- - Quality of service.
+  - who will get priority
+  - flow control
+  - Quality of service.
 - Confidentiality
- - authentication
- - Integrity
+  - authentication
+  - Integrity
 
 
