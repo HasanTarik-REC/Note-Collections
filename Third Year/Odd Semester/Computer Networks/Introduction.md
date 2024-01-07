@@ -16,18 +16,18 @@ If we look at the client-server model in detail, we see that two processes are i
 
 ### **<br/>Business application of Computer Network**
 `Primary goal`
-###  - Resource sharing:
-      The goal is to make all programs equipment, and especially data available to anyone on the network without regard to the physical location of the resource or the user.
+####  - Resource sharing:
+The goal is to make all programs equipment, and especially data available to anyone on the network without regard to the physical location of the resource or the user.
     - Share printer
     - More important than sharing physical resources - sharing data.
     - Share customer records.
  - VPNs(Virtual Private Networks)
  - Client-Server Model
     - web application<br/>
-### `Secondary Goal`
+#### `Secondary Goal`
  - Powerful communication medium
       - Email, VOIP, Video calling
  - Desktop Sharing
      - TeamViewer<br/>
-### `Tertiary Goal`
-      - e-commerce(electronic commarce)
+#### `Tertiary Goal`
+    - e-commerce(electronic commarce)
