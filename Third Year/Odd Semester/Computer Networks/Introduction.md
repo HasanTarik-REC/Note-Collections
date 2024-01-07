@@ -15,8 +15,8 @@ If we look at the client-server model in detail, we see that two processes are i
 
 
 ### **<br/>Business application of Computer Network**
-`Primary goal`
-####  - Resource sharing:
+#### `Primary goal`
+- Resource sharing:<br/>
 The goal is to make all programs equipment, and especially data available to anyone on the network without regard to the physical location of the resource or the user.
     - Share printer
     - More important than sharing physical resources - sharing data.
