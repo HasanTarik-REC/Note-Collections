@@ -51,3 +51,17 @@ The goal is to make all programs equipment, and especially data available to any
 - GPS
 - M-commerce
 - NFC(Near Field Communication)
+
+### **<br/>Classification of computer network by its scale? How?**
+
+| Interprocessor Distance | Processors located in same |  Example | 
+|---|---|---|
+|    1m  | Square meter | Personal area network |
+|   10m | Room | Local area network | 
+|  100m |  Building | Local area network | 
+|  1km  |  Campus | Local area network | 
+|  10km | City | Metropolitan area network |
+|  100km  | Country | Wide area network |
+|  1000km | Continent | Wide area network |
+|  10000km | Planet | The Internet |
+
