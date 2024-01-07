@@ -14,8 +14,8 @@ single technology. Two computers are said to be interconnected if they can excha
 A distributed System is a collection of autonomous computer systems that are physically separated but are connected by a centralized computer network. The autonomous computers will communicate among each system by sharing resources and files and performing the tasks assigned to them.
 
 ### **<br/>How "Distributed System" is different from a "Computer Network"?**
-A computer network is a Collection of autonomous computers interconnected by a single technology. On the other hand, a Distributed System is a collection of autonomous computer systems that are physically separated but are connected by a centralized computer network.
-The primary goal of computer networks is data communication and resource sharing between independent devices. On the other hand, the primary goal of a distributed system is to achieve a common task or goal  by coordinating the activities of multiple independent computers.
+A computer network is a Collection of autonomous computers interconnected by a single technology. On the other hand, a Distributed System is a collection of autonomous computer systems that are physically separated but are connected by a centralized computer network.<br/>
+The primary goal of computer networks is data communication and resource sharing between independent devices. On the other hand, the primary goal of a distributed system is to achieve a common task or goal  by coordinating the activities of multiple independent computers.<br/>
 Computer network provides services like file sharing, email, internet access, and remote printing. On the other hand, a Distributed system offers features like scalability, parallel processing, fault tolerance, etc.
 
 
