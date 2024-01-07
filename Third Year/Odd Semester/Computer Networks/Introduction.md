@@ -71,3 +71,22 @@ The goal is to make all programs equipment, and especially data available to any
 `MAN:` A Metropolitan Area Network(MAN) is a computer network that interconnects users with computer resources in a geographic region of the size of a metropolitan area(city).
 
 `WAN:` A Wide Area Network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking.
+
+### **<br/>Design Issues for the layers**
+- Reliability
+ - uses codes for error detection.
+ - error correction
+ - They are used at low layers
+- Routing
+ - Finding a working path through a network.
+ - addressing or naming.
+ - internetworking.
+- Resource allocation
+ - who will get priority
+ - flow control
+ - Quality of service.
+- Confidentiality
+ - authentication
+ - Integrity
+
+
