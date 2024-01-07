@@ -12,3 +12,22 @@ single technology. Two computers are said to be interconnected if they are able 
 
 ### **<br/>Can you clarify the mechanism of the client-server model in the context of a computer network?**
 If we look at the client-server model in detail, we see that two processes are involved, one on the client machine and one on the server machine. Communication takes the form of the client process sending a message over the network to the server process. The client process then waits for a reply message. When the server process gets the request, it performs the requested work or looks up the requested data and sends back a reply.
+
+
+### **<br/>Business application of Computer Network**
+`Primary goal`
+  - Resource sharing:
+      The goal is to make all programs equipment, and especially data available to anyone on the network without regard to the physical location of the resource or the user.
+    - Share printer
+    - More important than sharing physical resources - sharing data.
+    - Share customer records.
+ - VPNs(Virtual Private Networks)
+ - Client-Server Model
+    - web application
+`Secondary Goal`
+ - Powerful communication medium
+      - Email, VOIP, Video calling
+ - Desktop Sharing
+     - TeamViewer
+`Tertiary Goal`
+      - e-commerce(electronic commarce)
