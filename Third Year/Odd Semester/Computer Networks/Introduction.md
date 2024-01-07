@@ -2,7 +2,7 @@
 
 ### **<br/>What is Computer Network?**
 Computer network to mean a Collection of autonomous computers interconnected by a
-single technology. Two computers are said to be interconnected if they are able to exchange information. The connection need not be via a copper wire; fiber optics, microwaves, infrared, and communication satellites can also be used.
+single technology. Two computers are said to be interconnected if they can exchange information. The connection need not be via a copper wire; fiber optics, microwaves, infrared, and communication satellites can also be used.
 
 ### **<br/>Application of Computer Network**
   - Business Application
@@ -29,5 +29,5 @@ The goal is to make all programs equipment, and especially data available to any
       - Email, VOIP, Video calling
  - Desktop Sharing
      - TeamViewer<br/>
-#### `Tertiary Goal`
-    - e-commerce(electronic commarce)
+#### `Tertiary Goal`<br/>
+  - E-commerce(electronic commerce)
