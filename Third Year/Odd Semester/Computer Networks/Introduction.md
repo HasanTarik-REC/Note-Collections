@@ -1,7 +1,7 @@
 ### Chapter 1 (Introduction)
 
 ### **<br/>What is Computer Network?**
-Computer network is a Collection of autonomous computers interconnected by a
+A computer network is a Collection of autonomous computers interconnected by a
 single technology. Two computers are said to be interconnected if they can exchange information. The connection need not be via a copper wire; fiber optics, microwaves, infrared, and communication satellites can also be used.
 
 ### **<br/>Application of Computer Network**
@@ -9,6 +9,15 @@ single technology. Two computers are said to be interconnected if they can excha
   - Home Application
   - Mobile Users
   - Social Issues
+
+### **<br/>Define Distributed System**
+A distributed System is a collection of autonomous computer systems that are physically separated but are connected by a centralized computer network. The autonomous computers will communicate among each system by sharing resources and files and performing the tasks assigned to them.
+
+### **<br/>How "Distributed System" is different from a "Computer Network"?**
+A computer network is a Collection of autonomous computers interconnected by a single technology. On the other hand, a Distributed System is a collection of autonomous computer systems that are physically separated but are connected by a centralized computer network.
+The primary goal of computer networks is data communication and resource sharing between independent devices. On the other hand, the primary goal of a distributed system is to achieve a common task or goal  by coordinating the activities of multiple independent computers.
+Computer network provides services like file sharing, email, internet access, and remote printing. On the other hand, a Distributed system offers features like scalability, parallel processing, fault tolerance, etc.
+
 
 ### **<br/>Can you clarify the mechanism of the client-server model in the context of a computer network?**
 If we look at the client-server model in detail, we see that two processes are involved, one on the client machine and one on the server machine. Communication takes the form of the client process sending a message over the network to the server process. The client process then waits for a reply message. When the server process gets the request, it performs the requested work or looks up the requested data and sends back a reply.
