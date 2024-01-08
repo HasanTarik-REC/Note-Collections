@@ -61,8 +61,35 @@ The goal is to make all programs equipment, and especially data available to any
 - M-commerce
 - NFC(Near Field Communication)
 
-### **<br/>Classification of computer network by its scale? How?**
+### **<br/>What kinds of transmission technology we use?**
+There are two types of transmission technology that are in widespread use.
+    - Broadcast links.
+    - Point-to-point links.
 
+### **<br/>Define broadcast, multicast, unicast, and point-to-point  transmission technology.**
+- Unicast
+    `Definition:` Unicast is a one-to-one communication method where data is sent from one sender to one specific receiver. It is the most common form of communication in networks and the internet. In unicast, the sender and the receiver have a dedicated, individual connection.
+- Broadcast
+    `Definition:` Broadcast is a one-to-all communication method where data is sent from one sender to all devices in the network. It is a broadcast mechanism where the information is distributed to all connected devices, and each device decides whether to process the information based on its own criteria.
+- Multicast
+    `Definition:` Multicast is a one-to-many or many-to-many communication method where data is sent from one sender to a specific group of receivers. In multicast, the sender transmits data to a multicast group, and only the devices that are part of that group receive the data. It's a more efficient way to transmit data to multiple recipients without sending separate copies to each one.
+- Point-to-Point
+    `Definition:` Point-to-Point communication refers to a direct, dedicated connection between two devices. It is a communication model where data is exchanged between a single sender and a single receiver without involving other devices. 
+
+
+### **<br/>Can you distinguish between point-to-point and broadcast link?**
+`Point-to-Point Link:`
+    - Point-to-point links involve a dedicated communication channel between exactly two devices.
+    - Data transmission occurs exclusively between the two connected devices.
+    - This type of communication forms a direct, one-to-one connection.
+    - Example: Leased lines, VPN connections, USB cables.
+`Broadcast Link:`
+    - Broadcast links involve a communication channel where data from one sender is transmitted to all devices in the network.
+    - Data is broadcasted to all devices on the network, and each device decides whether to process the information based on its own criteria.
+    - This type of communication is more one-to-all or one-to-many, where one sender reaches multiple receivers.
+    - Example: Wi-Fi signals, radio broadcasts, public announcements.
+
+### **<br/>Classification of computer network by its scale? How?**
 | Interprocessor Distance | Processors located in same |  Example | 
 |---|---|---|
 |    1m  | Square meter | Personal area network |
