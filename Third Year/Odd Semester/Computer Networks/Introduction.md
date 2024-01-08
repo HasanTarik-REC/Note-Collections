@@ -83,6 +83,7 @@ There are two types of transmission technology that are in widespread use.
   - Data transmission occurs exclusively between the two connected devices.
   - This type of communication forms a direct, one-to-one connection.
 - Example: Leased lines, VPN connections, USB cables.<br/>
+
 `Broadcast Link:`<br/>
   - Broadcast links involve a communication channel where data from one sender is transmitted to all devices in the network.
   - Data is broadcasted to all devices on the network, and each device decides whether to process the information based on its own criteria.
