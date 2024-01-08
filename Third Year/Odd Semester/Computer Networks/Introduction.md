@@ -82,7 +82,6 @@ The goal is to make all programs equipment, and especially data available to any
 `WAN:` A Wide Area Network(WAN) is a telecommunications network that extends over a large geographical area for the primary purpose of computer networking.
 
 ### **<br/>Difference between LAN, MAN, and WAN.**
-
 | LAN | MAN | WAN |
 |---|---|---|
 |1. LAN stands for Local Area Network.  |1. MAN stands for Metropolitan Area Network.|1. WAN stands for Wide Area Network.|
@@ -90,6 +89,20 @@ The goal is to make all programs equipment, and especially data available to any
 |3. The transmission speed of a LAN is high.|3. The transmission speed of a MAN is average.|3. The transmission speed of a WAN is low.|
 |4. Design and maintenance  are easy.|4. Design and maintenance are more difficult than LAN.|4. Design and maintenance are more difficult than LAN as well MAN.|
 
+
+### **<br/>Define protocol and protocol stack**
+A protocol is an agreement
+between the communicating
+parties on how communication is to
+proceed.<br/>
+A list of protocols used by a certain system, one protocol per layer, is called a protocol stack.
+
+### **<br/>Define network architecture**
+A set of layers and protocols is called a network architecture.
+
+### **<br/>Define peer**
+The entities comprising the corresponding layers on different machines are called peers. The peers may be processes, hardware devices, or even human beings. In other words, it is the peers that communicate by using protocol.
+A five-layer network is illustrated in Fig. 1
 
 ### **<br/>Design Issues for the layers**
 - Reliability
