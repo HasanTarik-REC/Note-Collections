@@ -101,7 +101,7 @@ A list of protocols used by a certain system, one protocol per layer, is called 
 A set of layers and protocols is called a network architecture.
 
 ### **<br/>Define peer**
-The entities comprising the corresponding layers on different machines are called peers. The peers may be processes, hardware devices, or even human beings. In other words, it is the peers that communicate by using protocol.
+The entities comprising the corresponding layers on different machines are called peers. The peers may be processes, hardware devices, or even human beings. In other words, it is the peers that communicate by using protocol.<br/>
 A five-layer network is illustrated in Fig. 1
 
 ### **<br/>Design Issues for the layers**
