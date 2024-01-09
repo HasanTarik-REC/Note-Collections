@@ -175,7 +175,7 @@ A five-layer network is illustrated in Fig. 1
 - The OSI model is not a protocol.
 - It is only a guideline and hence it is referred as OSI reference model.
 
-`### Purpose of the OSI model:`<br/>
+#### `Purpose of the OSI model:`<br/>
 - To show how to facilitate communication between different systems without requiring changes to the logic of the underlying hardware and software.
 - The OSI model was never fully implemented.
 
