@@ -10,6 +10,21 @@ single technology. Two computers are said to be interconnected if they can excha
   - Mobile Users
   - Social Issues
 
+### **<br/>Some negative and positive uses of computer network**
+Positive Uses:<br/>
+- Efficient communication
+- Information access on the internet
+- Collaborative work environment
+- Resource sharing
+- E-commerce
+- Remote access<br/>
+
+Negative Uses:<br/>
+- Cyber crime
+- Unauthorized access to sensitive data
+- Spreading Fake News and Propaganda
+- Social media and online game Addiction
+
 ### **<br/>Define Distributed System**
 A distributed System is a collection of autonomous computer systems that are physically separated but are connected by a centralized computer network. The autonomous computers will communicate among each system by sharing resources and files and performing the tasks assigned to them.
 
