@@ -164,4 +164,44 @@ A five-layer network is illustrated in Fig. 1
   - authentication
   - Integrity
 
+### **<br/>There are two reference model**
+- OSI (Open System Interconnection)
+- TCP/IP
+
+### **<br/>The OSI reference model**
+- OSI stands for Open System Interconnection.
+- It is a model for understanding and designing a newtork architecture that is flexible, robust, and interoperable.
+- Developed by International Standards Organization(ISO).
+- The OSI model is not a protocol.
+- It is only a guideline and hence it is referred as OSI reference model.
+
+`### Purpose of the OSI model:`<br/>
+- To show how to facilitate communication between different systems without requiring changes to the logic of the underlying hardware and software.
+- The OSI model was never fully implemented.
+
+### **<br/>Layers in the OSI Reference Model**
+- Application layer
+- Presentation layer
+- Session layer
+- Transport layer
+- Network layer
+- Data Link layer
+- Phisical layer<br/>
+Order of the layer is very important. We cann't change the order of layer.
+
+### **<br/>What do you know about the primary concern of the Physical Layer?**
+The physical layer is concerned with transmitting raw bits over a communication channel..
+
+### **<br/>The design issues are applicable for a physical layer**
+- When one side sends as a 1 bit, it is received by the other side as a 1 bit, not as a 0 bit.
+- What electrical signals should be used to represent a 1 and a 0.
+- How many nenoseconds a bit lasts.
+- Wherther transmission may proceed simultaneously in both directions,
+- How the initial connection is established.
+- How it torn down when both sides are finished,
+- How many pins the network connector has, and
+- What each pin is used for.
+
+
+
 
