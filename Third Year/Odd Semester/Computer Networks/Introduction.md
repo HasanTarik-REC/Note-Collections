@@ -62,9 +62,9 @@ The goal is to make all programs equipment, and especially data available to any
 - NFC(Near Field Communication)
 
 ### **<br/>What kinds of transmission technology we use?**
-There are two types of transmission technology that are in widespread use.
-    - Broadcast links.
-    - Point-to-point links.
+There are two types of transmission technology that are in widespread use.<br/>
+- Broadcast links.
+- Point-to-point links.
 
 ### **<br/>Define broadcast, multicast, unicast, and point-to-point  transmission technology.**
 - Unicast<br/>
