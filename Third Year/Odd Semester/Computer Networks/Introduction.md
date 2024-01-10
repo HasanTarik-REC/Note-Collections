@@ -208,7 +208,7 @@ The physical layer is concerned with transmitting raw bits over a communication 
 - Interfaces.
 - Protocols.<br/><br/>
 Probably the biggest  contribution of the OSI model is to make the distinction between these three concepts explicit. Each layer performs some services for the layer above it.<br/>
-- The service definition tells what the layer does, not how entities above it access it or how the layer works. It defines the layer's semantics.<br/>
-- A layer's interface tells the processes above it how to access it. It specifies what the parameters are and what results to expect. It, too, says nothing about how the layer works inside.<br/>
-- The peer protocols used in a layer are the layer's own business. It can use any protocols it wants to as long as  it gets the job done. It can also change them at will without affecting software in higher layers.
+The **`service`** definition tells what the layer does, not how entities above it access it or how the layer works. It defines the layer's semantics.<br/>
+A layer's **`interface`** tells the processes above it how to access it. It specifies what the parameters are and what results to expect. It, too, says nothing about how the layer works inside.<br/>
+The peer **`protocols`** used in a layer are the layer's own business. It can use any protocols it wants to as long as  it gets the job done. It can also change them at will without affecting software in higher layers.
 
