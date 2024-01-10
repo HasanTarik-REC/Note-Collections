@@ -222,3 +222,22 @@ The peer **`protocols`** used in a layer are the layer's own business. It can us
 **`Bad technology:`** The second reason that OSI never caught on is that both the model and the protocols are flawed. The choice of seven layers was more political than technical, and two of the layers(session and presentation) are nearly empty, whereas two other ones (data link and network) are overfull.<br/><br/>
 **`Bad implementations:`** The OSI model is extraordinarily and much more complex due to which initial implementations were very slow, huge, and unwidely. This is the third reason due to which OSI became synonymous with poor quality in early days.<br/><br/>
 **`Bad Politics:`** OSI model was not associated with UNIX. This was fourth reason to failure of the OSI model. On that time, TCP/IP was largely and closely associated with Unix, which helps TCP/IP to get popular in academia.
+
+### **<br/>Differences between OSI Model and TCP/IP Model**
+| OSI Model | TCP/IP Model |
+|---|---|
+| OSI stands for Open Systems Interconnection.| TCP/IP stands for Transmission Control Protocol/Internet Protocol.|
+| It has 7 layers.| It has 4 layers.|
+| It is low in usage.| It is mostly used.|
+| It is vertically approached.| It is horizontally approached.|
+| Delivery of the package is guaranteed in OSI Model.| Delivery of the package is not guaranteed in TCP/IP Model.|
+| Replacement of tools and changes can easily be done in this model.| eplacing the tools is not easy in this model.|
+| It is less reliable than TCP/IP Model.| It is more reliable than OSI Model.|
+
+### **<br/>What is ARPANET?**
+ARPANET, stands for Advanced Research Projects Agency Network, was the first wide-area packet-switched network with distributed control. It was first to implement TCP/IP protocols. It was basically beginning of Internet with use of these technologies. It was designed with a basic idea in mind that was to communicate with scientific users among an institute or university. It played a crucial role in paving the way for the modern internet.<br/><br/>
+Characteristics of ARPANET :<br/>
+- It is basically a type of WAN.<br/>
+- It used concept of Packet Switching Network.<br/>
+- It used Interface Message Processors(IMPs) for sub-netting.<br/>
+- ARPANETs software was split into two parts- a host and a subnet.<br/>
