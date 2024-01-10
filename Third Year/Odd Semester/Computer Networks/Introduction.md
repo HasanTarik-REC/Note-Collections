@@ -212,3 +212,13 @@ The **`service`** definition tells what the layer does, not how entities above i
 A layer's **`interface`** tells the processes above it how to access it. It specifies what the parameters are and what results to expect. It, too, says nothing about how the layer works inside.<br/>
 The peer **`protocols`** used in a layer are the layer's own business. It can use any protocols it wants to as long as  it gets the job done. It can also change them at will without affecting software in higher layers.
 
+
+### **<br/>The reasons for the failure of the OSI reference model**
+- Bad timing.
+- Bad technology.
+- Bad implementations.
+- Bad politics.<br/><br/>
+**`Bad timing:`** When the OSI came around, this model was perfectly released regarding research, but at that time TCP/IP model was already receiving huge amounts of investments from companies and manufacturers did not feel like investing in OSI model. So, there were no initial offerings for using OSI technique. While every company waited for any of other companies to firstly use this model technique, but unfortunately none of company went first to use this model. This is first reason to failure the OSI reference model.<br/><br/>
+**`Bad technology:`** The second reason that OSI never caught on is that both the model and the protocols are flawed. The choice of seven layers was more political than technical, and two of the layers(session and presentation) are nearly empty, whereas two other ones (data link and network) are overfull.<br/><br/>
+**`Bad implementations:`** The OSI model is extraordinarily and much more complex due to which initial implementations were very slow, huge, and unwidely. This is the third reason due to which OSI became synonymous with poor quality in early days. It turned out to not be essential and necessary for all of seven layers to be designed together to simply make things work out.<br/><br/>
+**`Bad Politics:`** OSI model was not associated with UNIX. This was fourth reason to failure of the OSI model. On that time, TCP/IP was largely and closely associated with Unix, which helps TCP/IP to get popular in academia.
