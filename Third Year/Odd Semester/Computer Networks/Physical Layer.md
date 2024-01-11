@@ -17,10 +17,7 @@ Packet switching is a method of data transmission in computer networks where mes
 ### **<br/>Defference between circuit switching and packet switching.**
 | Circuit Switching | Packet Switching |
 |---|---|
-|1.In-circuit switching has 3 phases: 
-i) Connection Establishment. 
-ii) Data Transfer. 
-iii) Connection Released.|1.In Packet switching directly data transfer takes place.|
+|1.In-circuit switching has 3 phases: Connection Establishment, Data Transfer, Connection Released.|1.In Packet switching directly data transfer takes place.|
 |2.Connection-oriented|2.Connectionless|
 |3.Less efficient|3.More efficient|
 |4.Call setup is required in circuit switching.|4.No call setup is required in packet switching.|
