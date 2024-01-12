@@ -33,7 +33,7 @@ The X.25 protocol is a suite of standards developed by the International Telecom
 ### **<br/>X.25 protocol specifies 3 layers**
 - Physical Layer
 - Frame Layer
-- Packet Layer<br/>
+- Packet Layer
 
 ### **<br/>Functionalty of X.25**
 X.25 network devices fall into three general
@@ -41,23 +41,22 @@ categories:<br/>
 1. Data Terminal Equipment (DTE),
 2. Data Circuit-terminating Equipment (DCE),
 3. Packet-switching Exchange (PSE)
-    - PAD- Packet Assembler/ Dissembler<br/><br/>
+    - PAD- Packet Assembler/ Dissembler<br/>
 
-#### `**DTE**`<br/>
+#### **`DTE`**<br/>
 - Data terminal equipment devices are end systems that communicate across the X.25
 - They are usually Terminals, personal computers, or network hosts, and are located on the premises of individual subscribers.
-<br/>
 
-#### `**DCE**`<br/>
+#### **`DCE`**<br/>
 - DCE devices are communications devices, such as Modems and packet switches, that provide the interface between DTE devices and a PSE, and are generally located in the carrier's facilities.<br/>
 - PSEs are switches that compose the bulk of the carrier’s network.<br/>
-- They transfer data from one DTE device to another through the X.25 PSN.<br/>
+- They transfer data from one DTE device to another through the X.25 PSN.
 
-#### `**PSE**`<br/>
+#### **`PSE`**<br/>
 - PSEs are switches that compose the bulk of the carrier's network.
-- They transfer data from one DTE device to another through the X.25 PSN.<br/>
+- They transfer data from one DTE device to another through the X.25 PSN.
 
-#### `**Packet Assembler/Disassembler(PAD)**`<br/>
+#### **`Packet Assembler/Disassembler(PAD)`**<br/>
 - The packet assembler/disassembler (PAD) is a device commonly found in X.25 networks.
 - The PAD is located between a DTE device and a DCE device, and 
 - It performs three primary functions:<br/>
