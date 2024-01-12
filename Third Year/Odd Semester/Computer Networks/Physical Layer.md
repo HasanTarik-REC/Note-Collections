@@ -25,3 +25,42 @@ Packet switching is a method of data transmission in computer networks where mes
 |6.Less flexible|6.More flexible|
 |7.More expensive|7.Often cheaper|
 |8.Real-time communication (voice,video)|8.General data transfer (Internet,Email)|
+
+
+### **<br/>Define X.25 protocol**
+The X.25 protocol is a suite of standards developed by the International Telecommunication Union (ITU) that defines how data communication works in wide area networks (WANs) using packet switching.  It was first published in 1976 and played a crucial role in the early development of the internet, but has largely been superseded by more modern protocols like IP.
+
+### **<br/>X.25 protocol specifies 3 layers**
+- Physical Layer
+- Frame Layer
+- Packet Layer<br/>
+
+### **<br/>Functionalty of X.25**
+X.25 network devices fall into three general
+categories:<br/>
+1. Data Terminal Equipment (DTE),
+2. Data Circuit-terminating Equipment (DCE),
+3. Packet-switching Exchange (PSE)
+    - PAD- Packet Assembler/ Dissembler<br/><br/>
+
+#### `**DTE**`<br/>
+- Data terminal equipment devices are end systems that communicate across the X.25
+- They are usually Terminals, personal computers, or network hosts, and are located on the premises of individual subscribers.
+<br/>
+
+#### `**DCE**`<br/>
+- DCE devices are communications devices, such as Modems and packet switches, that provide the interface between DTE devices and a PSE, and are generally located in the carrier's facilities.<br/>
+- PSEs are switches that compose the bulk of the carrier’s network.<br/>
+- They transfer data from one DTE device to another through the X.25 PSN.<br/>
+
+#### `**PSE**`<br/>
+- PSEs are switches that compose the bulk of the carrier's network.
+- They transfer data from one DTE device to another through the X.25 PSN.<br/>
+
+#### `**Packet Assembler/Disassembler(PAD)**`<br/>
+- The packet assembler/disassembler (PAD) is a device commonly found in X.25 networks.
+- The PAD is located between a DTE device and a DCE device, and 
+- It performs three primary functions:<br/>
+    - Buffering (storing data until a device is ready to process it),
+    - Packet assembly,
+    - Packet disassembly.
