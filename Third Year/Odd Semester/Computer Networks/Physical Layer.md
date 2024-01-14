@@ -106,7 +106,7 @@ necessary because the session is always active.
 - PTI or Packet Type Identifier defines the type of packet, viz. data packet or control packet.
 
 
-### **<br/>PLP Packet
+### **<br/>PLP Packet**
 - GFI or General Format Identifier is a 4 bit field.<br/>
     - The first bit (Q bit, Qualifier) defined source of control information.<br/>
         - 0 for PLP and 1 for upper layer protocol.<br/>
