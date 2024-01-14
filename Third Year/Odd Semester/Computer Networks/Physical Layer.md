@@ -63,3 +63,62 @@ categories:<br/>
     - Buffering (storing data until a device is ready to process it),
     - Packet assembly,
     - Packet disassembly.
+
+ ### **<br/>X.25 Protocol**
+- Communication in this layer involves 3 phases:<br/>
+    - Link Set Up
+    - Data and Control transfer
+    - Link disconnect
+- These phases use different frames such as:<br/>
+    - **`U-Frame:`**  U-Frame is used to set up and disconnect the conncetion between DTE and DCE.
+    - **`I-Frame:`** I-Frames are used to encapsulate PLP packets from the upper layer.
+    - **`S-Frame:`** S-Frame is used to for error control and flow control.
+
+
+### **<br/>Virtual Circuits in X.25**
+- Two types of virtual circuit exists in x.25<br/>
+    - Switched virtual circuits (SVCs)<br/>
+    - Permanent virtual circuit (PVCs)<br/>
+
+### **<br/>Switched virtual circuits**
+Switched virtual circuits (SVCs) are temporary connections
+used for irregular data transfers. They require that two DTE
+devices establish, maintain, and terminate a session each time
+the devices need to communicate.
+### **<br/>Permanent virtual circuits**
+Permanent virtual circuits (PVCs)are permanently established
+connections used for frequent and consistent data transfers.
+PVCs do not require that sessions be established and
+terminated.<br/>
+Therefore, DTEs can begin transferring data whenever
+necessary because the session is always active.
+
+### **<br/>The following 5 events occur in X.25 protocol**
+- Link is set up between local DTE & DCE node and also between the remote DTE and DCE.
+- VC is established between local and remote DTE.
+- Data is transferred between two DTEs.
+- VC is released.
+- Link is desconnected.
+
+### **<br/>PLP Packet**
+- GFI or General Format Identifier is a 4 bit field.
+- LCN- Logical Channel Number
+- PTI or Packet Type Identifier defines the type of packet, viz. data packet or control packet.
+
+
+### **<br/>PLP Packet
+- GFI or General Format Identifier is a 4 bit field.<br/>
+    - The first bit (Q bit, Qualifier) defined source of control information.<br/>
+        - 0 for PLP and 1 for upper layer protocol.<br/>
+    - The D bit(Delivery) defines which device should acknowledge the packet 0 for local DCE, 1 for remote DTE.<br/>
+    - The last two bits indicate size of sequence number fields.<br/>
+- LCN- Logical Channel Number<br/>
+    - 12 bit
+
+### **<br/>PLP Packet<br/>Virtual Channel ID Numbers**
+- Up to 4096(2^12) multiplexed channels between each DTE and DCE.
+- The calling and called hosts use different numbers.
+
+### **<br/>LCNs in X.25**
+- Logical Channel Number identifies the VC at different sections of the network.<br/>
+- A pair of LCN is defined when a VC is established between two DTE's.
