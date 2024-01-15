@@ -122,3 +122,55 @@ necessary because the session is always active.
 ### **<br/>LCNs in X.25**
 - Logical Channel Number identifies the VC at different sections of the network.<br/>
 - A pair of LCN is defined when a VC is established between two DTE's.
+
+
+### **<br/>MAC (Medium Access Control)**
+- The protocols used to determine who goes next on a multiaccess channel belong to a sublayer of the data link layer called the MAC (Medium Access Control) sublayer.<br/>
+- The MAC sublayer is especially important in LANs, particularly wireless ones because wireless is naturally a broadcast channel.
+
+### **<br/>The Channel Allocation Problem**
+There are two scheme-<br/>
+- Static Channel Allocation
+- Dynamic Channel Allocation
+
+### **<br/>Network links can be divided into two categories:**
+- Those using point-to-point connections, and
+- Those using broadcast channels.
+
+### **<br/>Assumptions on dynamic channel allocation**
+- Independent Trafic.
+- Single channel.
+- Observable collision.
+- Continuous or slotted time.
+- Carrier sense or No carrier sense.
+
+### **<br/>Fixed/Static Channel Allocation**
+Fixed Channel Allocation is a strategy in which fixed number of channels or voice channels are allocated to the cells. Once the channels are allocated to the specific cells then they cannot be changed. In FCA channels are allocated in a manner that maximize Frequency reuse. If all channels are occupied and user make a call then the call is blocked. Borrowing Channels handles this type of problem. In this cell borrow channels from other cells.
+### **<br/>Dynamic Channel Allocation**
+Dynamic Channel Allocation is a strategy in which channels are not permanently allocated to the cells. When a User makes a call request then Base Station(BS) send that request to the Mobile Station Center(MSC) for the allocation of channels or voice channels. This way the likelihood of blocking calls is reduced.
+
+### **<br/>How a channel can be allocated statically?**
+Suppose that there are N competing users. Here, the total bandwidth is divided into N discrete channels using frequency division multiplexing (FDM). In most cases, the size of the channels is equal. Each of these channels is assigned to one user.<br/>
+o User needed to be constant N.
+o When some users are quiescent, their bandwidth is simply lost.
+o The traffic ratios  will 1000:1
+o Most of the channels will be idle most of the time
+
+### **<br/>The working principle of the pure Aloha protocol with its limitations.**
+**`Working Principle of Pure Aloha:`**<br/>
+**`Transmission:`** A user can transmit a frame at any time when it has data to send. There is no need to wait for a specific time slot or permission.
+**`Collision Detection:`** After transmitting a frame, the sender listens for an acknowledgment from the receiver. If the sender does not receive an ACK within a certain time window, it assumes that a collision has occurred.
+**`Collision Resolution:`** Upon detecting a collision, the sender stops transmitting and waits for a random amount of time before attempting to resend the frame.
+**`Acknowledgment:`** If the receiver successfully receives the frame, it sends an acknowledgment back to the sender. The sender considers the transmission successful if it receives the acknowledgment within the acknowledgment time window.<br/>
+**`Limitations of Pure Aloha:`**<br/>
+**`Vulnerability to Collisions:`** The primary limitation of Pure Aloha is its vulnerability to collisions. If two or more stations transmit at the same time, their signals may overlap, leading to a collision.
+**`Scalability Issues:`** As the number of users increases, the likelihood of collisions also increases, leading to reduced efficiency. Pure Aloha becomes less scalable in terms of handling a larger number of stations sharing the same channel.
+**`Low Efficiency:`** Pure Aloha is not very efficient because a significant portion of the channel time is wasted due to collisions and retransmissions. The protocol allows users to transmit at any time, which increases the likelihood of collisions.
+
+
+### **<br/>How the slotted Aloha has minimized the shortcoming?**
+**`Time Slot Synchronization:`** In Slotted Aloha, time is divided into fixed-length slots, and each slot corresponds to the time it takes to transmit one frame. All stations are required to synchronize their transmissions to these time slots.<br/>
+**`Transmission Timing:`** Stations are allowed to transmit only at the beginning of a time slot. This eliminates the possibility of collisions within a slot because only one station can transmit during that specific time interval.<br/>
+**`Reduced Collision Probability:`** Since transmissions occur only at the beginning of time slots, the probability of two or more stations attempting to transmit simultaneously is significantly reduced compared to Pure Aloha. This reduces the likelihood of collisions.<br/>
+**`System Scalability:`** Slotted Aloha is more scalable than Pure Aloha in terms of handling a larger number of stations. The introduction of time slots reduces the probability of collisions, allowing the system to operate more efficiently even as the number of stations increases.<br/>
+
