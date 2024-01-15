@@ -158,13 +158,13 @@ o Most of the channels will be idle most of the time
 
 ### **<br/>The working principle of the pure Aloha protocol with its limitations.**
 **`Working Principle of Pure Aloha:`**<br/>
-**`Transmission:`** A user can transmit a frame at any time when it has data to send. There is no need to wait for a specific time slot or permission.
-**`Collision Detection:`** After transmitting a frame, the sender listens for an acknowledgment from the receiver. If the sender does not receive an ACK within a certain time window, it assumes that a collision has occurred.
-**`Collision Resolution:`** Upon detecting a collision, the sender stops transmitting and waits for a random amount of time before attempting to resend the frame.
+**`Transmission:`** A user can transmit a frame at any time when it has data to send. There is no need to wait for a specific time slot or permission.<br/>
+**`Collision Detection:`** After transmitting a frame, the sender listens for an acknowledgment from the receiver. If the sender does not receive an ACK within a certain time window, it assumes that a collision has occurred.<br/>
+**`Collision Resolution:`** Upon detecting a collision, the sender stops transmitting and waits for a random amount of time before attempting to resend the frame.<br/>
 **`Acknowledgment:`** If the receiver successfully receives the frame, it sends an acknowledgment back to the sender. The sender considers the transmission successful if it receives the acknowledgment within the acknowledgment time window.<br/>
 **`Limitations of Pure Aloha:`**<br/>
-**`Vulnerability to Collisions:`** The primary limitation of Pure Aloha is its vulnerability to collisions. If two or more stations transmit at the same time, their signals may overlap, leading to a collision.
-**`Scalability Issues:`** As the number of users increases, the likelihood of collisions also increases, leading to reduced efficiency. Pure Aloha becomes less scalable in terms of handling a larger number of stations sharing the same channel.
+**`Vulnerability to Collisions:`** The primary limitation of Pure Aloha is its vulnerability to collisions. If two or more stations transmit at the same time, their signals may overlap, leading to a collision.<br/>
+**`Scalability Issues:`** As the number of users increases, the likelihood of collisions also increases, leading to reduced efficiency. Pure Aloha becomes less scalable in terms of handling a larger number of stations sharing the same channel.<br/>
 **`Low Efficiency:`** Pure Aloha is not very efficient because a significant portion of the channel time is wasted due to collisions and retransmissions. The protocol allows users to transmit at any time, which increases the likelihood of collisions.
 
 
