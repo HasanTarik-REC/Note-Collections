@@ -174,3 +174,62 @@ o Most of the channels will be idle most of the time
 **`Reduced Collision Probability:`** Since transmissions occur only at the beginning of time slots, the probability of two or more stations attempting to transmit simultaneously is significantly reduced compared to Pure Aloha. This reduces the likelihood of collisions.<br/>
 **`System Scalability:`** Slotted Aloha is more scalable than Pure Aloha in terms of handling a larger number of stations. The introduction of time slots reduces the probability of collisions, allowing the system to operate more efficiently even as the number of stations increases.<br/>
 
+### **<br/>Carrier Sense Multiple Access Protocols**
+- Carrier Sense Multiple Access Protocols - CSMA
+- Protocols in which stations listen for a carrier and act accordingly are called carrier sense
+protocols
+
+### **<br/>The working principle of the 1 - Persistent CSMA Protocol**
+- A station first listens to the channel to see if anyone else is transmitting at that moment.
+- If the channel is idle, the stations sends its data.
+- If the channel is busy, the station waits until it become idle. Then the station transmits a frame.
+- If a collision occurs, the station waits a random amount of time and starts all over again.
+- The protocol is called 1-persistent because the station transmits with a probability of 1 when it finds the channel idle.
+
+
+### **<br/>Nonpersistent CSMA**
+A second carrier sense protocol is nonpersistent CSMA.<br/>
+- A station senses the channel when it wants to send a frame, and if no one else is sending, the station begins doing so itself.
+- However, if the channel is already in use, the station does not continually sense it for the purpose of seizing it immediately upon detecting the end of the previous transmission.
+- Instead, it waits a random period of time and then repeats the algorithm.
+
+### **<br/>P-persistent CSMA**
+The last carrier sense protocol is p-persistent CSMA.<br/>
+It applies to slotted channels and works as follows:<br/>
+- When a station becomes ready to send, it senses the channel.
+- If it is idle, it transmits with a probability p.
+- With a probability q = 1 - p, it defers until the next slot.
+- If that slot is also idle, it either transmits or defers again, with probabilities p and q.
+- This process is repeated until either the frame has been transmitted or another station has begun transmitting.
+- If there had been a collision - it waits a random time and starts again.
+- If the station initially senses that the channel is busy, it waits until the next slot and applies the above algorithm.
+
+### **<br/>Compare between CSMA/CA and CSMA/CD**
+|  CSMA/CA |  CSMA/CD |
+|---|---|
+|1.Collision avoidance using handshake mechanism before transmission.|1.Collision detection after transmission.|
+|2.Efficiency is Higher - avoids wasted transmissions.|2.Efficiency is Lower - no handshake delay.|
+|3.Scalability is Better - handles larger networks effectively.|3.Scalability is Worse - performance degrades with increased collisions.|
+|4.Complexity is Higher - requires RTS/CTS packets and additional logic.|4.Complexity is Lower - simpler implementation.|
+|5.It use in Wireless LANs (Wi-Fi), Bluetooth,etc.|5.It use in Wired LANs (Ethernet).|
+
+
+### **<br/>Explain the token ring as a collision-free protocol.**
+
+Here's an explanation of the token ring protocol as a collision-free protocol:<br/>
+Devices (nodes) are connected in a physical ring, forming a continuous loop. A special control frame called a "token" circulates around the ring. Only the node holding the token can transmit data. Only one device can transmit at a time, eliminating collisions and ensuring reliable data transfer.<br/>
+**`Working Principle:`**<br/>
+- The token continuously travels around the ring, passing from one device to the next.
+- A device with data to send waits for the token to arrive. Upon receiving the token, the device:<br/>
+    - Places its data on the ring.<br/>
+    - Passes the token to the next device in the ring.<br/>
+- All devices on the ring read the data as it passes by. The intended recipient copies the data.
+- The original sender removes its data from the ring. It then passes the token to the next device, allowing others to transmit.
+
+### **<br/>Explain the basic bitmap protocol as a Collison free protocol with necessary figures.**
+Bit map protocol is collision free Protocol. In bitmap protocol method, each contention period consists of exactly N slots. If any station has to send frame, then it transmits a 1 bit in the corresponding slot. For example, if station 2 has a frame to send, it transmits a 1 bit to the 2nd slot.<br/>In general, Station 1 Announce the fact that it has a frame to send by inserting a 1 bit into slot 1. In this way, each station has complete knowledge of which station wishes to transmit. There will never be any collisions because everyone agrees on who goes next. Protocols like this in which the desire to transmit is broadcasting for the actual transmission are called Reservation Protocols.
+
+
+
+
+
