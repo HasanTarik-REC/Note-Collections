@@ -8,6 +8,6 @@ Punishment for changing source code is imprisonment for a term not exceeding 10 
 
  22. Digital Forgery<br/><br/>2018<br/> 
 Punishment for changing source code is imprisonment for a term not exceeding 5 years or a fine not exceeding taka 5 lac or both.<br/>
- For the second time or repeatedly, 7 years, or taka 10 lac or both.<br/><br/>2023<br/> 2 years, or taka 10 lac,or both.<br/><br/>
+ For the second time or repeatedly, 7 years, or taka 10 lac or both.<br/><br/>2023<br/> 2 years, or taka 5 lac,or both.<br/><br/>
 
 
