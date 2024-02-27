@@ -11,6 +11,9 @@ Punishment for changing source code is imprisonment for a term not exceeding 3 y
   23. Digital Fraud<br/><br/>2018<br/> Imprisonment for a term not exceeding 5 years or a fine not exceeding taka 5 lac or both.<br/>
  For the second time or repeatedly, 7 years, or taka 10 lac or both.<br/><br/>2023<br/> 5 years, or taka 5 lac,or both.<br/><br/>
 
+  24. Identity fraud or personation<br/><br/>2018<br/> Imprisonment for a term not exceeding 5 years or a fine not exceeding taka 5 lac or both.<br/>
+ For the second time or repeatedly, 7 years, or taka 10 lac or both.<br/><br/>2023<br/> 5 years, or taka 5 lac,or both.<br/><br/>
+
 
 
 
