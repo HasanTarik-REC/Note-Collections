@@ -2,13 +2,6 @@
 In this repository, I have stored my all note.
 
 # CSE Third Year
-- ## Odd Semester
-    - [System Analysis and Design][S1]
-    - [Database Management Systems][PP1]
-    - [Digital Signal Processing][S11]
-    - [Compiler Design][]
-    - [Computer Networks][CN1]
-    - 
 - ## Even Semester
     - [Software Engineering][]
     - [Computer Graphics][]
@@ -16,6 +9,12 @@ In this repository, I have stored my all note.
     - [Operating System and System Programming][]
     - [Communication Engineering][]
 
+- ## Odd Semester
+    - [System Analysis and Design][S1]
+    - [Database Management Systems][PP1]
+    - [Digital Signal Processing][S11]
+    - [Compiler Design][]
+    - [Computer Networks][CN1]
 # CSE Second Year
 - ## Even Semester
     - [Cyber and Intellectual Property Law][SE1]
