@@ -1,31 +1,18 @@
 <!--markdown practice-->
-# Cyber and Intellectual Property Law
+# Contents of Microprocessor and Assembly Language
 
-#### **Saturday  ---------- Cyber Crime</br>**
-#### **Sunday    ----------  Cyber Law</br>**
-#### **Monday    ---------- ICT Policy in Bangladesh</br>**
-#### **Tuesday   ---------- Cyber Crime</br>**
-#### **Wednesday ---------- Cyber Law</br>**
-#### **Thrusday  ---------- ICT Policy in Bangladesh</br>**
+#### **Saturday  ---------- Microprocessor Fundamentals</br>**
+#### **Sunday    ---------- Programming Model</br>**
+#### **Monday    ---------- The processor status and the Flag register</br>**
+#### **Tuesday   ---------- Arithmetic Operation</br>**
 
 
 ## </br></br>Chapter
 <hr/>
-
-### Cyber Law
-
-- [Cyber Law][P1]
-- [ICT Policy in Bangladesh][P2]
-- [Cyber Crime][P3]
-- [Human Rights Violation and Internet][P4]
-- [International Cyber Law][P5]
-- [Electronic Commerce][P6]
-
-### Intellectual Property Law
-
-- [Intellectual Property Law][P7]
-- [Patent][P8]
-- [Trademarks][P9]
+- [Microprocessor Fundamentals][P1]
+- [Programming Model][P2]
+- [The processor status and the Flag register, Overflow condition, Debugging a program, Flow control][P3]
+- [Arithmetic Operation][P4]
 
 
 
@@ -37,8 +24,4 @@
 [P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/Cyber%20Crime(Chapter%203).md
 [P4]: https://www.youtube.com
 [P5]: https://www.youtube.com
-[P6]: https://www.youtube.com
-[P7]: https://www.youtube.com
-[P8]: https://www.youtube.com
-[P9]: https://www.youtube.com
 <!--End-->
