@@ -1,5 +1,5 @@
 <!--markdown practice-->
-# Cyber and Intellectual Property Law
+# Operating System and System Programming
 
 #### **Saturday  ---------- Cyber Crime</br>**
 #### **Sunday    ----------  Cyber Law</br>**
@@ -14,25 +14,26 @@
 
 ### Cyber Law
 
-- [Cyber Law][P1]
-- [ICT Policy in Bangladesh][P2]
-- [Cyber Crime][P3]
-- [Human Rights Violation and Internet][P4]
-- [International Cyber Law][P5]
-- [Electronic Commerce][P6]
-
-### Intellectual Property Law
-
-- [Intellectual Property Law][P7]
-- [Patent][P8]
-- [Trademarks][P9]
+- [Introduction][P1]
+- [System Structure][P2]
+- [Process Management][P3]
+- [Threads][P4]
+- [CPU Scheduling][P5]
+- [Process Synchronization][P6]
+- [Deadlocks][P7]
+- [Storage Management][P8]
+- [Virtual Memory][P9]
+- [File Systems][P9]
+- [I/O Management][P9]
+- [Disk Management][P9]
+- [Protection & Security][P9]
 
 
 
 
 
 <!--Links-->
-[P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/CyberLaw(Chapter-1).md
+[P1]: h
 [P2]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/ICT%20Policy%20in%20Bangladesh(Chapter-2).md
 [P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/Cyber%20Crime(Chapter%203).md
 [P4]: https://www.youtube.com
