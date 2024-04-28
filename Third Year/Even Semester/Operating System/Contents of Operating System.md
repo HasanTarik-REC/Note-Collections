@@ -9,8 +9,7 @@
 #### **Thrusday  ---------- ICT Policy in Bangladesh</br>**
 
 
-## </br></br>Chapter
-<hr/>
+## </br></br>Chapter<hr/>
 
 ### Cyber Law
 
