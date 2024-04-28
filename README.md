@@ -5,7 +5,7 @@ In this repository, I have stored my all notes.
 - ## Even Semester
     - [Software Engineering][]
     - [Computer Graphics][]
-    - [Microprocessor and Assembly Language][]
+    - [Microprocessor and Assembly Language][MAL]
     - [Operating System and System Programming][OS1]
     - [Communication Engineering][]
 
