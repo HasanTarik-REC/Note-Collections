@@ -1,12 +1,12 @@
 # Note-Collections
-In this repository, I have stored my all note.
+In this repository, I have stored my all notes.
 
 # CSE Third Year
 - ## Even Semester
     - [Software Engineering][]
     - [Computer Graphics][]
     - [Microprocessor and Assembly Language][]
-    - [Operating System and System Programming][]
+    - [Operating System and System Programming][OS1]
     - [Communication Engineering][]
 
 - ## Odd Semester
@@ -54,3 +54,4 @@ In this repository, I have stored my all note.
   [S1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/System%20Analysis%20and%20Design/SystemAnalysisAndDesign.md
   [S11]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Digital%20Signal%20Processing/DigitalSignalProcessing.md
   [CN1]: https://github.com/HasanTarik-REC/Note-Collections/tree/Feature/Third%20Year/Odd%20Semester/Computer%20Networks
+  [OS1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Contents%20of%20Operating%20System.md
