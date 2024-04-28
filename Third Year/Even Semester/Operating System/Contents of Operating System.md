@@ -11,8 +11,6 @@
 
 ## </br></br>Chapter<hr/>
 
-### Cyber Law
-
 - [Introduction][P1]
 - [System Structure][P2]
 - [Process Management][P3]
