@@ -20,10 +20,10 @@
 - [Deadlocks][P7]
 - [Storage Management][P8]
 - [Virtual Memory][P9]
-- [File Systems][P9]
-- [I/O Management][P9]
-- [Disk Management][P9]
-- [Protection & Security][P9]
+- [File Systems][P10]
+- [I/O Management][P11]
+- [Disk Management][P12]
+- [Protection & Security][P13]
 
 
 
@@ -32,11 +32,15 @@
 <!--Links-->
 [P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Introduction.md
 [P2]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/System%20Structure.md
-[P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Second%20Year/Even%20Semester/Cyber%20and%20Intellectual%20Property%20Law/Cyber%20Crime(Chapter%203).md
-[P4]: https://www.youtube.com
-[P5]: https://www.youtube.com
-[P6]: https://www.youtube.com
-[P7]: https://www.youtube.com
-[P8]: https://www.youtube.com
-[P9]: https://www.youtube.com
+[P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Process%20Management.md
+[P4]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Threads.md
+[P5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/CPU%20scheduling.md
+[P6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Process%20Synchronization.md
+[P7]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Deadlocks.md
+[P8]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Storage%20Management.md
+[P9]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Virtual%20Memory.md
+[P10]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/File%20Systems.md
+[P11]:
+[P12]:
+[P13]:
 <!--End-->
