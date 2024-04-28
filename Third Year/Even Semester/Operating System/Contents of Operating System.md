@@ -9,7 +9,7 @@
 #### **Thrusday  ---------- ICT Policy in Bangladesh</br>**
 
 
-## </br></br>Chapter
+## </br></br>Chapter<hr/>
 
 - [Introduction][P1]
 - [System Structure][P2]
