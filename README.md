@@ -55,3 +55,4 @@ In this repository, I have stored my all notes.
   [S11]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Odd%20Semester/Digital%20Signal%20Processing/DigitalSignalProcessing.md
   [CN1]: https://github.com/HasanTarik-REC/Note-Collections/tree/Feature/Third%20Year/Odd%20Semester/Computer%20Networks
   [OS1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Contents%20of%20Operating%20System.md
+  [MAL]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Microprocessor%20and%20Assembly%20Language/Contents%20of%20Microprocessor%20and%20Assembly%20Language.md
