@@ -40,7 +40,7 @@
 [P8]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Storage%20Management.md
 [P9]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Virtual%20Memory.md
 [P10]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/File%20Systems.md
-[P11]:
-[P12]:
-[P13]:
+[P11]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/I%20O%20Management.md
+[P12]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Disk%20Management.md
+[P13]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Protection%20and%20Security.md
 <!--End-->
