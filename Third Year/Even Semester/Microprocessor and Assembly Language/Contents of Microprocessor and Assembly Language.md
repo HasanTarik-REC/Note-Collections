@@ -7,8 +7,8 @@
 #### **Tuesday   ---------- Arithmetic Operation</br>**
 
 
-## </br></br>Chapter
-<hr/>
+## </br></br>Chapter<hr/>
+
 - [Microprocessor Fundamentals][P1]
 - [Programming Model][P2]
 - [The processor status and the Flag register, Overflow condition, Debugging a program, Flow control][P3]
