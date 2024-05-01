@@ -7,7 +7,7 @@
 
 
 ### **<br/>What are the elements of computer system structure?**
-<p>The computer system structure consists of four components.
+The computer system structure consists of four components. There are-
   - Hardware<br/>
   - Operating System<br/>
   - Application program<br/>
