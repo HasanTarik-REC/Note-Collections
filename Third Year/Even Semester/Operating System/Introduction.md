@@ -1,8 +1,8 @@
 ### Chapter 1 (Introduction)
 
 ### **<br/>What is Operating System?**
-
-Operating system is a program that acts as an interface between the user and the hardware. It is a resource allocator and provides a platform for the application program.<img src ="./Capt1ure.PNG" width = "120"/>
+<img src ="./Capt1ure.PNG" width = "120"/>
+Operating system is a program that acts as an interface between the user and the hardware. It is a resource allocator and provides a platform for the application program.
  <img src ="./Cap2ture.PNG" width = "150"/>
 
 
