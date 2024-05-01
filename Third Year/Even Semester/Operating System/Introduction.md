@@ -13,4 +13,4 @@ The computer system structure consists of four components. There are-
   - Operating System<br/>
   - Application program<br/>
   - User<br/>
-  <img src ="./Capt1ure.PNG" width = "200"/>
+  <img src ="./Cap2ture.PNG" width = "200"/>
