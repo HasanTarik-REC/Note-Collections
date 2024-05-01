@@ -1,6 +1,14 @@
 ### Chapter 1 (Introduction)
 
-### **<br/>What is cyberspace?**
+### **<br/>What is Operating System?**
 
 
-<p>Cyberspace is a new concept in the modern Information and Communication Technology (ICT) world. It is the metaphorical space of computer systems and computer networks. In this space, electronic data are stored and online communication takes place. It includes various kinds of virtual reality by computer users or by entities who use a computer System.</P>
+<p>Operating system is a program that acts as an interface between the user and the hardware. It is a resource allocator and provides a platform for the application program.</P>
+
+
+### **<br/>What are the elements of computer system structure?**
+<p>The computer system structure consists of four components.</p>
+- Hardware
+- Operating System
+- Application program
+- User
