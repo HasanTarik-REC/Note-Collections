@@ -4,7 +4,7 @@
 
 
 <p>Operating system is a program that acts as an interface between the user and the hardware. It is a resource allocator and provides a platform for the application program.</P>
-<img src ="./Capt1ure.PNG" width = "150"/>
+<img src ="./Capt1ure.PNG" width = "120"/>
 
 
 ### **<br/>What are the elements of computer system structure?**
@@ -13,4 +13,4 @@ The computer system structure consists of four components. There are-
   - Operating System<br/>
   - Application program<br/>
   - User<br/>
-  <img src ="./Cap2ture.PNG" width = "200"/>
+  <img src ="./Cap2ture.PNG" width = "150"/>
