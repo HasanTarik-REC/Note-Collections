@@ -30,5 +30,5 @@ The computer system structure consists of four components. There are-
  - Coordination between other software and user.
 
    ### **<br/>Define Batch Operating System**
-    This type of operating system does not interact with the computer directly. An operator takes similar jobs with the same requirements and groups them into batches.<br/>
-   <img src ="./Capture2.PNG" width = "450" title = "Batch Operating System"/>
+    This type of operating system does not interact with the computer directly. An operator takes similar jobs with the same requirements and groups them into batches.<br/><br/>
+   <img src ="./Capture2.PNG" width = "650" title = "Batch Operating System"/>
