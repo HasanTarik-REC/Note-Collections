@@ -12,5 +12,23 @@ The computer system structure consists of four components. There are-
   - Operating System<br/>
   - Application program<br/>
   - User<br/>
- 
  <img src ="./Capture1.PNG" width = "450" title = "Elements of Computer System Structure"/>
+### **Goals of Operating System**
+ - Execute user programs and make solving user problems easier.
+ - Make the computer system convenient to use.
+ - Efficiently use the computer Hardware.
+
+### **<br/>Functions of an Operating System**
+ - Memory management.
+ - Process management.
+ - Device management.
+ - File management.
+ - Security.
+ - Control over system performance.
+ - Job accounting.
+ - Error detecting aids.
+ - Coordination between other software and user.
+
+   ### **<br/>Define Batch Operating System**
+    This type of operating system does not interact with the computer directly. An operator takes similar jobs with the same requirements and groups them into batches.
+   <img src ="./Capture2.PNG" width = "450" title = "Batch Operating System"/>
