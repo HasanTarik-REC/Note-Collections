@@ -41,4 +41,7 @@ The computer system structure consists of four components. There are-
  ### **<br/>Define Multiprogramming**
  Multiprogramming is a fundamental concept in operating systems that allows multiple programs to run simultaneously on a single processor. This technique aims to maximize CPU utilization and increase overall system throughput by overlapping CPU execution with I/O operations. It is also called Non-preemptive.<br/><br/>
   <img src ="./Capture3.PNG" width = "550" title = "Multiprogramming"/>
+ ### **<br/>Define Multitasking/Time sharing**
+ Multitasking, also known as time-sharing or multitasking operating system, allows multiple tasks to run concurrently on a single processor. This functionality enables users to run multiple applications simultaneously and switch between them seamlessly.<br/><br/>
+<img src ="./Capture4.PNG" width = "550" title = "Multitasking"/>
  
