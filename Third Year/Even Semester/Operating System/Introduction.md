@@ -30,5 +30,15 @@ The computer system structure consists of four components. There are-
  - Coordination between other software and user.
 
    ### **<br/>Define Batch Operating System**
-    This type of operating system does not interact with the computer directly. An operator takes similar jobs with the same requirements and groups them into batches.<br/><br/>
+    This type of operating system does not interact with the computer directly. An operator groups similar jobs with the same requirements into batches.<br/><br/>
    <img src ="./Capture2.PNG" width = "650" title = "Batch Operating System"/>
+
+ ### **<br/>Problems of Batch Operating System**
+  - Lack of interaction between the user & the job.
+  - CPU is often idle because the speed of I/O is slower than CPU.
+  - Difficult to provide the desired priority.
+
+ ### **<br/>Define Multiprogramming**
+ Multiprogramming is a fundamental concept in operating systems that allows multiple programs to run simultaneously on a single processor. This technique aims to maximize CPU utilization and increase overall system throughput by overlapping CPU execution with I/O operations. It is also called Non-preemptive.<br/><br/>
+  <img src ="./Capture3.PNG" width = "550" title = "Multiprogramming"/>
+ 
