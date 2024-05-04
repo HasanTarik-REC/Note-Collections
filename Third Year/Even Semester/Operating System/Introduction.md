@@ -45,3 +45,6 @@ The computer system structure consists of four components. There are-
  Multitasking, also known as time-sharing or multitasking operating system, allows multiple tasks to run concurrently on a single processor. This functionality enables users to run multiple applications simultaneously and switch between them seamlessly.<br/><br/>
 <img src ="./Capture4.PNG" width = "550" title = "Multitasking"/>
  
+### **<br/>Define Multiprocessing operating system**
+It is the use of two or more central processing units (CPUs) within a single computer.<br/>It refers to a computer system's ability to support more than one process at the same time.<br/>
+
