@@ -52,12 +52,12 @@ Types of multiprocessing<br/>
  - Symmetric
  - Asymmetric<br/>
 `Symmetric:` All the processors have the same function and control access.<br/>
-`Asymmetric:` There is a master processor that gives instructions to all other processors. An asymmetric multiprocessor system contains a master-slave relationship.<br/><br/>
-#### Advantage:<br/>
+`Asymmetric:` There is a master processor that gives instructions to all other processors. An asymmetric multiprocessor system contains a master-slave relationship.<br/>
+##### Advantage:<br/>
  1. More reliable systems
  2. Enhance throughput
  3. More economic system<br/>
-#### Disadvantage:<br/>
+##### Disadvantage:<br/>
  1. Increased expense
  2. A complicated operating system is required.
  3. Large main memory required.<br/>
