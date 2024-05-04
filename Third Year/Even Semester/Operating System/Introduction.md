@@ -113,18 +113,18 @@ Child process = 2 ^ n - 1 <br/>
 ```
 int main()
 {
-int a,b,c;
-a = 5, b = 3;
-if(fork() == 0{
-c = a - b;
-print("Child result = %d\n"c);
-}else{
-c = a + b;
-print("Parent result = %d\n"c);
-}
+ int a,b,c;
+ a = 5, b = 3;
+ if(fork() == 0{
+ c = a - b;
+ print("Child result = %d\n"c);
+ }else{
+ c = a + b;
+ print("Parent result = %d\n"c);
+ }
 }
 ```
-<img src ="./Cap104ture.PNG" width = "400"/><br/>
+<img src ="./Cap104ture.PNG" width = "250"/><br/>
 ```
 Output:
 Parent result = 8
