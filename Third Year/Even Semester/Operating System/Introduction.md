@@ -73,7 +73,7 @@ Types of Real-Time Operating System:<br/>
 The kernel is a computer program at the core of a computer operating system which complete control over everything in the system. It is an integral part of any operating system.<br/>
 <img src ="./Cap101ture.PNG" width = "400"/>
 ### **<br/>User mode and Kernel mode**
-<img src ="./Cap102ture.PNG" width = "400"/>
+<img src ="./Cap102ture.PNG" width = "600"/><br/>
 ### **<br/>Fork() system call**
 `fork():` Fork system call is used for creating a new process, which is called the child process. Here child process will run concurrently with its parent process. <br/> fork() returns an integer value, where <br/>
 `Negative value:` Creation of a child process was unsuccessful.<br/>
