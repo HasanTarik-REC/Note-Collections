@@ -124,7 +124,7 @@ int main()
  }
 }
 ```
-<img src ="./Cap104ture.PNG" width = "250"/><br/>
+<img src ="./Cap104ture.PNG" width = "200"/><br/>
 ```
 Output:
 Parent result = 8
