@@ -79,7 +79,7 @@ The kernel is a computer program at the core of a computer operating system whic
 `Negative value:` Creation of a child process was unsuccessful.<br/>
 `Zero:` Returned to the newly created child process.<br/>
 `Positive value:` Returned to parent or caller. The value contains the process ID of a newly created child process. <br/>
-` #####Example:`<br/>
+##### `Example:`<br/>
 ```
 #include<stdio.h>
 int main()
@@ -91,10 +91,20 @@ fork();
 print("Bangladesh");
 }
 ```
+```
+output:
+Bangladesh
+Bangladesh
+Bangladesh
+Bangladesh
+Bangladesh
+Bangladesh
+Bangladesh
+```
 <img src ="./Cap103ture.PNG" width = "600"/><br/>
 Process = 2 ^ n (where n = no. of fork)<br/>
         = 2 ^ 3 <br/>
         = 8 <br/>
 Child process = 2 ^ n - 1 <br/>
-              = 2 ^ 3 - 1
-              7
+              = 2 ^ 3 - 1 <br/>
+              = 7
