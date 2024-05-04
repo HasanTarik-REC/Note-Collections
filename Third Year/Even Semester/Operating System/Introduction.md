@@ -60,5 +60,24 @@ Types of multiprocessing<br/>
 ##### Disadvantage:<br/>
  1. Increased expense
  2. A complicated operating system is required.
- 3. Large main memory required.<br/>
+ 3. Large main memory required.
+
+### **<br/>Define Real-Time Operating System**
+A real-time operating system is an operating system intended to serve real-time applications. <br/>Response should be guaranteed within a specified timing constraint or the system should meet the specified deadline.<br/>
+Types of Real-Time Operating System:<br/>
+ - Hard Real-Time System
+ - Soft Real-Time System<br/>
+`Hard Real-Time System:` This type of OS can never its deadline.<br/> Strongly determined with its time constraint.<br/>
+`Soft Real-Time System:` This type of OS can miss its deadline occasionally with some acceptable low probability.
+### **<br/>Kernel and System call Operating System**
+The kernel is a computer program at the core of a computer operating system which complete control over everything in the system. It is an integral part of any operating system.<br/>
+<img src ="./Cap101ture.PNG" width = "400"/>
+### **<br/>User mode and Kernel mode**
+<img src ="./Cap102ture.PNG" width = "400"/>
+### **<br/>Fork() system call**
+`fork():` Fork system call is used for creating a new process, which is called the child process. Here child process will run concurrently with its parent process. <br/> fork() returns an integer value, where <br/>
+`Negative value:` Creation of a child process was unsuccessful.<br/>
+`Zero:` Returned to the newly created child process.<br/>
+`Positive value:` Returned to parent or caller. The value contains the process ID of a newly created child process.
+
 
