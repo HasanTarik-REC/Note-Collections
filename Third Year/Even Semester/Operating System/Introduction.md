@@ -46,5 +46,19 @@ The computer system structure consists of four components. There are-
 <img src ="./Capture4.PNG" width = "550" title = "Multitasking"/>
  
 ### **<br/>Define Multiprocessing operating system**
-It is the use of two or more central processing units (CPUs) within a single computer.<br/>It refers to a computer system's ability to support more than one process at the same time.<br/>
+It uses two or more central processing units (CPUs) within a single computer.<br/>It refers to a computer system's ability to support multiple processes simultaneously.<br/>
+<img src ="./Cap111ture.PNG" width = "400"/><br/>
+Types of multiprocessing<br/>
+ - Symmetric
+ - Asymmetric
+Symmetric: All the processors have the same function and control access.<br/>
+Asymmetric: There is a master processor that gives instructions to all other processors. An asymmetric multiprocessor system contains a master-slave relationship.<br/>
+Advantage:<br/>
+ 1. More reliable systems
+ 2. Enhance throughput
+ 3. More economic system<br/>
+Disadvantage:<br/>
+ 1. Increased expense
+ 2. A complicated operating system is required.
+ 3. Large main memory required.
 
