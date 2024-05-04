@@ -78,6 +78,23 @@ The kernel is a computer program at the core of a computer operating system whic
 `fork():` Fork system call is used for creating a new process, which is called the child process. Here child process will run concurrently with its parent process. <br/> fork() returns an integer value, where <br/>
 `Negative value:` Creation of a child process was unsuccessful.<br/>
 `Zero:` Returned to the newly created child process.<br/>
-`Positive value:` Returned to parent or caller. The value contains the process ID of a newly created child process.
-
-
+`Positive value:` Returned to parent or caller. The value contains the process ID of a newly created child process. <br/>
+` #####Example:`<br/>
+```
+#include<stdio.h>
+int main()
+{
+fork();
+fork();
+print("Hello");
+fork();
+print("Bangladesh");
+}
+```
+<img src ="./Cap103ture.PNG" width = "600"/><br/>
+Process = 2 ^ n (where n = no. of fork)<br/>
+        = 2 ^ 3 <br/>
+        = 8 <br/>
+Child process = 2 ^ n - 1 <br/>
+              = 2 ^ 3 - 1
+              7
