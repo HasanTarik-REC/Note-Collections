@@ -102,10 +102,31 @@ Bangladesh
 Bangladesh
 Bangladesh
 ```
-<img src ="./Cap103ture.PNG" width = "600"/><br/>
+<img src ="./Cap103ture.PNG" width = "400"/><br/>
 Process = 2 ^ n (where n = no. of fork)<br/>
         = 2 ^ 3 <br/>
         = 8 <br/>
 Child process = 2 ^ n - 1 <br/>
               = 2 ^ 3 - 1 <br/>
               = 7
+##### `Example:` 
+```
+int main()
+{
+int a,b,c;
+a = 5, b = 3;
+if(fork() == 0{
+c = a - b;
+print("Child result = %d\n"c);
+}else{
+c = a + b;
+print("Parent result = %d\n"c);
+}
+}
+```
+<img src ="./Cap104ture.PNG" width = "400"/><br/>
+```
+Output:
+Parent result = 8
+Child result = 2
+```
