@@ -130,3 +130,9 @@ Output:
 Parent result = 8
 Child result = 2
 ```
+
+### **<br/>Fork() system call using OR operator**
+##### `Example: 1` 
+<img src ="./1Capture1.PNG" width = "200"/><br/>
+##### `Example: ` 
+<img src ="./1Capture2.PNG" width = "200"/><br/>
