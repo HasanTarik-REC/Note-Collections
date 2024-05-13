@@ -149,7 +149,8 @@ int main()
 ```
 <br/>
 <img src ="./1Capture3.PNG" width = "300"/><br/>
-##### `Example: 2` <br/>
+
+##### `Example: 2`
 ```
 int main()
 {
