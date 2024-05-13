@@ -136,3 +136,28 @@ Child result = 2
 <img src ="./1Capture1.PNG" width = "600"/><br/>
 ##### `Example: ` 
 <img src ="./1Capture2.PNG" width = "600"/><br/>
+### **<br/>Fork() system call using AND operator**
+##### `Example: 1` 
+```
+int main()
+{
+ if(fork() && fork())
+ print("Create\n");
+ else
+ print("Not\n");
+}
+```
+<br/>
+<img src ="./1Capture3.PNG" width = "300"/><br/>
+##### `Example: 2` 
+```
+int main()
+{
+ if(fork() && fork() && fork())
+ print("Create\n");
+ else
+ print("Not\n");
+}
+```
+<br/>
+<img src ="./1Capture4.PNG" width = "300"/><br/>
