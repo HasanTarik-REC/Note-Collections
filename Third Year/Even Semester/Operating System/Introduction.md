@@ -162,3 +162,24 @@ int main()
 ```
 <br/>
 <img src ="./1Capture4.PNG" width = "300"/><br/>
+
+### **<br/>Fork() system call using AND operator and OR operator**
+##### `Example:`<br/>
+```
+#include<stdio.h>
+int main()
+{
+if((fork() || fork()) && fork())
+    printf("Create\n");
+else
+    printf("Not\n");
+}
+```
+```
+output:
+Create
+Not
+Create
+Not
+Not
+```
