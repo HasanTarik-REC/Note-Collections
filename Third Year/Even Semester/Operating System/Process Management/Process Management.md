@@ -17,7 +17,7 @@ As a process executes, it changes state. The state of a process is defined in pa
 - `Waiting: `The process is waiting for some event to occur (such as an I/O completion or reception of a signal).
 - `Terminated: `The process has finished execution.
 <br/>
-<img src ="./Capture2.PNG" width = "500"/>
+<img src ="./Capture2.PNG" width = "600"/>
 
 
 
