@@ -9,6 +9,9 @@ In the operating system, a process is a program currently under execution. An ac
 #### `Text: `This includes the current activity represented by the value of the program counter and the contents of the processor's registers.<br/>
 #### `Data: `The section contains the global and static variables.<br/>
 
+### **<br/>Define Thread**
+A thread is the unit of execution within a process. A process can have anywhere from just one thread to many threads.
+
 ### **<br/>Process state transition**
 As a process executes, it changes state. The state of a process is defined in part by the current activity of that process. Each process may be in one of the following states:<br/>
 - #### `New: `The process is being created.
