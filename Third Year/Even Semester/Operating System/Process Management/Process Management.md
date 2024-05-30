@@ -42,7 +42,7 @@ A process control block (PCB) represents each process in the operating system. I
   ### **<br/>Context Switching**
   When the CPU switches to another process, the system must save the state of the old process and load the saved state for the new process.<br/>
   Context of a process represented in the PCB.<br/>
-  <img src ="./Capture4.PNG" width = "600"/><br/>
+  <img src ="./Capture4.PNG" width = "400"/><br/>
 
 
 
