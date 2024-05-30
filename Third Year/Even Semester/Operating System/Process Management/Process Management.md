@@ -34,7 +34,15 @@ A process control block (PCB) represents each process in the operating system. I
 - #### `Accounting information: `This includes the amount of CPU and real-time used, time limits, account numbers, process numbers, etc.
 - #### `I/O status information: `This includes the list of I/O devices allocated to the process, a list of open files, and so on.
 
-  
+  ### **<br/>Types of Scheduler**
+  - Long-term scheduler
+  - Mid-term scheduler
+  - Short term scheduler
+ 
+  ### **<br/>Context Switching**
+  When the CPU switches to another process, the system must save the state of the old process and load the saved state for the new process.<br/>
+  Context of a process represented in the PCB.<br/>
+  <img src ="./Capture4.PNG" width = "600"/><br/>
 
 
 
