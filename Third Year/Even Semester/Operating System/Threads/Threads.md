@@ -1,10 +1,10 @@
 ### Chapter 4 (Threads)
 
 ### **<br/>What is Threads?**
-  - A thread is a light weight process. Every thread belongs to exactly one process.
+  - A thread is a lightweight process. Every thread belongs to exactly one process.
   - There is no need to allocate extra memory space for threads.
-  - Each threads has its own thread. Id, stack, register, & program counter.
-  - Threads will be executed in a sequence manner.
-  - For switching one thread to another thread, no need to interact with operating system.
+  - Each thread has its thread. Id, stack, register, & program counter.
+  - Threads will be executed in a sequenced manner.
+  - There is no need to interact with the operating system for switching one thread to another.
   - There is no system call in a thread.<br/>
- <img src ="./Capture1.PNG" width = "450" title = "Elements of Computer System Structure"/>
+ <img src ="./Capture1.PNG" width = "650" title = "Single-threaded and multithreaded processes."/>
