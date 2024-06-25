@@ -22,9 +22,11 @@ CPU scheduling algorithms rely on various criteria to determine how to prioritiz
 - `Average Waiting Time:` This is the time a process spends waiting for the CPU after it's ready to run. The scheduler aims to keep waiting time low to prevent processes from being starved of resources.<br/>
 - `Average Response Time:` This is the time it takes for a process to first respond after submitting a request. A good scheduler minimizes response time for a more responsive user experience.<br/>
 ### **<br/>Times of CPU Scheduling Algorithm**
-`Arrival Time:` Time at which the process arrives in the ready queue. 10.00 AM <br/>
-`Burst Time:` Burst time is the total time taken by the process for its execution on the CPU. 0.05 min <br/>
-`Completion/Exit Time:` A process that completes execution and terminates. 10.45 AM<br/>
-`Turn Around Time:` It is also called total execution time. Formula: Exit time - Arrival time. 0.45 min<br/>
+`Arrival Time: ` Time at which the process arrives in the ready queue. 10.00 AM <br/>
+`Burst Time: ` Burst time is the total time taken by the process for its execution on the CPU. 0.05 min <br/>
+`Completion/Exit Time: ` A process that completes execution and terminates. 10.45 AM<br/>
+`Turn Around Time: ` It is also called total execution time. Formula: Exit time - Arrival time. 0.45 min<br/>
+`Waiting Time: `Turn Around time - Burst time. 0.45 min - 0.05 min = 0.40 min<br/>
+`Response Time: `The first time the process gets the CPU - Arrival time. 10.15 AM - 10.00 AM = 0.15 min<br/>
 
 
