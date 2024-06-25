@@ -28,5 +28,6 @@ CPU scheduling algorithms rely on various criteria to determine how to prioritiz
 `Turn Around Time: ` It is also called total execution time. Formula: Exit time - Arrival time. 0.45 min<br/>
 `Waiting Time: `Turn Around time - Burst time. 0.45 min - 0.05 min = 0.40 min<br/>
 `Response Time: `The first time the process gets the CPU - Arrival time. 10.15 AM - 10.00 AM = 0.15 min<br/>
+ <img src ="./Capture1.PNG" width = "650" title = "Times of CPU Scheduling Algorithm."/>
 
 
