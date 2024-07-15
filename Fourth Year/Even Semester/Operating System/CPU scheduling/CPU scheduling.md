@@ -52,6 +52,8 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 `Throughput` = Number of Processes / Total Number of Unit Time<br/>
             = 5 / 21<br/>
             =<br/>
+
+            
 ### **<br/>First Come First Serve without arrival time for non-preemptive**
 | Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
 |---|---|---|---|---|---|
