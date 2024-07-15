@@ -1,7 +1,7 @@
 # Note-Collections
 In this repository, I have stored my all notes.
 
-# CSE Third Year
+# CSE Fourth Year
 - ## Even Semester
     - [Software Engineering][]
     - [Computer Graphics][]
