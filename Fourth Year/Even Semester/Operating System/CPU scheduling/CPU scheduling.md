@@ -63,9 +63,10 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | P4 | 7 | 15 | 15 | 8 | 8 |
 | P5 | 5 | 20 | 20 | 15 | 15 |
 <br/>
+
 ### Gantt chart:<br/>
-| P3 | P1 | P4 | P2 | P5 |<br/>
-0---2-----3---4---11--16--21
+| P1 | P2 | P3 | P4 | P5 |<br/>
+0---1---6---8--15--20
 <br/>
 `Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
                         = 39 / 5<br/>
