@@ -41,5 +41,13 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | P3 | 0 | 2 | 2 | 2 | 0 | 0 |
 | P4 | 3 | 7 | 11 | 8 | 1 | 1 |
 | P5 | 5 | 5 | 21 | 16 | 11 | 11 |
-
+<br/>
+Gantt chart:<be/>
+| P3 | idle | P1 | P4 | P2 | P5 |
+|---|---|---|---|---|---|
+<br/>
+Average T.Around Time = Total T.Around Time / Number of Processes<br/>
+                        = 39 / 5<br/>
+Throughput = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 21
 
