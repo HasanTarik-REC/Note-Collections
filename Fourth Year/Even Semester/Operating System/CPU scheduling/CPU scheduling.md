@@ -42,14 +42,32 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | P4 | 3 | 7 | 11 | 8 | 1 | 1 |
 | P5 | 5 | 5 | 21 | 16 | 11 | 11 |
 <br/>
-Gantt chart:<br/>
+### Gantt chart:<br/>
 | P3 | idle | P1 | P4 | P2 | P5 |<br/>
 0---2-----3---4---11--16--21
 <br/>
-Average T.Around Time = Total T.Around Time / Number of Processes<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
                         = 39 / 5<br/>
                         =<br/>
-Throughput = Number of Processes / Total Number of Unit Time<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
             = 5 / 21<br/>
             =<br/>
-
+### **<br/>First Come First Serve without arrival time for non-preemptive**
+| Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|
+| P1 | 1 | 1 | 1 | 0 | 0 |
+| P2 | 5 | 6 | 6 | 1 | 1 |
+| P3 | 2 | 8 | 8 | 6 | 6 |
+| P4 | 7 | 15 | 15 | 8 | 8 |
+| P5 | 5 | 20 | 20 | 15 | 15 |
+<br/>
+### Gantt chart:<br/>
+| P3 | P1 | P4 | P2 | P5 |<br/>
+0---2-----3---4---11--16--21
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 39 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 21<br/>
+            =<br/>
