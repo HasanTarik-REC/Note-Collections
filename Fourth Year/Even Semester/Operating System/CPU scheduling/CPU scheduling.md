@@ -36,10 +36,10 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 ### **<br/>First Come First Serve with arrival time for non-preemptive**
  | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
 |---|---|---|---|---|---|---|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+| P1 | 3 | 1 | 4 | 1 | 0 | 0 |
+| P2 | 4 | 5 | 16 | 12 | 7 | 7 |
+| P3 | 0 | 2 | 2 | 2 | 0 | 0 |
+| P4 | 3 | 7 | 11 | 8 | 1 | 1 |
+| P5 | 5 | 5 | 21 | 16 | 11 | 11 |
 
 
