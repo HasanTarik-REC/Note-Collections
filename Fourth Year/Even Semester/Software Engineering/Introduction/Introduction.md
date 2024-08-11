@@ -9,9 +9,10 @@ Example:<br/>
    - Games
    - Websites
    - Mobile apps<br/><br/>
-`Software Engineering:` Software engineering is the systematic application of engineering principles to the development, operation, and maintenance of software.
-It involves a disciplined approach to creating reliable, efficient, and maintainable software products.<br/>
-Key activities in software engineering:<br/>
+   
+   
+`Software Engineering:` Software engineering is the systematic application of engineering principles to software development, operation, and maintenance. It involves a disciplined approach to creating reliable, efficient, and maintainable software products.<br/>
+#### Key activities in software engineering:<br/>
   - Requirements gathering: Understanding the needs of the users.
   - Design: Creating a blueprint of the software system.
   - Coding: Writing the actual code using programming languages.
