@@ -21,3 +21,10 @@ Example:<br/>
   - `Maintenance:` Fixing bugs, adding new features, and improving performance.
 
 
+### **<br/>Evolving Role of Software.**
+Today, software takes on a dual role. It is a product, and at the same time, the vehicle for delivering a product.<br/>
+As a product,<br/>
+Transforms information such as produces, manages, acquires, modifies, displays, or transmits information.  And it delivers the computing potential of hardware and networks.<br/>
+As the vehicle for delivering a product,<br/>
+the software acts as the basis for the control of the computer (operating systems), the communication of information (networking software), and the creation and control of other programs (software tools and environments).<br/>
+
