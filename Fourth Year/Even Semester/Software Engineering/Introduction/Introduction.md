@@ -1,8 +1,8 @@
 ### Chapter 1 (Introduction)
 
 ### **<br/>Define Software and Software Engineering.**
-`Software:` Software refers to a collection of programs, data, and related documentation instructing a computer on performing specific tasks or operations.
-It includes everything from operating systems and applications to utilities and tools that run on hardware. <br/>
+`Software:` Software is: (1) instructions (computer programs) that when executed, provide desired
+features, function, and performance; (2) data structures that enable the programs to manipulate operations adequately and, (3) documents that describe the programs' operation and use.
 Example:<br/>
    - Operating systems (Windows, macOS, Linux)
    - Applications (Microsoft Word, Adobe Photoshop)
