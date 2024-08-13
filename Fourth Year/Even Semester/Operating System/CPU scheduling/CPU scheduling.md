@@ -42,6 +42,7 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | P4 | 3 | 7 | 11 | 8 | 1 | 1 |
 | P5 | 5 | 5 | 21 | 16 | 11 | 11 |
 <br/>
+
 ### Gantt chart:<br/>
 | P3 | idle | P1 | P4 | P2 | P5 |<br/>
 0---2-----3---4---11--16--21
@@ -85,6 +86,7 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | P4 | 6 | 7 | 22 | 16 | 9 | 9 |
 | P5 | 2 | 3 | 5 | 3 | 0 | 0 |
 <br/>
+
 ### Gantt chart:<br/>
 | P3 | P1 | P4 | P2 | P5 |<br/>
 0---2---5---10--15--22
