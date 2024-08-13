@@ -9,7 +9,7 @@ Software products may be<br/>
 
    
    
-`Software Engineering:` Software engineering is the systematic application of engineering principles to software development, operation, and maintenance. It involves a disciplined approach to creating reliable, efficient, and maintainable software products.<br/>
+`Software Engineering:` Software engineering is the establishment and use of sound engineering principles to obtain economic software that is reliable and works efficiently on real machines.<br/>
 #### Key activities in software engineering:<br/>
   - `Requirements gathering:` Understanding the needs of the users.
   - `Design:` Creating a blueprint of the software system.
