@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/903c4d59-ad56-400e-9ba4-0a51d8b39ed7)### Chapter 1 (Introduction)
+### Chapter 1 (Introduction)
 
 ### **<br/>Define Software and Software Engineering.**
 `Software:` Software is: (1) instructions (computer programs) that when executed, provide desired
