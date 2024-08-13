@@ -74,3 +74,25 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 `Throughput` = Number of Processes / Total Number of Unit Time<br/>
             = 5 / 20<br/>
             =<br/>
+
+
+### **<br/>Shortest Job First with arrival time for non-preemptive**
+ | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|
+| P1 | 4 | 5 | 15 | 11 | 6 | 6 |
+| P2 | 0 | 2 | 2 | 2 | 0 | 0 |
+| P3 | 1 | 5 | 10 | 9 | 4 | 4 |
+| P4 | 6 | 7 | 22 | 16 | 9 | 9 |
+| P5 | 2 | 3 | 5 | 3 | 0 | 0 |
+<br/>
+### Gantt chart:<br/>
+| P3 | P1 | P4 | P2 | P5 |<br/>
+0---2---5---10--15--22
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 41 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 22<br/>
+            =<br/>
+
