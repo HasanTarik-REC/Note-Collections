@@ -1,14 +1,12 @@
-### Chapter 1 (Introduction)
+![image](https://github.com/user-attachments/assets/903c4d59-ad56-400e-9ba4-0a51d8b39ed7)### Chapter 1 (Introduction)
 
 ### **<br/>Define Software and Software Engineering.**
 `Software:` Software is: (1) instructions (computer programs) that when executed, provide desired
-features, function, and performance; (2) data structures that enable the programs to manipulate operations adequately and, (3) documents that describe the programs' operation and use.
-Example:<br/>
-   - Operating systems (Windows, macOS, Linux)
-   - Applications (Microsoft Word, Adobe Photoshop)
-   - Games
-   - Websites
-   - Mobile apps<br/><br/>
+features, function, and performance; (2) data structures that enable the programs to manipulate operations adequately and, (3) documents that describe the programs' operation and use.<br/>
+Software products may be<br/>
+   - Generic - developed for a general market e.g. PC software such as Excel or Word.
+   - Bespoke (custom) - developed for a particular customer according to their specification.
+
    
    
 `Software Engineering:` Software engineering is the systematic application of engineering principles to software development, operation, and maintenance. It involves a disciplined approach to creating reliable, efficient, and maintainable software products.<br/>
