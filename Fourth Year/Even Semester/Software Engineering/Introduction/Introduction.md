@@ -43,8 +43,13 @@ the software acts as the basis for the control of the computer (operating system
 
 
 #### `Functionality` 
-Functionality refers to the degree of performance of the software against its intended purpose.<br/>
+Functionality refers to the degree of performance of the software against its intended purpose.<br/><br/>
 <img src ="./Picture2.png" width = "400"/><br/>
+
+#### `Reliability`
+Reliability is a characteristic of software that refers to its ability to perform its intended functions correctly and consistently over time.<br/><br/>
+<img src ="./Picture1.png" width = "400"/><br/>
+
 
 
 
