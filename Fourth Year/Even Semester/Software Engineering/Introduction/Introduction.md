@@ -33,6 +33,16 @@ the software acts as the basis for the control of the computer (operating system
    - The software does not “wear out” but it does deteriorate.
    - Software continues to be custom-built, as the industry is moving toward component-based construction.
 
+### **<br/>Components of Software**
+   - Functionality
+   - Reliability
+   - Efficiency
+   - Usability
+   - Maintainability
+   - Portability
+
+
+
 
 
 
