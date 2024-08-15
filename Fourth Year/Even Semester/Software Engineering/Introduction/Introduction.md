@@ -42,6 +42,11 @@ the software acts as the basis for the control of the computer (operating system
    - Portability
 
 
+### `Functionality` 
+Functionality refers to the degree of performance of the software against its intended purpose.<br/>
+<img src ="./Picture2.png" width = "200"/><br/>
+
+
 
 
 
