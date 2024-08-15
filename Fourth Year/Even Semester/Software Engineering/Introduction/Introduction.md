@@ -27,3 +27,14 @@ Transforms information such as produces, manages, acquires, modifies, displays, 
 As the vehicle for delivering a product,<br/>
 the software acts as the basis for the control of the computer (operating systems), the communication of information (networking software), and the creation and control of other programs (software tools and environments).<br/>
 
+
+### **<br/>Software characteristics**
+   - Software is developed or engineered; it is not manufactured.
+   - The software does not “wear out” but it does deteriorate.
+   - Software continues to be custom-built, as the industry is moving toward component-based construction.
+
+
+
+
+
+
