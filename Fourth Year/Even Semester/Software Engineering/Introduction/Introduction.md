@@ -62,6 +62,11 @@ Usability refers to the extent to which the software can be used with ease and t
 
 #### `Maintainability`
 Maintainability refers to the ease with which modifications can be made in a software system to extend its functionality improve its performance, or correct errors.<br/><br/>
-<img src ="./Picture5.png" width = "400"/><br/>
+<img src ="./Picture5.png" width = "450"/><br/>
+
+
+#### `Portability`
+Portability is a set of attributes that bears on the ability of software to be transferred from one environment to another, without minimum changes.<br/><br/>
+<img src ="./Picture6.png" width = "400"/><br/>
 
 
