@@ -70,3 +70,15 @@ Portability is a set of attributes that bears on the ability of software to be t
 <img src ="./Picture6.png" width = "400"/><br/>
 
 
+### **<br/>Software Applications**
+   - System software
+   - Application software
+   - Engineering/scientific software
+   - Embedded software
+   - Product line software
+   - Web applications
+   - Artificial intelligence software
+
+
+
+
