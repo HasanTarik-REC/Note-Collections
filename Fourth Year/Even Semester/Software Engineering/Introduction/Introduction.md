@@ -60,4 +60,8 @@ Efficiency refers to the ability to use resources such as memory, processing pow
 Usability refers to the extent to which the software can be used with ease and the amount of effort or time required to learn how to use the software.<br/><br/>
 <img src ="./Picture4.png" width = "400"/><br/>
 
+#### `Maintainability`
+Maintainability refers to the ease with which modifications can be made in a software system to extend its functionality improve its performance, or correct errors.<br/><br/>
+<img src ="./Picture5.png" width = "400"/><br/>
+
 
