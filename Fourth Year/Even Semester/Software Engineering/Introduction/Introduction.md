@@ -51,7 +51,9 @@ Reliability is a characteristic of software that refers to its ability to perfor
 <img src ="./Picture1.png" width = "400"/><br/>
 
 
-
+#### `Efficiency`
+Efficiency refers to the ability to use resources such as memory, processing power, and network bandwidth optimally. High efficiency means that a software program can perform its intended functions quickly and with minimal use of resources, while low efficiency means that a software program may be slow or consume excessive resources.<br/><br/>
+<img src ="./Picture3.png" width = "400"/><br/>
 
 
 
