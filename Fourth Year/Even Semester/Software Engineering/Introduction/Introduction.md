@@ -58,6 +58,6 @@ Efficiency refers to the ability to use resources such as memory, processing pow
 
 #### `Usability`
 Usability refers to the extent to which the software can be used with ease and the amount of effort or time required to learn how to use the software.<br/><br/>
-<img src ="./Picture3.png" width = "400"/><br/>
+<img src ="./Picture4.png" width = "400"/><br/>
 
 
