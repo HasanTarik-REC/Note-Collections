@@ -93,5 +93,10 @@ Application software consists of standalone programs that solve a specific busin
 It has been characterized by "number crunching" algorithms.<br/>
 Its applications range from astronomy to volcanology, from automotive stress analysis to space shuttle orbital dynamics, and from molecular biology to automated manufacturing.<br/>
 
+#### `Embedded Software`
+It resides in read-only memory and is used to control products and systems. Embedded software can perform limited and esoteric functions.<br/>
+Ex. keypad control for a microwave oven, digital functions in an automobile such as fuel
+control, dashboard displays, braking systems, etc.<br/>
+
 
 
