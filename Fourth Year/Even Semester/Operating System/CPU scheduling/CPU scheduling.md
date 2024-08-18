@@ -129,17 +129,18 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | P5 | 3 | 1 | 6 | 17 | 16 | 10 | 10 |
 | p6 | 5 | 0 | 2 | 2 | 2 | 0 | 0 |
 <br/>
+
 #### `Less value highest priority.`<br/>
 
 ### Gantt chart:<br/>
-| P3 | P1 | P4 | P2 | P5 |<br/>
-0---2---5---10--15--22
+| P6 | P2 | P1 | P5 | P3 | P4 |<br/>
+0---2---6---11--17--18--25
 <br/>
 `Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
-                        = 41 / 5<br/>
+                        = 54 / 6<br/>
                         =<br/>
 `Throughput` = Number of Processes / Total Number of Unit Time<br/>
-            = 5 / 22<br/>
+            = 6 / 25<br/>
             =<br/>
 
 
