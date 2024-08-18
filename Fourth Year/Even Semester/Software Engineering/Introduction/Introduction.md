@@ -98,5 +98,6 @@ It resides in read-only memory and is used to control products and systems. Embe
 Ex. keypad control for a microwave oven, digital functions in an automobile such as fuel
 control, dashboard displays, braking systems, etc.<br/>
 
-
+#### `Web Applications`
+It is also called “WebApps". It can be little more than a set of linked hypertext files. WebApps are evolving into sophisticated computing environments that not only provide standalone features, and functions but are also integrated with corporate databases and business applications.<br/>
 
