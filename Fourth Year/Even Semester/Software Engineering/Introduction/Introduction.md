@@ -85,3 +85,7 @@ Portability is a set of attributes that bears on the ability of software to be t
 System software is a collection of programs written to service other programs.<br/>
 It is characterized by heavy interaction with computer hardware; heavy usage by multiple users; concurrent operation that requires scheduling, resource sharing, and sophisticated process management; complex data structures; and multiple external interfaces.<br/>
 `Example:` Compilers, Operating Systems, Drivers, etc.<br/>
+
+#### `Application Software`
+Application software consists of standalone programs that solve a specific business need. Application software is used to control the business function in real time.<br/>
+
