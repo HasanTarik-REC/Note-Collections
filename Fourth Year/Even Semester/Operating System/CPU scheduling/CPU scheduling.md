@@ -118,3 +118,47 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 `Throughput` = Number of Processes / Total Number of Unit Time<br/>
             = 5 / 22<br/>
             =<br/>
+
+### **<br/>Priority Scheduling Algorithm with arrival time for non-preemptive**
+ | Process | Priority | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|---|
+| P1 | 2 | 3 | 5 | 11 | 8 | 3 | 3 |
+| P2 | 1 | 2 | 4 | 6 | 4 | 0 | 0 |
+| P3 | 3 | 5 | 1 | 18 | 13 | 12 | 12 |
+| P4 | 4 | 4 | 7 | 25 | 21 | 14 | 14 |
+| P5 | 3 | 1 | 6 | 17 | 16 | 10 | 10 |
+| p6 | 5 | 0 | 2 | 2 | 2 | 0 | 0 |
+<br/>
+#### `Less value highest priority.`<br/>
+
+### Gantt chart:<br/>
+| P3 | P1 | P4 | P2 | P5 |<br/>
+0---2---5---10--15--22
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 41 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 22<br/>
+            =<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
