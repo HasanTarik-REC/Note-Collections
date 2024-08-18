@@ -89,3 +89,9 @@ It is characterized by heavy interaction with computer hardware; heavy usage by 
 #### `Application Software`
 Application software consists of standalone programs that solve a specific business need. Application software is used to control the business function in real time.<br/>
 
+#### `Engineering /Scientific Software`
+It has been characterized by "number crunching" algorithms.<br/>
+Its applications range from astronomy to volcanology, from automotive stress analysis to space shuttle orbital dynamics, and from molecular biology to automated manufacturing.<br/>
+
+
+
