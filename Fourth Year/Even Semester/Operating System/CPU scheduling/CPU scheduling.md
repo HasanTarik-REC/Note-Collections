@@ -144,7 +144,8 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
             =<br/>
 
 
-
+### **<br/>Priority Scheduling Algorithm without arrival time for non-preemptive**
+Try it by yourself.
 
 
 
