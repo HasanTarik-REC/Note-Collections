@@ -105,6 +105,19 @@ It is also called “WebApps". It can be little more than a set of linked hypert
 AI software makes use of non-numerical algorithms to solve complex problems that are not amenable to computation or straightforward analysis.<br/>
 Ex. Robotics, expert systems, game playing, etc.<br/>
 
+### **<br/>Software Crisis Problem**
+   - The increasing cost of Computers
+   - Increasing product complexity
+   - Lack of programmers
+   - Slow programmer’s productivity growth
+   - Lack of funding for software engineering research
+   - Rising demand for software
+   - Lack of caffeine in software development organizations<br/>
+
+
+   
+
+
 
 
 
