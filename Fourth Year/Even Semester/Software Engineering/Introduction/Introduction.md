@@ -28,6 +28,21 @@ As the vehicle for delivering a product,<br/>
 the software acts as the basis for the control of the computer (operating systems), the communication of information (networking software), and the creation and control of other programs (software tools and environments).<br/>
 
 
+### **<br/>Difference between Hardware and Software**
+#### `Hardware`
+      - Manufactured
+      - Wear Out
+      - Built using components
+      - Relatively simple
+#### `Software`
+      - Developed / Engineered
+      - Deteriorate
+      - Custom built
+      - Complex
+
+
+
+
 ### **<br/>Software characteristics**
    - Software is developed or engineered; it is not manufactured.
    - The software does not “wear out” but it does deteriorate.
