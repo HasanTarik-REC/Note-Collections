@@ -149,6 +149,26 @@ Try it by yourself.
 
 
 
+### **<br/>Shortest Job First/SRTF with arrival time for preemptive**
+ | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|
+| P1 | 2 | 6 | 20 | 18 | 12 | 12 |
+| P2 | 1 | 3 | 4 | 3 | 0 | 0 |
+| P3 | 4 | 2 | 6 | 2 | 0 | 0 |
+| P4 | 0 | 5 | 10 | 10 | 5 | 0 |
+| P5 | 6 | 4 | 14 | 8 | 4 | 4 |
+<br/>
+
+### Gantt chart:<br/>
+| P4 | P2 | P2 | P2 | P3 | P3 | P4 | P4 | P4 | P4 | P5 | P1 |<br/>
+0---1---2---3---4---5---6---7---8---9--10--14--20
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 41 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 20<br/>
+            =<br/>
 
 
 
