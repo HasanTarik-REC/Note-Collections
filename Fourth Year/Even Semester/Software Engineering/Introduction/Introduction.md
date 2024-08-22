@@ -29,18 +29,21 @@ the software acts as the basis for the control of the computer (operating system
 
 
 ### **<br/>Difference between Hardware and Software**
-#### `Hardware`
+##### `Hardware`
       - Manufactured
       - Wear Out
       - Built using components
       - Relatively simple
-#### `Software`
+##### `Software`
       - Developed / Engineered
       - Deteriorate
       - Custom built
       - Complex
 
-
+### **<br/>Manufacturing vs. Development
+   - Once a hardware product has been manufactured, it is difficult or impossible to modify. In contrast, software products are routinely modified and upgraded.
+   - In hardware, hiring more people allows you to accomplish more work, but the same does not necessarily hold true in software engineering.
+   - Unlike hardware, software costs are concentrated in design rather than production.
 
 
 ### **<br/>Software characteristics**
