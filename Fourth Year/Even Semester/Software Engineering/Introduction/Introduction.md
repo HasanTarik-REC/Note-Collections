@@ -29,16 +29,17 @@ the software acts as the basis for the control of the computer (operating system
 
 
 ### **<br/>Difference between Hardware and Software**
-##### `Hardware`
+###### `Hardware`
       - Manufactured
       - Wear Out
       - Built using components
       - Relatively simple
-##### `Software`
+###### `Software`
       - Developed / Engineered
       - Deteriorate
       - Custom built
-      - Complex
+      - Complex<br/>
+
 
 
 ### **<br/>Manufacturing vs. Development
