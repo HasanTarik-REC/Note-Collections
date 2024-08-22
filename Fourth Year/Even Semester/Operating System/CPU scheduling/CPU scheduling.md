@@ -210,7 +210,7 @@ Try it by yourself.
 | P1 | P2 | P3 | P4 | P1 | P3 | P4 | P1 | P3 | P3 |<br/>
 ### Gantt chart:<br/>
 | P1 | P2 | P3 | P4 | P1 | P3 | P4 | P1 | P3 | P3 |<br/>
-0--20--37---57---77--97--117--121--134--152--162
+0--20--37--57--77--97--117--121--134--152--162
 <br/>
 `Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
                         = 454 / 4<br/>
