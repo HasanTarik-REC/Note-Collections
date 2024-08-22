@@ -54,6 +54,11 @@ the software acts as the basis for the control of the computer (operating system
 <img src ="./Picture8.png" width = "600"/><br/>
 When a hardware component wears out, it is replaced by a spare part. There are no software spare parts. Every software failure indicates an error in design or in the process through which design was translated into machine executable code. Therefore, software maintenance involves considerably more complexity.<br/>
 
+### **<br/>Component-Based vs. Custom Built**
+   - Hardware products typically employ many standardized design components.
+   - Most software continues to be custom-built.
+   - The software industry does seem to be moving (slowly) toward component-based construction.
+
 
 ### **<br/>Software characteristics**
    - Software is developed or engineered; it is not manufactured.
