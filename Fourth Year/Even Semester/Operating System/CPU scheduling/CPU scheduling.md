@@ -244,9 +244,9 @@ Try it by yourself.
             =<br/>
 
 ### **<br/>Multilevel queue scheduling algorithm**
- <img src ="./Capture2.PNG" width = "650" title = "Multilevel queue scheduling algorithm."/><br/>
+ <img src ="./Capture2.PNG" width = "450" title = "Multilevel queue scheduling algorithm."/><br/>
 
 
 ### **<br/>Multilevel feedback queue scheduling algorithm**
- <img src ="./Capture3.PNG" width = "650" title = "Multilevel feedback queue scheduling algorithm."/><br/>
+ <img src ="./Capture3.PNG" width = "550" title = "Multilevel feedback queue scheduling algorithm."/><br/>
 
