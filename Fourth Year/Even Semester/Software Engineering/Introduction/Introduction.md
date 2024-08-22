@@ -48,7 +48,12 @@ the software acts as the basis for the control of the computer (operating system
 
 
 ### **<br/>Failure curve for Hardware**
-<img src ="./Picture7.png" width = "600"/><br/>
+<img src ="./Picture7.png" width = "550"/><br/>
+
+### **<br/>Failure curve for Software**
+<img src ="./Picture8.png" width = "600"/><br/>
+When a hardware component wears out, it is replaced by a spare part. There are no software spare parts. Every software failure indicates an error in design or in the process through which design was translated into machine executable code. Therefore, software maintenance involves considerably more complexity.<br/>
+
 
 ### **<br/>Software characteristics**
    - Software is developed or engineered; it is not manufactured.
