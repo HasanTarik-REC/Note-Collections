@@ -186,7 +186,7 @@ Try it by yourself.
 | P1 | P2 | P3 | P1 | P4 | P5 | P2 | P3 | P1 | P5 | P3 |<br/>
 ### Gantt chart:<br/>
 | P1 | P2 | P3 | P1 | P4 | P5 | P2 | P3 | P1 | P5 | P3 |<br/>
-0---2---4----6---8---9---11--12--14--16---18--19
+0---2---4----6---8---9---11--12--14--16--18--19
 <br/>
 `Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
                         = 64 / 5<br/>
