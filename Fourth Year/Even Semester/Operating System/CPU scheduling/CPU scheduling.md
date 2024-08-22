@@ -196,6 +196,30 @@ Try it by yourself.
             =<br/>
 
 
+### **<br/>Round Robin scheduling algorithm without arrival time for preemptive**
+`Time Quantum: 02 sec`<br/>
+ | Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|
+| P1 | 53 | 134 | 134 | 81 |0 |
+| P2 | 17 | 37 | 37 | 20 | 20 |
+| P3 | 68 | 162 | 162 | 94 | 37 |
+| P4 | 24 | 121 | 121 | 97 | 57 |
+<br/>
+
+### Ready Queue:<br/>
+| P1 | P2 | P3 | P1 | P4 | P5 | P2 | P3 | P1 | P5 | P3 |<br/>
+### Gantt chart:<br/>
+| P1 | P2 | P3 | P1 | P4 | P5 | P2 | P3 | P1 | P5 | P3 |<br/>
+0---2---4----6---8---9---11--12--14--16--18--19
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 64 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 19<br/>
+            =<br/>
+
+
 
 
 
