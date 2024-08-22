@@ -220,7 +220,28 @@ Try it by yourself.
             =<br/>
 
 
+### **<br/>Priority Scheduling Algorithm with arrival time for preemptive**
+#### `Highest value highest priority.`<br/>
+ | Process | Priority | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|---|
+| P0 | 2 | 3 | 5 | 23 | 20 | 15 | 15 |
+| P1 | 1 | 2 | 4 | 27 | 25 | 21 | 21 |
+| P2 | 3 | 5 | 6 | 18 | 13 | 7 | 7 |
+| P3 | 4 | 1 | 7 | 8 | 7 | 0 | 0 |
+| P4 | 3 | 0 | 5 | 12 | 12 | 7 | 0 |
+<br/>
 
+
+### Gantt chart:<br/>
+| P4 | P3 | P3 | P3 | P3 | P3 | P4 | P2 | P0 | P1 |<br/>
+0---1---2---3---4---5---8--12--18--23--27
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 77 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 27<br/>
+            =<br/>
 
 
 
