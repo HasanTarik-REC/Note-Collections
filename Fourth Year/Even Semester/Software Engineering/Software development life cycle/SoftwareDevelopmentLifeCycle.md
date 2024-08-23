@@ -7,4 +7,15 @@ The SDLC is a framework that describes the activities performed at each stage of
 The software industry uses the SDLC process to design, develop, and test high-quality software. It aims to produce quality software that meets or exceeds customer expectations and reaches completion within time and budget.<br/>
 
 ### **<br/>SDLC Phases**
-<img src ="./Picture1.png" width = "400"/><br/>
+<img src ="./Picture1.png" width = "300"/><br/>
+
+### **<br/>SDLC Phases**
+  - Planning and Requirements Analysis
+  - Defining Requirements
+  - Designing the Software
+  - Building or Developing the Software
+  - Testing the Software
+  - Deployment and Maintenance
+
+
+
