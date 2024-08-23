@@ -148,8 +148,11 @@ Ex. Robotics, expert systems, game playing, etc.<br/>
 
 
    
+### **<br/>Development Effort**
+<img src ="./Capture1.PNG" width = "400"/><br/>
 
+### **<br/>Developers Productivity Growth**
+<img src ="./Capture2.PNG" width = "400"/><br/>
 
-
-
-
+### **<br/>Rising Demand for Software**
+<img src ="./Capture3.PNG" width = "400"/><br/>
