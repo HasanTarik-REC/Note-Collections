@@ -16,7 +16,7 @@
 - [Process Management][P3]
 - [Threads][P4]
 - [CPU Scheduling][P5]
-- [Process Synchronization][P6]
+- [Process Synchronization][PS6]
 - [Deadlocks][P7]
 - [Storage Management][P8]
 - [Virtual Memory][P9]
@@ -35,7 +35,7 @@
 [P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Process%20Management/Process%20Management.md
 [P4]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Threads/Threads.md
 [P5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/CPU%20scheduling/CPU%20scheduling.md
-[P6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Process%20Synchronization.md
+[PS6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Process%20Synchronization/Process%20Synchronization.md
 [P7]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Deadlocks.md
 [P8]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Storage%20Management.md
 [P9]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Operating%20System/Virtual%20Memory.md
