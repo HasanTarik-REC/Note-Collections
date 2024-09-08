@@ -18,4 +18,6 @@ The software industry uses the SDLC process to design, develop, and test high-qu
   - Deployment and Maintenance
 
 
-
+#### <br/>Planning & Requirement Analysis<br/>
+Requirement analysis is the most fundamental stage in SDLC. The senior members of the team perform it with inputs from all the stakeholders and domain experts or SMEs in the industry.<br/> 
+Planning for the quality assurance requirements and identifying the risks associated with the project is also done at this stage.<br/>
