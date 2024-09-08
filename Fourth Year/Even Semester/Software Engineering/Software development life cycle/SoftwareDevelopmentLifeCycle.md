@@ -21,3 +21,9 @@ The software industry uses the SDLC process to design, develop, and test high-qu
 #### <br/>Planning & Requirement Analysis<br/>
 Requirement analysis is the most fundamental stage in SDLC. The senior members of the team perform it with inputs from all the stakeholders and domain experts or SMEs in the industry.<br/> 
 Planning for the quality assurance requirements and identifying the risks associated with the project is also done at this stage.<br/>
+
+#### `Business Requirements`
+<br/>Business requirements is a phase in the Software development life cycle that greets the requirements of the end users to guide the design of the future system.<br/>
+Business requirements are usually captured by business analysts or product owners who analyze business activities or who have subject matter expertise (SMEs).<br/>
+
+
