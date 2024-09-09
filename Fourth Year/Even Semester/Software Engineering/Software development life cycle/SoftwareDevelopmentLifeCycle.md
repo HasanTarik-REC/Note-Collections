@@ -34,4 +34,16 @@ Two types of stakeholders:<br/>
 
 By effectively managing stakeholder requirements, organizations can ensure that their software projects deliver value, meet the needs of their target audience, and contribute to overall business success.<br/>
 
+#### `Functional Requirements`
+Functional requirements define the specific behaviors and capabilities that a software system must exhibit to meet its intended purpose. Such as 
+  - User interface
+  - Data processing
+  - Performance
+  - Login/Registration
+  - Search Functionality
+  - Data Export
+  - Order Processing, etc.
+
+By clearly defining and validating functional requirements, software development teams can ensure that the final product meets the needs of its users and delivers the desired value.<br/>
+
 
