@@ -46,4 +46,16 @@ Functional requirements define the specific behaviors and capabilities that a so
 
 By clearly defining and validating functional requirements, software development teams can ensure that the final product meets the needs of its users and delivers the desired value.<br/>
 
-
+#### `Non-functional Requirements`
+Non-functional requirements specify the attributes and characteristics of a software system that are not directly related to its specific functions. such as 
+  - Performance
+     - Response time
+     - Throughput
+     - Scalability
+     - Capacity
+ - Security
+ - Reliability
+ - Usability
+ - Maintainability
+   
+By effectively managing non-functional requirements, software development teams can ensure that the final product not only meets its intended functionality but also delivers a high-quality user experience, is reliable, secure, and meets other important quality attributes.
