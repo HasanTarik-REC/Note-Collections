@@ -72,5 +72,6 @@ This is done through the ‘SRS’ – Software Requirement Specification docume
 #### `Enterprise Analysis`
 Enterprise Analysis is a crucial phase in the Software Development Life Cycle (SDLC), particularly in the early stages of software project planning. It focuses on understanding the business goals, problems, and opportunities that drive the need for a software solution. This process ensures that the software development aligns with the overall business objectives and delivers value.<br/>
 
-
+#### `Business Analysis, Planning, and Monitoring`
+Business Analysis Planning and Monitoring is a key knowledge area within the Software Development Life Cycle (SDLC). It involves defining and coordinating the business analysis approach, processes, and activities that will be used throughout the project. This phase is crucial for ensuring that business analysis efforts are aligned with the project’s goals and are executed efficiently and effectively.<br/>
 
