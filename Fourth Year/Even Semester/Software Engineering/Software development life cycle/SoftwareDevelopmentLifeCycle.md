@@ -65,9 +65,17 @@ Transition requirements specify the conditions and processes necessary to succes
 Organizations can minimize disruptions and ensure a successful transition to new systems by effectively managing transition requirements. This can improve efficiency, reduce costs, and enhance business outcomes.<br/>
 
 
-#### <br/>Defining Requirements<br/>
+### <br/>Defining Requirements<br/>
 After requirement analysis, the next step is clearly defining and documenting the software requirements and getting them approved by the project stakeholders.<br/>
 This is done through the ‘SRS’ – Software Requirement Specification document which consists of all the product requirements to be designed and developed during the project life cycle.<br/>
+
+### <br/>Defining Requirements<br/>
+  - Enterprise Analysis
+  - Business Analysis Planning & Monitoring
+  - Elicitation
+  - Requirements Analysis
+  - Requirements Management & Communication
+  - Solution Assessment & Validation<br/>
 
 #### `Enterprise Analysis`
 Enterprise Analysis is a crucial phase in the Software Development Life Cycle (SDLC), particularly in the early stages of software project planning. It focuses on understanding the business goals, problems, and opportunities that drive the need for a software solution. This process ensures that the software development aligns with the overall business objectives and delivers value.<br/>
