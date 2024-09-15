@@ -75,3 +75,6 @@ Enterprise Analysis is a crucial phase in the Software Development Life Cycle (S
 #### `Business Analysis, Planning, and Monitoring`
 Business Analysis Planning and Monitoring is a key knowledge area within the Software Development Life Cycle (SDLC). It involves defining and coordinating the business analysis approach, processes, and activities that will be used throughout the project. This phase is crucial for ensuring that business analysis efforts are aligned with the project’s goals and are executed efficiently and effectively.<br/>
 
+#### `Elicitation`
+Elicitation is a critical phase in the software development lifecycle (SDLC) that involves gathering information from stakeholders to understand their needs, requirements, and expectations for the software system. This information is essential for defining the scope, features, and functionality of the software.<br/>
+
