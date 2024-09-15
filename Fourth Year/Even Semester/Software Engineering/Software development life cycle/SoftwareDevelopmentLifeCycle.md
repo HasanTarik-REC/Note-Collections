@@ -86,6 +86,8 @@ Requirement analysis is the most fundamental stage in SDLC. The senior members o
 Requirements Management and Communication in the Software Development Life Cycle (SDLC) refers to the processes of documenting, organizing, tracking, and ensuring effective communication of requirements to stakeholders and development teams. Proper management and communication of requirements are crucial to ensure that the final software product meets the intended goals, functions as expected, and satisfies stakeholder needs.<br/>
 
 
-
+#### `Solution Assessment & Validation`
+Solution assessment involves evaluating the system's design and development to ensure it meets the defined requirements, business objectives, and stakeholder expectations.
+It helps determine whether the solution is feasible, fits within the scope, and delivers the expected benefits.<br/>Solution validation ensures that the implemented solution is working as expected and fulfills the business requirements. Validation checks that the software product provides the intended value and functions correctly in real-world scenarios.<br/>
 
 
