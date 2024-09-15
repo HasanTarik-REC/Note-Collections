@@ -69,4 +69,8 @@ Organizations can minimize disruptions and ensure a successful transition to new
 After requirement analysis, the next step is clearly defining and documenting the software requirements and getting them approved by the project stakeholders.<br/>
 This is done through the ‘SRS’ – Software Requirement Specification document which consists of all the product requirements to be designed and developed during the project life cycle.<br/>
 
+#### `Enterprise Analysis`
+Enterprise Analysis is a crucial phase in the Software Development Life Cycle (SDLC), particularly in the early stages of software project planning. It focuses on understanding the business goals, problems, and opportunities that drive the need for a software solution. This process ensures that the software development aligns with the overall business objectives and delivers value.<br/>
+
+
 
