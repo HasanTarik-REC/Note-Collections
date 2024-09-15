@@ -82,7 +82,8 @@ Elicitation is a critical phase in the software development lifecycle (SDLC) tha
 Requirement analysis is the most fundamental stage in SDLC. The senior members of the team perform it with inputs from all the stakeholders and domain experts or SMEs in the industry.<br/>
 
 
-
+#### `Requirements Management and Communication`
+Requirements Management and Communication in the Software Development Life Cycle (SDLC) refers to the processes of documenting, organizing, tracking, and ensuring effective communication of requirements to stakeholders and development teams. Proper management and communication of requirements are crucial to ensure that the final software product meets the intended goals, functions as expected, and satisfies stakeholder needs.<br/>
 
 
 
