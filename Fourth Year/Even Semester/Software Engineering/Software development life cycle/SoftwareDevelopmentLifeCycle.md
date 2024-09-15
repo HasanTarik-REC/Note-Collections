@@ -62,8 +62,11 @@ By effectively managing non-functional requirements, software development teams 
 
 #### `Transition Requirements`
 Transition requirements specify the conditions and processes necessary to successfully migrate from an existing system or process to a new one. They play a crucial role in ensuring a smooth and efficient transition, minimizing disruptions and risks.<br/>
-By effectively managing transition requirements, organizations can minimize disruptions and ensure a successful transition to new systems. This can lead to improved efficiency, reduced costs, and enhanced business outcomes.<br/>
+Organizations can minimize disruptions and ensure a successful transition to new systems by effectively managing transition requirements. This can improve efficiency, reduce costs, and enhance business outcomes.<br/>
 
 
+#### <br/>Defining Requirements<br/>
+After requirement analysis, the next step is clearly defining and documenting the software requirements and getting them approved by the project stakeholders.<br/>
+This is done through the ‘SRS’ – Software Requirement Specification document which consists of all the product requirements to be designed and developed during the project life cycle.<br/>
 
 
