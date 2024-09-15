@@ -78,3 +78,13 @@ Business Analysis Planning and Monitoring is a key knowledge area within the Sof
 #### `Elicitation`
 Elicitation is a critical phase in the software development lifecycle (SDLC) that involves gathering information from stakeholders to understand their needs, requirements, and expectations for the software system. This information is essential for defining the scope, features, and functionality of the software.<br/>
 
+#### `Requirement Analysis`
+Requirement analysis is the most fundamental stage in SDLC. The senior members of the team perform it with inputs from all the stakeholders and domain experts or SMEs in the industry.<br/>
+
+
+
+
+
+
+
+
