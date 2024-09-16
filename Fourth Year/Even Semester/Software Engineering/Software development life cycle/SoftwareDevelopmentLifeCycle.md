@@ -65,11 +65,11 @@ Transition requirements specify the conditions and processes necessary to succes
 Organizations can minimize disruptions and ensure a successful transition to new systems by effectively managing transition requirements. This can improve efficiency, reduce costs, and enhance business outcomes.<br/>
 
 
-### <br/>Defining Requirements<br/>**
+### **<br/>Defining Requirements**
 After requirement analysis, the next step is clearly defining and documenting the software requirements and getting them approved by the project stakeholders.<br/>
 This is done through the ‘SRS’ – Software Requirement Specification document which consists of all the product requirements to be designed and developed during the project life cycle.<br/>
 
-### <br/>Defining Requirements<br/>
+### **<br/>Defining Requirements<br/>**
   - Enterprise Analysis
   - Business Analysis Planning & Monitoring
   - Elicitation
@@ -98,6 +98,6 @@ Requirements Management and Communication in the Software Development Life Cycle
 Solution assessment involves evaluating the system's design and development to ensure it meets the defined requirements, business objectives, and stakeholder expectations.
 It helps determine whether the solution is feasible, fits within the scope, and delivers the expected benefits.<br/>Solution validation ensures that the implemented solution is working as expected and fulfills the business requirements. Validation checks that the software product provides the intended value and functions correctly in real-world scenarios.<br/>
 
-### **<br/>Designing the Software<br/>**
+### **<br/>Designing the Software**
 Based on the requirements specified in the Software Requirements Specification,  multiple designs for the product architecture are present in the Design Document Specification (DDS).<br/>
 Market analysts and stakeholders review this Design Document Specification. After evaluating all the possible factors, the most practical and logical design is chosen for the software.
