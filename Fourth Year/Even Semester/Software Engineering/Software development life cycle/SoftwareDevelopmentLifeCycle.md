@@ -107,4 +107,8 @@ Market analysts and stakeholders review this Design Document Specification. Afte
 In this stage of SDLC, the actual development starts, and the product is built. The programming code is generated as per the Design Document Specification during this stage.<br/>
 Developers follow the coding guidelines defined by their organization and programming tools to generate and implement the code.<br/>
 
+### **<br/>Testing the Software**
+After development, it is necessary to test the software to ensure its functionality is working smoothly. So, minimal testing is conducted at every stage of SDLC.<br/>
+At this stage, all the probable flaws are tracked, fixed, and retested to ensure the product confronts the quality requirements of SRS.<br/>
+
 
