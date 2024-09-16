@@ -100,4 +100,11 @@ It helps determine whether the solution is feasible, fits within the scope, and 
 
 ### **<br/>Designing the Software**
 Based on the requirements specified in the Software Requirements Specification,  multiple designs for the product architecture are present in the Design Document Specification (DDS).<br/>
-Market analysts and stakeholders review this Design Document Specification. After evaluating all the possible factors, the most practical and logical design is chosen for the software.
+Market analysts and stakeholders review this Design Document Specification. After evaluating all the possible factors, the most practical and logical design is chosen for the software.<br/>
+
+
+### **<br/>Developing the Software**
+In this stage of SDLC, the actual development starts, and the product is built. The programming code is generated as per the Design Document Specification during this stage.<br/>
+Developers follow the coding guidelines defined by their organization and programming tools to generate and implement the code.<br/>
+
+
