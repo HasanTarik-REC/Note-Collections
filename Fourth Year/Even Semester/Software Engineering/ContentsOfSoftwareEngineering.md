@@ -21,9 +21,5 @@
 <!--Links-->
 [P1]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Software%20Engineering/Introduction/Introduction.md
 [P2]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Software%20Engineering/Software%20development%20life%20cycle/SoftwareDevelopmentLifeCycle.md
-[P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Process%20Management/Process%20Management.md
-[P4]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Threads/Threads.md
-[P5]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/CPU%20scheduling/CPU%20scheduling.md
-[P6]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Process%20Synchronization.md
-[P7]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Third%20Year/Even%20Semester/Operating%20System/Deadlocks.md
+[P3]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Software%20Engineering/Software%20requirement%20specification/SoftwareRequirementSpecification.md
 <!--End-->
