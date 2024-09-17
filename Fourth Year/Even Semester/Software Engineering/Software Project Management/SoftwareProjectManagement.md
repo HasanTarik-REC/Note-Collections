@@ -48,7 +48,15 @@ Customers who specify the requirements for the software to be engineered and oth
     - Ideas or Innovation.  The ability to encourage people to create and feel creative even when they must work within bounds established for a particular software product or application.<br/>
     - Characteristics of effective project managers (problem-solving, managerial identity, achievement, influence, and team building)<br/>
 
+### **<br/>Software Teams**
+#### `The following factors must be considered when selecting a software project team structure.`
+  - The difficulty of the problem to be solved.
+  - The size of the resultant program(s) in lines of code or function points.
+  - The time that the team will stay together (team lifetime).
+  - The degree to which the problem can be modularized.
+  - The required quality and reliability of the system to be built.
+  - The rigidity of the delivery date.
+  - The degree of sociability (communication) required for the project.
 
-    
 
   
