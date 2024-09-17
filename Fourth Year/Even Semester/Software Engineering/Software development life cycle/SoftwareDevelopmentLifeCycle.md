@@ -111,4 +111,6 @@ Developers follow the coding guidelines defined by their organization and progra
 After development, it is necessary to test the software to ensure its functionality is working smoothly. So, minimal testing is conducted at every stage of SDLC.<br/>
 At this stage, all the probable flaws are tracked, fixed, and retested to ensure the product confronts the quality requirements of SRS.<br/>
 
-
+### **<br/>Deployment and Maintenance**
+If no bugs or errors are reported after testing in a real industrial environment, then the company deploys it.<br/>Then based on the feedback, the software may be released as it is or with suggested enhancements in the target segment.<br/>
+After the software is deployed, its maintenance starts.<br/>
