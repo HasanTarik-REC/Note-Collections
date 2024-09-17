@@ -28,11 +28,18 @@ Effective project management focuses on four aspects of the project known as the
   - Process - The set of framework activities and software engineering tasks to get the job done (framework activities populated with tasks, milestones, work products, and QA points)
   - Project - All work required to make the product a reality. (planning, monitoring, controlling)<br/>
   
-### **<br/>Player of the project**
+### **<br/>People**<br/>88Player of the project**
   - The Stakeholders
   - Team leaders
   - Agile Team (Implementer)
   - Coordination and Communication Issues.<br/>
+
+### **<br/>Stakeholders**
+  - Senior managers who define the business issues that often have a significant influence on the project.<br/>
+  - Project (technical) managers must plan, motivate, organize, and control the practitioners who do software work.<br/>
+  - Practitioners who deliver the technical skills necessary to engineer a product or application.
+Customers who specify the requirements for the software to be engineered and other stakeholders who have a peripheral interest in the outcome.<br/>
+  - End-users who interact with the software once it is released for production use.<br/>
 
 
 
