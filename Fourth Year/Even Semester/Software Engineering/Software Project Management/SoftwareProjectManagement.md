@@ -14,9 +14,9 @@ Managers concern about the following issues:<br/>
 
 ### **<br/>Why Project Fail?**
   - Changing customer requirement
-Ambiguous/Incomplete requirement
-Unrealistic deadline
-An honest underestimate of effort
-Predictable or unpredictable risks
-Technical difficulties
-Miscommunication among project staff
+  - Ambiguous/Incomplete requirement
+  - Unrealistic deadline
+  - An honest underestimate of effort
+  - Predictable or unpredictable risks
+  - Technical difficulties
+  - Miscommunication among project staff
