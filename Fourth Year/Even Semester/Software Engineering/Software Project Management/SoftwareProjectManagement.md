@@ -58,5 +58,14 @@ Customers who specify the requirements for the software to be engineered and oth
   - The rigidity of the delivery date.
   - The degree of sociability (communication) required for the project.
 
+### **<br/>Agile Team**
+Small, Highly motivated project team also called Agile Team. It adopts many of the characteristics of successful software projects.<br/>
+  - Team members must have trust in one another.
+  - The distribution of skills must be appropriate to the problem.
+  - Unconventional persons may have to be excluded from the team if team organization  is to be maintained.
+  - The team is “self-organizing”
+      - An adaptive team structure.
+      - Uses elements of organizational paradigm’s random, open, and synchronous paradigms.
+      - Significant autonomy.<br/>
 
-  
+
