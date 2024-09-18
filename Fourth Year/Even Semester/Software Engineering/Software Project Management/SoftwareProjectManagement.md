@@ -69,3 +69,22 @@ Small, Highly motivated project team also called Agile Team. It adopts many of t
       - Significant autonomy.<br/>
 
 
+### **<br/>What is the W5HH Principle?
+Boehm suggests an approach(W5HH) that addresses project objectives, milestones and schedules, responsibilities, management and technical approaches, and required resources.<br/>
+`Why is the system being developed?`<br/>
+Enables all parties to assess the validity of business reasons for the software work.<br/>
+`What will be done?`<br/>
+Establish the task set that will be required.<br/>
+`When will it be accomplished?`<br/>
+Project schedule to achieve milestones.<br/>
+`Who is responsible?`<br/>
+Role and responsibility of each member.<br/>
+`Where are they organizationally located?`<br/>
+Customers, end users, and other stakeholders also have responsibility.<br/>
+`How will the job be done technically and managerially?`<br/>
+Management and technical strategy must be defined.<br/>
+`How much of each resource is needed?`<br/>
+Develop estimation.<br/>
+It is applicable regardless of the size or complexity of the software project.<br/>
+
+
