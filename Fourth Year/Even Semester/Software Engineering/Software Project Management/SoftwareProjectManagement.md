@@ -12,7 +12,7 @@ Managers concern about the following issues:<br/>
   - Other Resources
   - Project Monitoring
 
-### **<br/>Why Project Fail?<br/> When does a Project Get into jeopardy?**
+### **<br/>Why Project Fail?**
   - Changing customer requirement
   - Ambiguous/Incomplete requirement
   - Unrealistic deadline
@@ -20,6 +20,20 @@ Managers concern about the following issues:<br/>
   - Predictable or unpredictable risks
   - Technical difficulties
   - Miscommunication among project staff
+
+### **<br/>When does a project get into jeopardy?**
+  - Software people don’t understand their customer’s needs.
+  - The product scope is poorly defined.
+  - Changes are managed poorly.
+  - The chosen technology changes.
+  - Business needs change [or are ill-defined].
+  - Deadlines are unrealistic.
+  - Users are resistant.
+  - Sponsorship is lost [or was never properly obtained].
+  - The project team lacks people with appropriate skills.
+  - Managers [and practitioners] avoid best practices and lessons learned.
+
+
 
 ### **<br/>Management Spectrum**
 Effective project management focuses on four aspects of the project known as the 4 P’s:<br/>
