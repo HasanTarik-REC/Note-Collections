@@ -12,7 +12,7 @@ Managers concern about the following issues:<br/>
   - Other Resources
   - Project Monitoring
 
-### **<br/>Why Project Fail?**
+### **<br/>Why Project Fail?<br/> When does a Project Get into jeopardy?**
   - Changing customer requirement
   - Ambiguous/Incomplete requirement
   - Unrealistic deadline
@@ -69,7 +69,7 @@ Small, Highly motivated project team also called Agile Team. It adopts many of t
       - Significant autonomy.<br/>
 
 
-### **<br/>What is the W5HH Principle?
+### **<br/>What is the W5HH Principle?**
 Boehm suggests an approach(W5HH) that addresses project objectives, milestones and schedules, responsibilities, management and technical approaches, and required resources.<br/>
 `Why is the system being developed?`<br/>
 Enables all parties to assess the validity of business reasons for the software work.<br/>
