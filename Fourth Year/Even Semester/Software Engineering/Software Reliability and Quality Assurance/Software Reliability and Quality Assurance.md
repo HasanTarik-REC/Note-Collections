@@ -1,6 +1,10 @@
 ### **<br/>What is software quality?**
 Software quality refers to the characteristics of a software product that determine its ability to satisfy the stated needs of its users. In simpler terms, it refers to a software product that meets its intended purpose and user expectations.
 
+### **<br/>Write the software quality management activities.**
+Software Quality Management involves the systematic processes and activities that ensure the software product meets specified quality requirements and standards. SQM aims to enhance the software’s reliability, functionality, performance, and overall quality.<br/>
+Here are the primary Software Quality Management activities:<br/>
+
 ### **<br/>Define Software Quality Assurance.**
 Software Quality Assurance (SQA) is a systematic approach to ensuring software meets specified requirements and expectations. It encompasses a range of activities aimed at preventing defects and ensuring the quality of the software product throughout its lifecycle.<br/>
 
