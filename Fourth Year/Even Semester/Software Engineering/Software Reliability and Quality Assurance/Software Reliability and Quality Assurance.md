@@ -4,6 +4,14 @@ Software quality refers to the characteristics of a software product that determ
 ### **<br/>Write the software quality management activities.**
 Software Quality Management involves the systematic processes and activities that ensure the software product meets specified quality requirements and standards. SQM aims to enhance the software’s reliability, functionality, performance, and overall quality.<br/>
 Here are the primary Software Quality Management activities:<br/>
+  - `Quality Assurance:` Quality assurance focuses on setting up a systematic process to prevent defects and ensure high standards during software development. It is process-oriented.
+  - `Quality Planning:` This is the activity of defining the quality standards and determining how they will be achieved for the software project.
+  - `Quality Control:` Quality control focuses on identifying and fixing defects in the software product through inspection and testing. It is product-oriented.
+  - `Test Management:` Test management involves planning, executing, and monitoring the testing activities in the project to ensure software quality.
+  - `Metrics and Reporting:` Measuring and reporting on the software’s quality attributes, development processes, and testing outcomes is crucial for evaluating quality progress.
+  - `Risk Management:` Risk management focuses on identifying, assessing, and mitigating potential risks that could impact software quality.
+  - `Process Improvement:` Continuous process improvement aims to enhance the development and quality management processes for better efficiency and software quality.
+  - `Customer Feedback and Satisfaction:` Gathering feedback from customers and users helps assess software quality and identify areas for improvement in future releases.
 
 ### **<br/>Define Software Quality Assurance.**
 Software Quality Assurance (SQA) is a systematic approach to ensuring software meets specified requirements and expectations. It encompasses a range of activities aimed at preventing defects and ensuring the quality of the software product throughout its lifecycle.<br/>
