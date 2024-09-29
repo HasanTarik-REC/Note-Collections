@@ -102,3 +102,5 @@ Develop estimation.<br/>
 It is applicable regardless of the size or complexity of the software project.<br/>
 
 
+### **<br/>Describe the software project management activities.**
+Software project management involves a set of activities that ensure the successful planning, execution, and delivery of a software product.<br/> These activities typically include:<br/>
