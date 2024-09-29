@@ -1,5 +1,8 @@
+### **<br/>What is software quality?**
+Software quality refers to the characteristics of a software product that determine its ability to satisfy the stated needs of its users. In simpler terms, it refers to a software product that meets its intended purpose and user expectations.
+
 ### **<br/>Define Software Quality Assurance.**
-Software Quality Assurance (SQA) is a systematic approach to ensuring that software meets specified requirements and expectations. It encompasses a range of activities aimed at preventing defects and ensuring the quality of the software product throughout its lifecycle.<br/>
+Software Quality Assurance (SQA) is a systematic approach to ensuring software meets specified requirements and expectations. It encompasses a range of activities aimed at preventing defects and ensuring the quality of the software product throughout its lifecycle.<br/>
 
 ### **<br/>Write down the different roles of a SQA group.**
 Roles of a Software Quality Assurance (SQA) Group:<br/>
