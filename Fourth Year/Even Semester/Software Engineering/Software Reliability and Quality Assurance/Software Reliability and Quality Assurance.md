@@ -11,7 +11,7 @@ Here are the primary Software Quality Management activities:<br/>
   - `Metrics and Reporting:` Measuring and reporting on the software’s quality attributes, development processes, and testing outcomes is crucial for evaluating quality progress.
   - `Risk Management:` Risk management focuses on identifying, assessing, and mitigating potential risks that could impact software quality.
   - `Process Improvement:` Continuous process improvement aims to enhance the development and quality management processes for better efficiency and software quality.
-  - `Customer Feedback and Satisfaction:` Gathering feedback from customers and users helps assess software quality and identify areas for improvement in future releases.
+  - ``Customer Feedback and Satisfaction:`` Gathering feedback from customers and users helps assess software quality and identify areas for improvement in future releases.
 
 ### **<br/>Define Software Quality Assurance.**
 Software Quality Assurance (SQA) is a systematic approach to ensuring software meets specified requirements and expectations. It encompasses a range of activities aimed at preventing defects and ensuring the quality of the software product throughout its lifecycle.<br/>
