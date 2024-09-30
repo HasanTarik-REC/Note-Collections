@@ -104,3 +104,11 @@ It is applicable regardless of the size or complexity of the software project.<b
 
 ### **<br/>Describe the software project management activities.**
 Software project management involves a set of activities that ensure the successful planning, execution, and delivery of a software product.<br/> These activities typically include:<br/>
+  - `Project Planning:` Project planning is the foundation for the software development process, defining the project's scope, goals, resources, timeline, and budget.
+  - `Project Execution:` Project execution involves carrying out the project plan and delivering the software product. This stage focuses on managing teams, coordinating activities, and ensuring timely tasks.
+  - `Project Monitoring and Control:` This phase ensures that the project stays on track regarding scope, time, budget, and quality. It involves constant monitoring of the project's progress and implementing corrective actions when necessary.
+  - `Risk Management:` Risk management involves identifying potential risks, assessing their impact on the project, and developing mitigation strategies to minimize or avoid them.
+  - `Resource Management:` Resource management ensures that the necessary resources (team members, tools, infrastructure) are available and efficiently utilized throughout the project.
+  - `Quality Management:` Quality management ensures that the software meets the desired quality standards and customer expectations through planned and systematic activities.
+  - `Communication Management:` Communication management ensures that information flows efficiently between project team members, stakeholders, and management. Clear communication is key to project success.
+  - `Project Closure:` Project closure ensures that the project is completed successfully, the software is delivered, and all documentation is finalized. This phase includes reviewing project performance, gathering lessons learned, and closing contracts.
