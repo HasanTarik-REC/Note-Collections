@@ -21,5 +21,26 @@ S/w testability is simply how easily a system, program or product can be tested.
       - Incorrect output is easily identified.
       - Internal errors are automatically detected & reported.
       - Source code is accessible.
-  - 
+  - Controllability - "The better we can control the software, the more the testing can be automated and optimized.“
+      - Software and hardware states and variables can be controlled directly by the test engineer.
+      - Tests can be conveniently specified, automated, and reproduced.
+  - Decomposability - By controlling the scope of testing, we can more quickly isolate problems and perform smarter retesting.
+      - Independent modules can be tested independently.
+  - Simplicity - "Simplicity refers to how simple the software’s design and functionality are, making it easier to understand, test, and debug."
+      - The software design is clean, with minimal complexity.
+      - Code and logic are straightforward, with fewer convoluted structures.
+      - There are fewer special cases, exceptions, and interdependencies that complicate testing.
+      - Testers can easily follow the software’s flow and logic.
+  - Stability - "The fewer the changes, the fewer the disruptions to testing."
+      - The software’s behavior does not change unexpectedly due to minor code changes.
+      - Refactoring or enhancements do not break existing functionality (regression).
+      - Testers can reproduce results consistently under the same conditions.
+      - The software handles errors, crashes, and unexpected inputs gracefully.
+  - Understandability –  "The more information we have, the smarter we will test."
+      - The software is well-documented, with clear requirements, design specifications, and user guides.
+      - Code is written with clarity, using standard naming conventions and comments.
+      - The purpose of each component or module is easy to grasp.
+      - Developers and testers can easily interpret the logic, making it easier to create test cases.
+
+
 
