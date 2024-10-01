@@ -3,6 +3,10 @@
 ### **<br/>Define Software testing**
 Software testing is a critical process in software development that ensures the product is functional, free of defects, and aligned with user requirements, ultimately leading to a better software product.
 
+### **<br/>What are the objectives of Software testing?**
+  - The primary objective is to find and fix any defects or bugs in the software.
+  - To ensure the desired functionality, performance, security, usability, and positive user experience.
+
 ### **<br/>Alpha testing**
 Alpha testing is software testing conducted by the development team or a designated internal test group. It typically occurs early in the development process and focuses on ensuring that the software functions as intended and meets the specified requirements.
 
