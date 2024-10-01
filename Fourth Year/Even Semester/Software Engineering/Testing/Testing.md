@@ -26,6 +26,16 @@ Black box also called behavioral testing, focuses on the functional requirements
   - Behavior or performance errors,
   - Initialization and termination errors.
 
+### **<br/>Difference between White box testing and Black box testing**
+
+| Aspect | White Box Testing | Black Box Testing |
+|---|---|---|
+| Knowledge Required | Requires knowledge of the internal code | No knowledge of the internal code needed |
+| Focus | Internal code structure, paths, and logic | Functional behavior and output |
+| Techniques | Unit Testing, Path Testing, Branch Testing | Equivalence Partitioning, Boundary Testing |
+| Tester Expertise | Tester needs programming knowledge | Tester only needs to know the software’s functionality |
+| What is Tested? | Tests code, control flows, conditions | Tests input/output, user interaction, and functionality |
+| Typical Use | Testing for logic errors and security flaws | Validating that software meets user requirements |
 
 ### **<br/>Alpha testing**
 Alpha testing is software testing conducted by the development team or a designated internal test group. It typically occurs early in the development process and focuses on ensuring that the software functions as intended and meets the specified requirements.
