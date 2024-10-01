@@ -9,6 +9,10 @@ Software testing is a critical process in software development that ensures the 
   - Assessing the overall quality of the software in terms of its correctness, reliability, efficiency, usability, maintainability, portability, and security.
   - Reduce the risk of software failure and defects that could impact the user experience or business operations.
 
+### **<br/>Define White box testing**
+White Box Testing also known as Clear Box Testing, Open Box Testing, or Glass Box Testing. It is a testing technique in which the tester knows the internal structure, code, and logic of the software being tested. This method is focused on the internal workings of an application, verifying that the code is functioning as expected.
+
+### **<br/>Define Black box testing**
 
 
 ### **<br/>Alpha testing**
