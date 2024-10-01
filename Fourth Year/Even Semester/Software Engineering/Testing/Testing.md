@@ -6,6 +6,10 @@ Alpha testing is software testing conducted by the development team or a designa
 ### **<br/>Beta testing**
 Beta Testing is a type of external user acceptance testing where a nearly complete version of the software is released to a selected group of real users outside the development team, known as beta testers. The purpose of beta testing is to evaluate the software’s performance, usability, and functionality in real-world conditions before the final release.
 
+
+### **<br/>Smoke testing**
+Smoke Testing is a type of preliminary software testing used to verify that the critical functionalities of an application are working correctly after a new build or version is created. Its ability to quickly detect major issues, save time and resources, and support agile/CI processes makes it an essential tool in the software testing lifecycle.
+
 ### **<br/>Write the software testing principles.**
   - All tests should be traceable to customer requirements.
   - Tests should be planned long before testing begins.
