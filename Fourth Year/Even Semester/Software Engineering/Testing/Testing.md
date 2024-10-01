@@ -1,5 +1,8 @@
 ### Chapter 6 (Software Testing)
 
+### **<br/>Define Software testing**
+Software testing is a critical process in software development that ensures the product is functional, free of defects, and aligned with user requirements, ultimately leading to a better software product.
+
 ### **<br/>Alpha testing**
 Alpha testing is software testing conducted by the development team or a designated internal test group. It typically occurs early in the development process and focuses on ensuring that the software functions as intended and meets the specified requirements.
 
