@@ -1,5 +1,8 @@
 ### Chapter 6 (Software Testing)
 
+### **<br/>Alpha testing**
+Alpha testing is software testing conducted by the development team or a designated internal test group. It typically occurs early in the development process and focuses on ensuring that the software functions as intended and meets the specified requirements.
+
 ### **<br/>Write the software testing principles.**
   - All tests should be traceable to customer requirements.
   - Tests should be planned long before testing begins.
@@ -13,7 +16,7 @@
 S/w testability is simply how easily a system, program or product can be tested. Testing must exhibit a set of characteristics that achieve the goal of finding errors with a minimum of effort.<br/>
 **`Characteristics of Software testability?`**
   - Operability  - “The better it works, the more efficiently it can be tested”.
-      - Relatively few bugs will block the execution of tests.
+      - A few relatively few bugs will block the execution of tests.
       - Allowing testing to progress without fits and starts.
   - Observability -  "Observability refers to how easily a tester can observe the behavior, outputs, and internal states of the software during execution. High observability means that the tester can see clearly if the software behaves as expected under various conditions.“
       - Distinct output is generated for each input.
