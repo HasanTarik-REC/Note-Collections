@@ -10,6 +10,18 @@ Beta Testing is a type of external user acceptance testing where a nearly comple
 ### **<br/>Smoke testing**
 Smoke Testing is a type of preliminary software testing used to verify that the critical functionalities of an application are working correctly after a new build or version is created. Its ability to quickly detect major issues, save time and resources, and support agile/CI processes makes it an essential tool in the software testing lifecycle.
 
+### **<br/>Disscuss smoke testing benefits**
+Benefits of Smoke testing:<br/>
+  - Integration risk is minimized.
+      - Smoke tests are conducted daily, and incompatibilities and other show-stopper errors are uncovered early.
+  - The quality of the end product is improved.
+      - Smoke testing is likely to uncover both functional errors and architectural and component-level design defects. In the end, better product quality will result.
+  - Error diagnosis and correction are simplified.
+      - Software that has just been added to the build is a probable cause of a newly discovered error.
+  - Progress is easier to assess.
+      - Frequent tests give both managers and practitioners a realistic assessment of integration testing progress.
+
+
 ### **<br/>Write the software testing principles.**
   - All tests should be traceable to customer requirements.
   - Tests should be planned long before testing begins.
