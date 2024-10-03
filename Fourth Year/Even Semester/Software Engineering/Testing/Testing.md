@@ -149,4 +149,15 @@ The three main types of system testing are:<br/>
 `Non-Functional Testing:` Evaluate the system's performance, usability, security, and other non-functional attributes.<br/>
 `Regression Testing:` Regression testing ensures that new changes have not introduced defects into existing functionality.<br/>
 
+### **<br/>Difference between Verification and Validation**
+| Aspect | Verification | Validation |
+|---|---|---|
+| Definition | Ensures the product is built correctly (as per design and specifications). | Ensures the right product is built (meets user needs and requirements). |
+| Focus | "Are we building the product right?" | "Are we building the right product?" |
+| Process Type | Static Process (reviews, inspections) | Dynamic Process (testing, execution) |
+| Stage | Conducted during development | Conducted at the end of development or in final stages |
+| Objective | Ensures the product is developed according to specifications. | Ensures the product fulfills its intended purpose for the user. |
+
+
+
 
