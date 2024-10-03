@@ -143,6 +143,10 @@ Integration Testing is a type of software testing where individual modules or co
 High-order testing is a term often used to describe testing activities that occur later in the software development lifecycle, typically after unit and integration testing. These tests focus on evaluating the overall quality and performance of the software system as a whole.
 
 
-
+### **<br/>What are the three main types of system testing?**
+The three main types of system testing are:<br/>
+`Functional Testing:` Functional testing is performed to verify that the system functions as expected according to the specified requirements. It focuses on ensuring that all features and functionalities of the software work as intended.<br/>
+`Non-Functional Testing:` Evaluate the system's performance, usability, security, and other non-functional attributes.<br/>
+`Regression Testing:` Regression testing ensures that new changes have not introduced defects into existing functionality.<br/>
 
 
