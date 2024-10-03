@@ -125,4 +125,5 @@ S/w testability is simply how easily a system, program or product can be tested.
       - Developers and testers can easily interpret the logic, making it easier to create test cases.
 
 
-
+### **<br/>Define Unit Testing**
+Unit testing is a software testing method that focuses on testing individual components or modules of a software application in isolation. It involves writing small, independent tests for each unit of code to verify its correctness and functionality. 
