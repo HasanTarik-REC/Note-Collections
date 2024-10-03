@@ -71,7 +71,7 @@ Beta Testing is a type of external user acceptance testing where a nearly comple
 Acceptance testing is a type of software testing conducted to determine if a software product meets the specified requirements and is ready for release to end-users. It is typically performed by a customer or end-user representative to ensure that the software meets their needs and expectations.
 
 ### **<br/>Block diagram of Acceptance testing**
- <img src ="./Capture.PNG" width = "250"/>
+ <img src ="./Capture.PNG" width = "450"/>
 
 ### **<br/>Smoke testing**
 Smoke Testing is a type of preliminary software testing used to verify that the critical functionalities of an application are working correctly after a new build or version is created. Its ability to quickly detect major issues, save time and resources, and support agile/CI processes makes it an essential tool in the software testing lifecycle.
