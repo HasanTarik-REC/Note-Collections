@@ -130,3 +130,12 @@ Unit testing is a software testing method that focuses on testing individual com
 
 ### **<br/>Define Integration Testing**
 Integration Testing is a type of software testing where individual modules or components are combined and tested as a group to ensure that they work together properly. 
+
+### **<br/>Difference between Unit testing and Integration testing**
+| Feature | Unit Testing | Integration Testing |
+|---|---|---|
+| Focus | Individual components | Group of components |
+| Scope | Isolated testing | System-level testing |
+| Purpose | Verify unit correctness | Ensure component integration |
+| Techniques | Stubs, mocks | Top-down, bottom-up, sandwich, big bang |
+
