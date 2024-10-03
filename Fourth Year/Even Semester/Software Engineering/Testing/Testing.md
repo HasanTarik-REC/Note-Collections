@@ -139,3 +139,10 @@ Integration Testing is a type of software testing where individual modules or co
 | Purpose | Verify unit correctness | Ensure component integration |
 | Techniques | Stubs, mocks | Top-down, bottom-up, sandwich, big bang |
 
+### **<br/>Define High-Order Testing**
+High-order testing is a term often used to describe testing activities that occur later in the software development lifecycle, typically after unit and integration testing. These tests focus on evaluating the overall quality and performance of the software system as a whole.
+
+
+
+
+
