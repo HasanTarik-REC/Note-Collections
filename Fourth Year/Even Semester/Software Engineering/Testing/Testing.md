@@ -127,3 +127,6 @@ S/w testability is simply how easily a system, program or product can be tested.
 
 ### **<br/>Define Unit Testing**
 Unit testing is a software testing method that focuses on testing individual components or modules of a software application in isolation. It involves writing small, independent tests for each unit of code to verify its correctness and functionality. 
+
+### **<br/>Define Integration Testing**
+Integration Testing is a type of software testing where individual modules or components are combined and tested as a group to ensure that they work together properly. 
