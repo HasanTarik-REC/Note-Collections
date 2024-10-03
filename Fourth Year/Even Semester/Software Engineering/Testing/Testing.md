@@ -9,6 +9,29 @@ Software testing is a critical process in software development that ensures the 
   - Assessing the overall quality of the software in terms of its correctness, reliability, efficiency, usability, maintainability, portability, and security.
   - Reduce the risk of software failure and defects that could impact the user experience or business operations.
 
+### **<br/>Briefly describe the Software Development Life Cycle**
+The Software Testing Life Cycle (STLC) is a systematic approach to planning, designing, executing, and evaluating software testing activities. It ensures that the testing process is thorough, efficient, and effective in identifying and addressing defects.<br/>
+The STLC typically consists of the following phases:<br/>
+  - `Test Planning:`
+      - Defining the scope, objectives, and resources for the testing process.   
+      - Creating a test plan that outlines the testing activities, timelines, and responsibilities.
+  - `Test Design:`
+      - Developing test cases and test data based on the requirements and design specifications.
+      - Designing test scenarios to cover various use cases and test conditions.
+  - `Test Environment Setup:`
+      - Setting up the necessary hardware, software, and network infrastructure for testing.
+      - Configuring the testing environment to match the production environment.
+  - `Test Execution:`
+      - Executing test cases and recording the results.
+      - Identifying and documenting defects.
+      - Retesting fixed defects to ensure they have been resolved.
+  - `Test Reporting:
+      - Generating test reports that summarize the testing activities, results, and defects.
+      - Communicating test results to stakeholders and management.
+  - `Test Closure:`
+      - Evaluating the overall effectiveness of the testing process.
+      - Identifying areas for improvement in future testing activities.
+
 ### **<br/>Define White box testing**
 White Box Testing also known as Clear Box Testing, Open Box Testing, or Glass Box Testing. It is a testing technique in which the tester knows the internal structure, code, and logic of the software being tested. This method is focused on the internal workings of an application, verifying that the code is functioning as expected.<br/>
 Using this method, A Software Engineer can derive test cases that<br/>
