@@ -62,5 +62,14 @@ Project risks can arise from various sources, including:<br/>
   - Size
   - The degree of structural uncertainty 
 
+What are the technical risk?
+Technical risk is a type of project risk that arises from the technical aspects of a project. It refers to the potential for problems or challenges related to the technology, tools, or processes being used.<br/>
+Some common examples of technical risks include:<br/>
+  - Software bugs
+  - Hardware failures
+  - Compatibility issues
+  - Technological limitations
+  - Data quality issues
+  - Cybersecurity threats
 
 
