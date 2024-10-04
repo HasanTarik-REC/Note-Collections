@@ -55,5 +55,12 @@ Software risk refers to the potential for an undesirable outcome in a software p
   - Predictable Risks
   - Unpredictable Risks
 
+### **<br/>Define Project risk.**
+Project risk refers to any potential event or condition that could hurt the successful completion of a project. These events or conditions can disrupt the project's schedule, budget, quality, or overall objectives.<br/>
+Project risks can arise from various sources, including:<br/>
+  - Project complexity
+  - Size
+  - The degree of structural uncertainty 
+
 
 
