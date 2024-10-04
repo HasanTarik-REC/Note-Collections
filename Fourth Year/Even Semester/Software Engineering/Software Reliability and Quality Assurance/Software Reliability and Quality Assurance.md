@@ -72,4 +72,13 @@ Some common examples of technical risks include:<br/>
   - Data quality issues
   - Cybersecurity threats
 
+### **<br/>What are the Business risks?**
+Business risk refers to any potential event or condition that could hurt a company's financial performance, reputation, or ability to achieve its strategic objectives. <br/>
+The top five business risks are:<br/>
+  - Building an excellent product or system that no one wants (market risk)
+  - Building a product that no longer fits into the overall business strategy for the company (strategic risk)
+  - Building a product that the sales force doesn't understand how to sell.
+  - Losing the support of senior management due to a change in focus or a change in people (management risk)
+  - Losing budgetary or personnel commitment (budget risks)
+
 
