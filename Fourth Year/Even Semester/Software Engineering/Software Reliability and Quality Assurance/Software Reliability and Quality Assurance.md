@@ -104,5 +104,23 @@ Example:<br/>
   - Cyberattacks
 
 
+### **<br/>Define risk identification. Explain how it is done.**
+
+Risk identification is a systematic attempt to specify threats to the project plan (estimates, schedule, resource loading, etc.).<br/>
+By identifying known and predictable risks, the project manager takes a first step toward avoiding them when possible and controlling them when necessary.<br/>
+Two distinct types of risks<br/>
+Generic risks are a potential threat to every software project<br/>
+Product-specific risks can be identified only by those with a clear understanding of the technology, the people, and the environment that is specific to the project at hand.<br/>
+To identify product-specific risks, the project Plan and the software statement of scope are examined.
+One method for identifying risks is to create a risk item checklist.<br/>
+The checklist can be used for risk identification and focuses on some subset of known and predictable risks in the following generic subcategories:<br/>
+  - Product size —risks associated with the overall size of the software to be built or modified.
+  - Business impact —risks associated with constraints imposed by management  or the marketplace.
+  - Customer characteristics —risks associated with the sophistication of the customer and the developer's ability to communicate with the customer in a timely manner.
+  - Process definition —risks associated with the degree to which the software process has been defined and is followed by the development organization.
+  - Development environment —risks associated with the availability and quality of the tools to be used to build the product.
+  - Technology to be built —risks associated with the complexity of the system to be built and the "newness" of the technology that is packaged by the system.
+  - Staff size and experience —risks associated with the overall technical and project experience of the software engineers who will do the work.
+
 
 
