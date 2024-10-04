@@ -82,3 +82,14 @@ The top five business risks are:<br/>
   - Losing budgetary or personnel commitment (budget risks)
 
 
+### **<br/>Known Risk**
+Known risks are those that can be uncovered after careful evaluation of the project plan, and the business and technical environment in which the project is being developed.<br/>
+  - unrealistic delivery date
+  - lack of documented requirements or software scope
+  - poor development environment
+
+
+
+
+
+
