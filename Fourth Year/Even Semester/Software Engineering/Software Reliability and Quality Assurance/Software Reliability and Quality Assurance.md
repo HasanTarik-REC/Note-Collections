@@ -42,3 +42,12 @@ Roles of a Software Quality Assurance (SQA) Group:<br/>
       - Define and monitor quality metrics such as defect density, test coverage, and mean time to failure (MTTF).
       - Generate reports that provide insights into the quality of the software.
       - Present findings and recommendations to the management for decision-making.
+
+
+### **<br/>Define Software Risk**
+Software risk refers to the potential for an undesirable outcome in a software project, which may impact its success in terms of quality, schedule, budget, or performance.<br/> It arises from uncertainties in the development process and can be caused by technical challenges, changing requirements, resource limitations, or external dependencies. 
+
+
+
+
+
