@@ -89,6 +89,19 @@ Known risks are those that can be uncovered after careful evaluation of the proj
   - poor development environment
 
 
+### **<br/>Define Predictable risks.**
+Predictable risks are generalized from past project experience.<br/>
+Example:<br/>
+  -  staff turnover
+  -  poor communication with the customer, etc.
+
+### **<br/>Define Unpredictable risk.**
+Unpredictable risk refers to risks that arise unexpectedly and are difficult or impossible to foresee during the planning stages of a project. <br/>
+Example:<br/>
+  - Natural disasters
+  - Pandemics
+  - Political instability
+  - Cyberattacks
 
 
 
