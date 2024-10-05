@@ -93,7 +93,7 @@ Usability refers to the extent to which the software can be used with ease and t
 <img src ="./Picture4.png" width = "400"/><br/>
 
 #### `Maintainability`
-Maintainability refers to how easily a software system can modified, extend functionality, improve performance, and correct errors.<br/><br/>
+Maintainability refers to how easily a software system can be modified, extend functionality, improve performance, and correct errors.<br/><br/>
 <img src ="./Picture5.png" width = "450"/><br/>
 
 
