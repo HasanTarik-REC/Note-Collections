@@ -27,7 +27,7 @@ Business requirements is a phase in the Software development life cycle that gre
 Business requirements are usually captured by business analysts or product owners who analyze business activities or who have subject matter expertise (SMEs).<br/>
 
 #### `Stakeholder Requirements`
-Stakeholder requirements are the needs, expectations, and desires of individuals or groups who have an interest in a software project. They form the foundation for successful software development by ensuring that the final product meets the needs of its intended users and aligns with the goals of the organization.<br/>
+Stakeholder requirements are the needs, expectations, and desires of individuals or groups interested in a software project. They form the foundation for successful software development by ensuring that the final product meets the needs of its intended users and aligns with the organization's goals.<br/>
 Two types of stakeholders:<br/>
 - `Internal stakeholders:` Employees, managers, and executives within the organization.
 - `External stakeholders:` Customers, end-users, partners, regulators, and investors.
