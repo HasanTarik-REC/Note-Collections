@@ -15,6 +15,16 @@ Example with 8-bit representation:<br/><br/>
 	- However, adding 100 and 50 gives 150, within the 8-bit range(0 - 255), so no overflow occurs.<br/>
 
 
+### **<br/>How flags are affected by signed and unsigned overflow.**
+
+`Signed Overflow: `<br/>
+
+OF is set: When the result of a signed addition or subtraction operation exceeds the range of the destination operand, an overflow occurs. This means that the sign of the result is incorrect.<br/>
+OF is not set: If the result of a signed operation is within the range of the destination operand, there is no overflow.<br/>
+`Unsigned Overflow: `<br/>
+
+CF is set: When the result of an unsigned addition or subtraction operation generates a carry or borrow, an overflow occurs. This means that the result has exceeded the maximum unsigned value.<br/>
+CF is not set: If the result of an unsigned operation is within the range of the destination operand, there is no overflow.<br/>
 
 ### **<br/>Read a character. If  it’s  “y”’ or “Y”, display it;  otherwise, terminate the program.**
 Solution:<br/><br/>
