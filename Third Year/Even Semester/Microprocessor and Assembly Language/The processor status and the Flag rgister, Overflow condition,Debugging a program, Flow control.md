@@ -3,8 +3,8 @@ A flag is a bit in a register that indicates the status or outcome of different 
 Signed and unsigned overflows are Independent phenomena.<br/>
 "Signed overflow" occurs when the result of a calculation on a signed number(which can be positive or negative) exceeds the representable range of the data type, causing an incorrect value due to the sign bit being affected.<br/>
 
-"Unsigned overflow" happens when the result of a calculation on unsigned numbers (only positive) exceeds the maximum value that can be stored within the allocated bits, regardless of the sign; essentially, both  situations mean the calculation produced a value too large to fit in the available memory space.<br/>
-Example with 8-bit representation:<br/>
+"Unsigned overflow" happens when the result of a calculation on unsigned numbers (only positive) exceeds the maximum value that can be stored within the allocated bits, regardless of the sign; essentially, both  situations mean the calculation produced a value too large to fit in the available memory space.<br/><br/>
+Example with 8-bit representation:<br/><br/>
 `Signed Overflow:`<br/>
 	- Consider two positive numbers: +127 and +1.<br/>
 	- Binary representation of 127 is 01111111.<br/>
