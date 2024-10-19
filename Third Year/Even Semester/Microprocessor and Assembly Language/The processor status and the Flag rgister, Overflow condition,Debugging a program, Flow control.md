@@ -24,13 +24,11 @@ Solution:<br/><br/>
 		JE  THEN<br/>
 		CMP  AL, ‘Y’<br/>
 		JE  THEN<br/>
-		JMP  ELSE_<br/>
-  
+		JMP  ELSE_<br/>  
 	THEN:  MOV  AH, 2<br/>
 		MOV  DL, AL<br/>
 		INT  21H<br/>
-		JMP  END_IF<br/>
-  
+		JMP  END_IF<br/>  
 	ELSE_:    MOV  AH, 4CH<br/>
 		  INT  21H<br/>
 	END_IF:<br/>
