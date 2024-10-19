@@ -5,11 +5,11 @@ Signed and unsigned overflows are Independent phenomena.<br/>
 
 "Unsigned overflow" happens when the result of a calculation on unsigned numbers (only positive) exceeds the maximum value that can be stored within the allocated bits, regardless of the sign; essentially, both  situations mean the calculation produced a value too large to fit in the available memory space.<br/>
 Example with 8-bit representation:<br/>
-Signed Overflow:
+Signed Overflow:<br/>
 	- Consider two positive numbers: +127 and +1.
 	- Binary representation of 127 is 01111111.
 	- Adding 1 results in 10000000, which is -128(due to two's complement representation).
-	- Since adding two positive numbers resulted in a negative value, this is Considered a signed overflow.
-Unsigned Overflow:
+	- Since adding two positive numbers resulted in a negative value, this is Considered a signed overflow.<br/>
+Unsigned Overflow:<br/>
 	- Adding 200 and 100 results in 300 which can't be represented in 8 bits. So an unsigned overflow occurs.
 	- However, adding 100 and 50 gives 150, which is within the 8-bit range(0 - 255), so no overflow occurs.
