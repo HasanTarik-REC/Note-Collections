@@ -50,3 +50,14 @@ INT 21H<br/>
 
 MAIN ENDP<br/>
 END MAIN<br/>
+
+
+### **<br/>Properties of AND, OR, and XOR**
+
+The AND instruction can be used to clear specific destination bits while preserving the others. A 0 mask bit clears the corresponding destination bit; A 1 mask bit preserves the corresponding destination bit.<br/>
+
+The OR instruction can be used to set specific destination bits while preserving the others. A 1 mask bit sets the corresponding destination bit; A 0 mask bit preserves the corresponding destination bit.<br/>
+
+The XOR instruction can be used to complement specific destination bits while preserving the others. A 1 mask bit complements the corresponding destination bit; A 0 mask bit preserves the corresponding destination bit.<br/>
+
+
