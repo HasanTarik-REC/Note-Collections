@@ -13,3 +13,40 @@ Example with 8-bit representation:<br/><br/>
 `Unsigned Overflow:`<br/>
 	- Adding 200 and 100 results in 300 which can't be represented in 8 bits. So an unsigned overflow occurs.<br/>
 	- However, adding 100 and 50 gives 150, within the 8-bit range(0 - 255), so no overflow occurs.<br/>
+
+
+
+
+### **<br/>What is Program Segment Prefix? Explain**
+
+A Program Segment Prefix (PSP) is a data structure used in DOS (Disk Operating System) environments to store information about a program that is currently executing.
+When a program is loaded in memory, DOS prefaces it with a 256-byte program segment prefix (PSP). The PSP contains information about the program. 
+So that programs may access this area, DOS places its segment number in both DS and ES before executing the program. The result is that DS does not contain the segment number of the data segment.
+<br/>To correct this, a program containing a data segment begins with these two instructions:<br/>
+
+MOV AX, @DATA<br/>
+MOV DS, AX<br/>
+
+@DATA is the name of the data segment defined by .DATA. The assembler translates the name @DATA into a segment number.<br/>
+Our second program will print a sting of characters on monitor.<br/>
+
+
+TITLE	 PGM4_2:  PRINT STRING PROGRAM<br/>
+
+.MODEL SMALL<br/>
+.STACK 100H<br/>
+.DATA<br/>
+ MSG  DB  ‘HELLO$’<br/>
+.CODE<br/>
+MAIN PROC<br/>
+
+MOV AX, @DATA<br/>
+MOV DS, AX<br/>
+LEA DX, MSG<br/>
+MOV AH,9<br/>
+INT 21H<br/>
+MOV AH,4CH<br/>
+INT 21H<br/>
+
+MAIN ENDP<br/>
+END MAIN<br/>
