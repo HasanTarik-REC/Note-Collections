@@ -18,7 +18,7 @@ Example with 8-bit representation:<br/><br/>
 
 ### **<br/>Read a character. If  it’s  “y”’ or “Y”, display it;  otherwise, terminate the program.**
 Solution:<br/><br/>
-	`	MOV  AH,1<br/>
+		MOV  AH,1<br/>
 		INT  21H<br/>
 		CMP  AL, ‘y’<br/>
 		JE  THEN<br/>
@@ -35,7 +35,7 @@ Solution:<br/><br/>
 		  INT  21H<br/>
 	END_IF:<br/>
 
-`
+
 
 ### **<br/>What is Program Segment Prefix? Explain**
 
