@@ -61,3 +61,15 @@ The OR instruction can be used to set specific destination bits while preserving
 The XOR instruction can be used to complement specific destination bits while preserving the others. A 1 mask bit complements the corresponding destination bit; A 0 mask bit preserves the corresponding destination bit.<br/>
 
 
+### **<br/>Why do we write the following two statements in the assembly language code?**<br/>
+MOV AH, 4CH<br/>
+INT 21H<br/><br/>
+
+The two assembly language statements:<br/>
+MOV AH, 4CH<br/>
+INT 21H<br/>
+are commonly used in DOS (Disk Operating System) programs for terminating the program and returning control to the operating system.<br/>
+MOV AH, 4Ch sets up the DOS function to terminate the program.<br/>
+INT 21h makes the system call, invoking DOS to handle the function (terminate the program in this case).<br/>
+This combination is standard for ending a DOS-based program.<br/>
+
