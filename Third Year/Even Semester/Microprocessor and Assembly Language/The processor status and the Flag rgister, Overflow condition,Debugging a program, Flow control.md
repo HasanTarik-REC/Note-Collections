@@ -91,3 +91,20 @@ MOV AH, 4Ch sets up the DOS function to terminate the program.<br/>
 INT 21h makes the system call, invoking DOS to handle the function (terminate the program in this case).<br/>
 This combination is standard for ending a DOS-based program.<br/>
 
+
+
+### **<br/>Discuss SAL and SAR instructions of the 8086 microprocessor.**
+`SAL: `
+The SAL instruction is often used for arithmetic multiplication. However, both SHL and SAL instructions generate the same machine code.<br/>
+Negative numbers can also be multiplied by powers of 2 by left shifts.
+Suppose AX=FFFFH (-1), CL=03H, then SAL AX, CL gives AX=FFF8H (-8). <br/>
+
+`SAR: `
+The SAR instruction operates like SHR, with one difference; the MSB retains its original value (Figure 7.4). The syntax is<br/><br/>
+
+SAR  destination, 1<br/>
+and <br/>
+SAR  destination, CL<br/>
+
+The effect on flags is the same as for SHR.<br/>
+<img src ="./Capt1ure.PNG" width = "250"/>
