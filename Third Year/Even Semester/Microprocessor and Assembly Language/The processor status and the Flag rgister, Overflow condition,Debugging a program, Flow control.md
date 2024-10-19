@@ -9,7 +9,7 @@ Example with 8-bit representation:<br/><br/>
 	- Consider two positive numbers: +127 and +1.<br/>
 	- Binary representation of 127 is 01111111.<br/>
 	- Adding 1 results in 10000000, which is -128(due to two's complement representation).<br/>
-	- This is considered a signed overflow since adding two positive numbers resulted in a negative value.<br/>
+	- This is considered a signed overflow since adding two positive numbers resulted in a negative value.<br/><br/>
 `Unsigned Overflow:`<br/>
 	- Adding 200 and 100 results in 300 which can't be represented in 8 bits. So an unsigned overflow occurs.<br/>
 	- However, adding 100 and 50 gives 150, within the 8-bit range(0 - 255), so no overflow occurs.<br/>
@@ -25,7 +25,6 @@ Solution:<br/>
 		CMP  AL, ‘Y’<br/>
 		JE  THEN<br/>
 		JMP  ELSE_<br/>
-
 	THEN:  MOV  AH, 2<br/>
 		MOV  DL, AL<br/>
 		INT  21H<br/>
