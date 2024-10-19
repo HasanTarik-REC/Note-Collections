@@ -17,7 +17,7 @@ Example with 8-bit representation:<br/><br/>
 
 
 ### **<br/>Read a character. If  it’s  “y”’ or “Y”, display it;  otherwise, terminate the program.**
-Solution:<br/>
+Solution:<br/><br/>
 		MOV  AH,1<br/>
 		INT  21H<br/>
 		CMP  AL, ‘y’<br/>
@@ -29,7 +29,6 @@ Solution:<br/>
 		MOV  DL, AL<br/>
 		INT  21H<br/>
 		JMP  END_IF<br/>
-
 	ELSE_:    MOV  AH, 4CH<br/>
 		  INT  21H<br/>
 	END_IF:<br/>
