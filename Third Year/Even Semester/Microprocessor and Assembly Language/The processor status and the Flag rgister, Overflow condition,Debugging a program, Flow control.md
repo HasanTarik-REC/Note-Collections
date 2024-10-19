@@ -20,7 +20,7 @@ Example with 8-bit representation:<br/><br/>
 `Signed Overflow: `<br/>
 
 OF is set: When the result of a signed addition or subtraction operation exceeds the range of the destination operand, an overflow occurs. This means that the sign of the result is incorrect.<br/>
-OF is not set: If the result of a signed operation is within the range of the destination operand, there is no overflow.<br/>
+OF is not set: If the result of a signed operation is within the range of the destination operand, there is no overflow.<br/><br/>
 `Unsigned Overflow: `<br/>
 
 CF is set: When the result of an unsigned addition or subtraction operation generates a carry or borrow, an overflow occurs. This means that the result has exceeded the maximum unsigned value.<br/>
