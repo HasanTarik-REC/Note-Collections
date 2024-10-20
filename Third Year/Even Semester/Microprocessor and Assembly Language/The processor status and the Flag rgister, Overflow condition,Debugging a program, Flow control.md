@@ -203,6 +203,10 @@ Example:<br/>
 CLR SP  ; Clears the stack pointer (assuming the processor supports this instruction)<br/><br/>
 
 
+### **<br/>Explain why TEST and JCXZ instructions are used in the 8086 microprocessor.**
+The TEST and JCXZ instructions are commonly used in 8086 microprocessor programming to perform conditional operations and loop control.<br/>
+The TEST instruction performs a bitwise AND operation between two operands but does not store the result. Instead, it updates the flags in the Flags Register based on the result of the AND operation.<br/>
+The JCXZ instruction is used to conditionally jump to a different part of the program if the CX register is zero. It is typically used in loop control structures where CX acts as a counter.<br/>
 
 
 
