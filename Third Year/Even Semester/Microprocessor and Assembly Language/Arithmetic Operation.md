@@ -1,4 +1,4 @@
-### **<br/>What is addressing mode? Discuss Based and Indexed addressing modes with example.**
+### **<br/>What is addressing mode? Discuss Based and Indexed addressing modes with examples.**
 Addressing mode refers to the method used by a microprocessor to locate the memory address of an operand during program execution. 
 Different addressing modes offer varying levels of flexibility and efficiency for accessing data.<br/><br/>
 Types of Addressing Modes:<br/>
@@ -29,7 +29,16 @@ Example:<br/>
 MOV AX, [BX + SI + 2]<br/><br/>
 
 
+### **<br/>Explain the near type and far type of procedures used in assembly language.**
+`Near-type procedure: ` A near-type procedure is located within the same code segment as the calling procedure. 
+This means that the offset address of the procedure is relative to the current code segment register.<br/>
+When a near procedure is called, only the offset address is pushed onto the stack. 
+The current code segment remains unchanged.<br/><br/>
 
+`Far-type procedure: ` A far-type procedure can be located in any code segment, even a different one than the calling procedure. 
+This means that both the offset address and the segment address of the procedure must be specified.<br/>
+When a far-type procedure is called, both the segment address and offset address are pushed onto the stack. 
+The current code segment is changed to the segment address of the procedure<br/>
 
 
 
