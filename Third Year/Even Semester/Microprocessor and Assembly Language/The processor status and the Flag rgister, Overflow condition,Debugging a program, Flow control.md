@@ -143,3 +143,26 @@ SAR  destination, CL<br/>
 
 The effect on flags is the same as for SHR.<br/>
 <img src ="./Capt1ure.PNG" width = "250"/>
+
+
+### **<br/>What is meant by masking? Set the most significant and least significant bits of BL register while preserving the other bits.**
+Masking in assembly language refers to the process of selectively setting or clearing specific bits within a register or memory location, while leaving the other bits unchanged. 
+This is typically achieved using bitwise AND and OR operations with a mask value.<br/>
+
+A mask value is a binary pattern that determines which bits will be affected. 
+If a bit in the mask is 1, the corresponding bit in the operand will be preserved. 
+If a bit in the mask is 0, the corresponding bit in the operand will be cleared.<br/><br/>
+To set the most significant and least significant bits of the BL register while preserving the other bits:<br/>
+
+For an 8-bit register like BL, the most significant bit is bit 7, and the least significant bit is bit 0.<br/>
+To set these bits, we need a mask value with 1s in positions 7 and 0, and 0s in the other positions. <br/>
+This can be represented as hexadecimal 0x81 (binary 10000001).<br/>
+
+Use the OR operator to combine the mask value with the BL register. This will set the specified bits in BL while leaving the other bits unchanged.<br/><br/>
+Here's the assembly code to achieve this:<br/><br/>
+
+mov BL, 0x5A  ; Assuming BL contains 0x5A (binary 01011010)<br/>
+mov AL, 0x81  ; Mask value<br/>
+or BL, AL     ; Set most significant and least significant bits of BL<br/>
+
+After this code executes, the BL register will contain 0x8A (binary 10001010), with the most significant and least significant bits set, and the other bits preserved.<br/>
