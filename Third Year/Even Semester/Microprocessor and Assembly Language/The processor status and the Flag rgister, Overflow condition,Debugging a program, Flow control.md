@@ -142,7 +142,7 @@ and <br/>
 SAR  destination, CL<br/>
 
 The effect on flags is the same as for SHR.<br/>
-<img src ="./Capt1ure.PNG" width = "250"/>
+<img src ="./Capt1ure.PNG" width = "550"/>
 
 
 ### **<br/>What is meant by masking? Set the most significant and least significant bits of BL register while preserving the other bits.**
