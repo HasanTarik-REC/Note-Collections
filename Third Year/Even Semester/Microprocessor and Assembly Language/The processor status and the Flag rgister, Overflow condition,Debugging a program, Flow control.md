@@ -26,7 +26,16 @@ CF is set: When the result of an unsigned addition or subtraction operation gene
 CF is not set: If the result of an unsigned operation is within the range of the destination operand, there is no overflow.<br/>
 
 
-### **<br/>ADD AX,BX , where AX contains FFFFH, BX contains FFFFH.**
+### **<br/>Common flags in the 8086 microprocessor**
+
+Carry Flag (CF): Set if the result of an arithmetic operation generates a carry or borrow.<br/>
+Overflow Flag (OF): Set if the result of a signed arithmetic operation exceeds the range of the destination operand.<br/>
+Zero Flag (ZF): Set if the result of an operation is zero.<br/>
+Sign Flag (SF): Set if the result of an operation is negative (the most significant bit is 1).<br/>
+Auxiliary Carry Flag (AF): Set if there is a carry or borrow from bit 3 to bit 4 during addition or subtraction.<br/>
+Parity Flag (PF): Set if the result of an operation has an even number of 1 bits.<br/>
+
+### **<br/>ADD AX, BX, where AX contains FFFFH, BX contains FFFFH.**
 Solution:<br/>
 		FFFFH<br/>
 		FFFFH<br/>
