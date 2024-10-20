@@ -166,3 +166,47 @@ mov AL, 0x81  ; Mask value<br/>
 or BL, AL     ; Set most significant and least significant bits of BL<br/>
 
 After this code executes, the BL register will contain 0x8A (binary 10001010), with the most significant and least significant bits set, and the other bits preserved.<br/>
+
+
+
+### **<br/>Write how many ways we can clear the content of a register**
+There are several ways to clear the content of a register in assembly language:<br/><br/>
+1. Move the immediate value 0:<br/>
+
+This is the most straightforward method. 
+Simply move the immediate value 0 into the desired register.<br/><br/>
+Example:<br/>
+MOV AX, 0  ; Clears the AX register<br/><br/>
+2. XOR the register with itself:<br/>
+
+XORing a register with itself effectively clears its contents. 
+This is because any bit XORed with itself results in 0.<br/><br/>
+Example:<br/>
+XOR BX, BX  ; Clears the BX register<br/><br/>
+3. AND the register with 0:<br/>
+
+ANDing a register with 0 clears all bits in the register. 
+This is because any bit ANDed with 0 results in 0.<br/><br/>
+Example:<br/>
+AND CX, 0  ; Clears the CX register<br/><br/>
+4. SUBTRACT the register from itself:<br/>
+
+Subtracting a register from itself results in 0. 
+This is because any number subtracted from itself is 0.<br/><br/>
+Example:<br/>
+SUB DX, DX  ; Clears the DX register<br/><br/>
+5. Using a specific instruction (if available):<br/>
+
+Some processors have specific instructions to clear registers, such as CLR or ZERO. 
+If your processor supports such an instruction, you can use it directly.<br/><br/>
+Example:<br/>
+CLR SP  ; Clears the stack pointer (assuming the processor supports this instruction)<br/><br/>
+
+
+
+
+
+
+
+
+
