@@ -41,7 +41,17 @@ When a far-type procedure is called, both the segment address and offset address
 The current code segment is changed to the segment address of the procedure<br/>
 
 
+### **<br/>What happens when CALL and RET instructions are executed?**
 
+The CALL and RET instructions are fundamental to subroutine or function calls in assembly language. 
+They are used to transfer control to a specific procedure and then return back to the original calling point.<br/><br/>
+CALL Instruction transfers control to a specified procedure.<br/>
+`CALL Instruction pushes the return address onto the stack:` The current instruction pointer (IP) value is saved on the stack so that the program can return to the correct location after the procedure finishes.<br/><br/>
+`Loads the procedure's address into the instruction pointer:` The address of the procedure to be called is loaded into the IP, causing the processor to start executing instructions from that location.<br/><br/>
+
+RET Instruction returns from a procedure to the calling point.<br/>
+`RET Instruction pops the return address from the stack:` The top value on the stack is removed and loaded into the IP.<br/><br/>
+`Resumes execution:` The processor continues execution at the address stored in the IP, effectively returning control to the calling procedure.<br/>
 
 
 
