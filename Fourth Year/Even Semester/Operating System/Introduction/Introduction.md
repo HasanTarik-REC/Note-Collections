@@ -13,6 +13,7 @@ The computer system structure consists of four components. There are-
   - Application program<br/>
   - User<br/>
  <img src ="./Capture1.PNG" width = "450" title = "Elements of Computer System Structure"/>
+ 
 ### **Goals of Operating System**
  - Execute user programs and make solving user problems easier.
  - Make the computer system convenient to use.
