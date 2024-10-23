@@ -47,7 +47,7 @@ The computer system structure consists of four components. There are-
 <img src ="./Capture4.PNG" width = "550" title = "Multitasking"/>
  
 ### **<br/>Define Multiprocessing operating system**
-It uses two or more central processing units (CPUs) within a single computer.<br/>It refers to a computer system's ability to support multiple processes simultaneously.<br/><br/>
+Multiprocessing operating system is a type of operating system that uses two or more central processing units (CPUs) within a single computer. It refers to a computer system's ability to support multiple processes simultaneously.<br/><br/>
 <img src ="./Cap111ture.PNG" width = "400"/><br/>
 Types of multiprocessing<br/>
  - Symmetric
