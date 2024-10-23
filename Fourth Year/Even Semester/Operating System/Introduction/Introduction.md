@@ -64,7 +64,8 @@ Types of multiprocessing<br/>
  3. Large main memory required.
 
 ### **<br/>Define Real-Time Operating System**
-A real-time operating system is an operating system intended to serve real-time applications. <br/>Response should be guaranteed within a specified timing constraint or the system should meet the specified deadline.<br/>
+A real-time operating system is a type of operating system that serves real-time applications.<br/>
+In a real-time operating system, the response should be guaranteed within a specified timing constraint or the system should meet the specified deadline.<br/>
 Types of Real-Time Operating System:<br/>
  - Hard Real-Time System
  - Soft Real-Time System<br/>
