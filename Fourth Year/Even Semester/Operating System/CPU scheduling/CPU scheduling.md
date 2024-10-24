@@ -132,7 +132,7 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 | p6 | 5 | 0 | 2 | 2 | 2 | 0 | 0 |
 <br/>
 
-#### `Less value highest priority.`<br/>
+#### `It works with Arrival time. If multiple processes arise then Less value high priority.`<br/>
 
 ### Gantt chart:<br/>
 | P6 | P2 | P1 | P5 | P3 | P4 |<br/>
@@ -223,7 +223,7 @@ Try it by yourself.
 
 
 ### **<br/>Priority Scheduling Algorithm with arrival time for preemptive**
-#### `Highest value highest priority.`<br/>
+#### `It works with Arrival time. If multiple processes arise then the Highest value highest priority.`<br/>
  | Process | Priority | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
 |---|---|---|---|---|---|---|---|
 | P0 | 2 | 3 | 5 | 23 | 20 | 15 | 15 |
