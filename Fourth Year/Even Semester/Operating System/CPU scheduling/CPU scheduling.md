@@ -152,6 +152,7 @@ Try it by yourself.
 
 
 ### **<br/>Shortest Job First/SRTF with arrival time for preemptive**
+#### `Shortest Job First working with Burst Time and for preemptive each unit of time`<br/>
  | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
 |---|---|---|---|---|---|---|
 | P1 | 2 | 6 | 20 | 18 | 12 | 12 |
