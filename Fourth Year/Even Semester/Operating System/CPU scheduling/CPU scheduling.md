@@ -77,7 +77,8 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
             =<br/>
 
 
-### **<br/>Shortest Job First with arrival time for non-preemptive**
+### **<br/>Shortest Job First with arrival time for non-preemptive**<br/>
+#### `Shortest Job First working with Burst Time`<br/>
  | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
 |---|---|---|---|---|---|---|
 | P1 | 4 | 5 | 15 | 11 | 6 | 6 |
@@ -99,6 +100,7 @@ Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
             =<br/>
 
 ### **<br/>Shortest Job First without arrival time for non-preemptive**
+#### `Shortest Job First working with Burst Time`<br/>
 | Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
 |---|---|---|---|---|---|
 | P1 | 5 | 10 | 10 | 5 | 5 |
