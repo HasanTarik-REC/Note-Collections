@@ -36,4 +36,5 @@ GEO satellites are widely used for various applications, including:<br/>
   - They can only cover a specific region of the Earth.
   - Due to the long distance, there can be a slight delay in signal transmission.
 
-
+### **<br/>What is VSAT?**
+A VSAT is a small satellite dish antenna that can transmit and receive data, voice, and video signals over a satellite communication network. It's designed to be easily installed and operated in remote locations where traditional terrestrial networks are not feasible or cost-effective.<br/>
