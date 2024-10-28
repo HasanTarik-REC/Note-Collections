@@ -36,6 +36,9 @@ GEO satellites are widely used for various applications, including:<br/>
   - They can only cover a specific region of the Earth.
   - Due to the long distance, there can be a slight delay in signal transmission.
 
+### **<br/>Which type of orbit does a GEO satellite have? Verify your answer.**
+A Geostationary Earth Orbit (GEO) satellite has a circular orbit located directly above Earth’s equator at an altitude of approximately 35,786 kilometers (22,236 miles). This specific orbit allows the satellite to match Earth's rotation, completing one orbit every 24 hours.<br/>
+
 ### **<br/>What is VSAT? (Very Small Aperture Terminal)**
 A VSAT is a small satellite dish antenna that can transmit and receive data, voice, and video signals over a satellite communication network. It's designed to be easily installed and operated in remote locations where traditional terrestrial networks are not feasible or cost-effective.<br/>
 
