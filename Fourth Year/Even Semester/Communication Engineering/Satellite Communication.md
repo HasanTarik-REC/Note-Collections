@@ -94,3 +94,27 @@ Medium-Earth-orbit satellites are positioned between the two Van Allen belts.
 A satellite in this orbit takes approximately 6 to 8 hours to circle the Earth.<br/><br/>
 One example of a MEO satellite system is the Global Positioning  System (GPS), contracted and operated by the U.S. Department of Defense, orbiting at an altitude of about 18000 km(11,000 mi) above the Earth. The system consists of 24 satellites and is used for land, sea, and air navigation to provide time and location for vehicles and ships. GPS uses 24 satellites in six orbits. The orbits and the locations of the satellites in each orbit are designed in such a way that, at any time, four satellites are visible from any point on Earth.<br/>
 
+
+### **<br/>What is LEO satellite?**
+A Low Earth Orbit (LEO) satellite is a satellite that orbits the Earth at an altitude of about 500 to 2,000 kilometers. This is the closest orbit to Earth.<br/><br/>
+
+#### `Applications of LEO Satellites:`<br/>
+  - To monitor the Earth's environment, weather patterns, and natural disasters.
+  - To provide high-speed internet access to remote areas.
+  - For surveillance, reconnaissance, and communication in Military and intelligence.<br/>
+  
+#### `Advantage:`<br/>
+  - Ability to capture high-resolution images.
+  - Less delay between the transmission and reception of data(Low latency).
+  - Launch and operations costs are lower.<br/>
+  
+#### `Disadvantage:`<br/>
+  - Can only cover a small portion of the Earth.
+   
+
+
+
+ 
+
+
+
