@@ -69,7 +69,21 @@ Active satellite is a type of satellite that is equipped with electronic devices
 Passive satellite is a type of satellite that does not have its own power source or electronic components. It simply reflects radio waves to Earth without amplifying or retransmitting them. <br/>
 `Applications:` Early satellite communication systems, radar systems, and some experimental applications.<br/>
 
-
+### **<br/>State some applications for each type of satellite.**<br/>
+#### `Low Earth Orbit (LEO) Satellites`
+  - Providing high-speed internet access, especially in rural areas.
+  - Monitoring environmental changes, natural disasters, and climate patterns.
+  - Conducting experiments in space, such as studying the Earth's atmosphere and climate.
+  - Surveillance, reconnaissance, and communication.<br/>
+#### `Medium Earth Orbit (MEO) Satellites`
+  - Providing precise location information(GPS).
+  - Broadcasting radio signals to a wide area.
+  - Enhancing cellular network coverage in remote areas.<br/>
+#### `Geostationary Satellites (GEO)`
+  - Distributing TV signals to a wide area.
+  - Monitoring weather patterns and predicting storms.
+  - Relaying telephone, internet, and data signals.
+  - GPS systems and other navigation services.
 
 
 
