@@ -96,7 +96,7 @@ One example of a MEO satellite system is the Global Positioning  System (GPS), c
 
 
 ### **<br/>What is LEO satellite?**
-A Low Earth Orbit (LEO) satellite is a satellite that orbits the Earth at an altitude of about 500 to 2,000 kilometers. This is the closest orbit to Earth.<br/><br/>
+A Low Earth Orbit (LEO) satellite is a satellite that orbits the Earth at an altitude of about 500 to 2,000 kilometers. This is the closest orbit to Earth.<br/>
 
 #### `Applications of LEO Satellites:`<br/>
   - To monitor the Earth's environment, weather patterns, and natural disasters.
