@@ -61,4 +61,16 @@ The demodulated data is then sent to the user's device.<br/>
   - It offers high availability and redundancy, ensuring reliable communication.
   - Can be customized to meet specific needs.
 
+### **<br/>What do you mean by active and passive satellite?**
+Active satellite is a type of satellite that is equipped with electronic devices that allow it to receive, amplify, and retransmit signals. It receives signals from Earth stations, amplify them, and then retransmit them to Earth.<br/><br/>
+
+`Applications:` Telecommunications, weather forecasting, GPS navigation, etc.<br/><br/>
+
+Passive satellite is a type of satellite that does not have its own power source or electronic components. It simply reflects radio waves to Earth without amplifying or retransmitting them. <br/><br/>
+`Applications:` Early satellite communication systems, radar systems, and some experimental applications.<br/>
+
+
+
+
+
 
