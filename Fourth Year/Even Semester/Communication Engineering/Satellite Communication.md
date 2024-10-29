@@ -150,8 +150,12 @@ Satellite communication primarily uses line-of-sight (LOS) propagation. In this 
   - Highly secure, with encryption techniques to protect sensitive data.
   - Provide valuable information for weather forecasting, environmental monitoring, and resource management.
 
-
-
+### **<br/>Why two separate frequencies are used for uplink and downlink transmission in the case of satellite communication?**
+In satellite communication, two separate frequencies are used for uplink and downlink to avoid interference and ensure clear, reliable communication. This technique is called frequency division duplexing (FDD) and serves several essential purposes:<br/>
+  - To prevent interference with each other.
+  - To Improve signal quality.
+  - To optimize Frequency-Specific Transmission.
+  - To efficiently use Bandwidth.
 
 
 
