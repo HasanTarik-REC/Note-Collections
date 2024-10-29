@@ -143,8 +143,12 @@ Satellite communication primarily uses line-of-sight (LOS) propagation. In this 
 `Provide Time:` GPS satellites transmit highly accurate time signals. It is used to synchronize clocks and other devices.<br/>
 
 
-
-
+### **<br/>What are the advantages of satellite communication?**
+  - Satellites can cover vast geographical areas.
+  - Support high-speed data transmission.
+  - Ensures reliable communication.
+  - Highly secure, with encryption techniques to protect sensitive data.
+  - Provide valuable information for weather forecasting, environmental monitoring, and resource management.
 
 
 
