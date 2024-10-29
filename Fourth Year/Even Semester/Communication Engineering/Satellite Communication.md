@@ -138,7 +138,9 @@ Satellite communication primarily uses line-of-sight (LOS) propagation. In this 
 `Sky Wave Propagation:` This mode relies on the ionosphere to reflect radio waves to Earth. It's used for long-distance communication but is susceptible to ionospheric disturbances.
 
  
-
+### **<br/>What is the purpose of GPS?**
+`Determine Location:` GPS receivers can calculate the user's exact geographic location by processing the signals from multiple GPS satellites.<br/>
+`Provide Time:` GPS satellites transmit highly accurate time signals. It is used to synchronize clocks and other devices.<br/>
 
 
 
