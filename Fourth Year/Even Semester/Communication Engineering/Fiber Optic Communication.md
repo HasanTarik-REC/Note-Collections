@@ -16,4 +16,18 @@
   - Uses unidirectional light propagation.
   - Fragile and can be damaged by physical stress.
 
+### **<br/>Write short notes on twisted pair cable.**
+A twisted pair cable consists of two insulated copper wires twisted together. This twisting helps to reduce electromagnetic interference (EMI) and crosstalk, which is the interference between signal pairs.<br/>
+
+
+
+
+
+
+
+
+
+
+
+
 
