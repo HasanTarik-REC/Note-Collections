@@ -123,6 +123,11 @@ The frequencies reserved for satellite microwave communication are in the gigahe
 | Ka | 20.0 | 30.0 | 3500 |
 
  
+### **<br/> What is a period of a satellite?**
+The period of a satellite is the time it takes for the satellite to complete one full orbit around the Earth and return to its original position. The period depends on the altitude of the satellite’s orbit: satellites closer to Earth have shorter orbital periods, while those further away take longer.<br/><br/>
+`Low Earth Orbit (LEO):` Satellites at around 200–2,000 km altitude typically have periods of about 90 to 120 minutes.<br/>
+`Medium Earth Orbit (MEO):` Satellites at 2,000–20,000 km altitude generally have periods ranging from 2 to 12 hours.<br/>
+`Geostationary Orbit (GEO):` Satellites at approximately 35,786 km altitude have a period of exactly 24 hours, matching Earth’s rotation.<br/>
 
 
 
