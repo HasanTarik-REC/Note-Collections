@@ -112,7 +112,15 @@ A Low Earth Orbit (LEO) satellite is a satellite that orbits the Earth at an alt
   - Can only cover a small portion of the Earth.
    
 
-
+### **<br/>What do you know about the frequency bands for satellite communication?**
+The frequencies reserved for satellite microwave communication are in the gigahertz (GHz) range. Each satellite sends and receives over to different bands. Transmission from the Earth to the satellite is called the uplink. Transmission from the satellite to the Earth is called the downlink. The band names and frequencies for each range is mentioned below:
+| Band | Downlink GHz | Uplink GHz | Bandwidth/MHz |
+|---|---|---|---|
+| L | 1.5 | 1.6 | 15 |
+| S | 1.9 | 2.2 | 70 |
+| C | 4.0 | 6.0 | 500 |
+| Ku | 11.0 | 14.0 | 500 |
+| Ka | 20.0 | 30.0 | 3500 |
 
  
 
