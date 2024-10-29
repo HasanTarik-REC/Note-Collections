@@ -40,7 +40,20 @@ The device that processes the received message and presents it to the user. It c
 A set of rules that govern communication between devices. It ensures that both the sender and receiver understand the format, timing, and error-checking mechanisms used in the communication process.<br/>
 
 
-
+### **<br/>Forms of Data that Can Be Communicated.**
+Data can be transmitted in different forms depending on the type of information and its application. Here are the main forms:<br/>
+`Text:`<br/>
+Text data consists of characters, words, or sentences and is commonly used for emails, messages, and documents.<br/>
+`Numbers:`<br/>
+Numerical data is used in calculations, measurements, and statistics. This form is commonly transmitted in banking transactions, scientific data, and automated systems.<br/>
+`Images:`<br/>
+Image data includes photographs, graphics, and illustrations, which are typically represented in formats like JPEG, PNG, or GIF. Images are transmitted in binary format, often compressed to reduce size for faster transmission.<br/>
+`Audio:`<br/>
+Audio data includes sound recordings, music, and voice communication. Audio files are typically encoded in formats such as MP3, WAV, or AAC.<br/>
+`Video:`<br/>
+Video data combines a series of images with audio, creating moving visuals. Formats like MP4, AVI, MKV, etc.<br/>
+`Documents:`<br/>
+Documents combine text, images, and sometimes other elements in a structured format. Common file types include PDF, DOCX, and PPT.<br/>
 
 
 
