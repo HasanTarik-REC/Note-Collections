@@ -161,6 +161,8 @@ In satellite communication, two separate frequencies are used for uplink and dow
 ### **<br/>What is a footprint?
 In satellite communication, a footprint is the ground area covered by a satellite's signal on Earth. It defines the geographical region within which a satellite's signals can be received and where its services are accessible.<br/>
 
+### **<br/>Which signals are called infrared?**
+Infrared signals are electromagnetic waves with wavelengths longer than those of visible light but shorter than microwaves. They are invisible to the human eye but can be detected as heat.<br/>
 
 
 
