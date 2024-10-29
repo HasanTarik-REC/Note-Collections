@@ -133,6 +133,13 @@ The period of a satellite is the time it takes for the satellite to complete one
 ### **<br/>What type of propagation does satellite communication use? How does that mode differ from other propagation modes?**
 Satellite communication primarily uses line-of-sight (LOS) propagation. In this mode, radio waves travel directly from the ground station (transmitter) to the satellite and back to the receiver on Earth, without relying on intermediate reflections or refraction by the Earth's atmosphere.<br/>
 
+#### `Line-of-sight propagation differs from other modes:`<br/>
+`Ground Wave Propagation:` This mode uses radio waves that travel along the surface of the Earth. It's limited by the Earth's curvature and is suitable for short-range communication.   <br/>
+`Sky Wave Propagation:` This mode relies on the ionosphere to reflect radio waves to Earth. It's used for long-distance communication but is susceptible to ionospheric disturbances.
+
+ 
+
+
 
 
 
