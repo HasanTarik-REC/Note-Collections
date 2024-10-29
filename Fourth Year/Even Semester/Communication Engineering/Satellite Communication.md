@@ -158,8 +158,8 @@ In satellite communication, two separate frequencies are used for uplink and dow
   - To efficiently use Bandwidth.
 
 
-
-
+### **<br/>What is a footprint?
+In satellite communication, a footprint is the ground area covered by a satellite's signal on Earth. It defines the geographical region within which a satellite's signals can be received and where its services are accessible.<br/>
 
 
 
