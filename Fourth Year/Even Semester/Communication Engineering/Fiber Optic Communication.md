@@ -10,5 +10,10 @@
   - Greater immunity to tapping.
   - Makes it more secure for transmitting sensitive data.
 
+#### `Disadvantages:`<br/>
+  - More expensive than copper cable.
+  - Installation and repair of optical fiber cables require specialized skills, equipment, and care.
+  - Uses unidirectional light propagation.
+  - Fragile and can be damaged by physical stress.
 
 
