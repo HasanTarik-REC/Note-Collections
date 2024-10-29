@@ -130,4 +130,21 @@ The period of a satellite is the time it takes for the satellite to complete one
 `Geostationary Orbit (GEO):` Satellites at approximately 35,786 km altitude have a period of exactly 24 hours, matching Earth’s rotation.<br/>
 
 
+### **<br/>What type of propagation does satellite communication use? How does that mode differ from other propagation modes?**
+Satellite communication primarily uses line-of-sight (LOS) propagation. In this mode, radio waves travel directly from the ground station (transmitter) to the satellite and back to the receiver on Earth, without relying on intermediate reflections or refraction by the Earth's atmosphere.<br/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
