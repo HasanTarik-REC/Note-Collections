@@ -1,7 +1,21 @@
 # Note-Collections
-In this repository, I have stored my all notes.
+In this repository, I have stored all my notes.
 
 # CSE Fourth Year
+- ## Even Semester
+    - [Software Engineering][SE]
+    - [Computer Graphics][CG]
+    - [Microprocessor and Assembly Language][MAL]
+    - [Operating System and System Programming][OS1]
+    - [Communication Engineering][CM11]
+
+- ## Odd Semester
+    - [Parallel Processing and Distributed System][PP]
+    - [Object Oriented Design and Design Pattern][PP1]
+    - [Computer Simulation and Modeling][S11]
+    - [Microprocessor Interfacing and Microcontrollers][]
+    - [Digital Image Processing][CN1]
+# CSE Third Year
 - ## Even Semester
     - [Software Engineering][SE]
     - [Computer Graphics][CG]
