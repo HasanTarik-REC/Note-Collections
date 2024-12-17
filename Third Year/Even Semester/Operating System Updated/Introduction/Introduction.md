@@ -13,7 +13,6 @@ The computer system structure consists of four components. There are-
   - Application program<br/>
   - User<br/>
  <img src ="./Capture1.PNG" width = "450" title = "Elements of Computer System Structure"/>
- 
 ### **Goals of Operating System**
  - Execute user programs and make solving user problems easier.
  - Make the computer system convenient to use.
@@ -31,7 +30,7 @@ The computer system structure consists of four components. There are-
  - Coordination between other software and user.
 
    ### **<br/>Define Batch Operating System**
-    Batch operating system is a type of operating system that does not interact directly with the computer. There is an operator which takes similar jobs having the same requirements and groups them into batches.<br/><br/>
+    This type of operating system does not interact with the computer directly. An operator groups similar jobs with the same requirements into batches.<br/><br/>
    <img src ="./Capture2.PNG" width = "650" title = "Batch Operating System"/>
 
  ### **<br/>Problems of Batch Operating System**
@@ -40,14 +39,14 @@ The computer system structure consists of four components. There are-
   - Difficult to provide the desired priority.
 
  ### **<br/>Define Multiprogramming**
- Multiprogramming is a fundamental concept in operating systems that allows multiple programs to run simultaneously on a single processor. This technique maximizes CPU utilization and increases overall system throughput by overlapping CPU execution with I/O operations.<br/><br/>
+ Multiprogramming is a fundamental concept in operating systems that allows multiple programs to run simultaneously on a single processor. This technique aims to maximize CPU utilization and increase overall system throughput by overlapping CPU execution with I/O operations. It is also called Non-preemptive.<br/><br/>
   <img src ="./Capture3.PNG" width = "550" title = "Multiprogramming"/>
  ### **<br/>Define Multitasking/Time sharing**
  Multitasking, also known as time-sharing or multitasking operating system, allows multiple tasks to run concurrently on a single processor. This functionality enables users to run multiple applications simultaneously and switch between them seamlessly.<br/><br/>
 <img src ="./Capture4.PNG" width = "550" title = "Multitasking"/>
  
 ### **<br/>Define Multiprocessing operating system**
-Multiprocessing operating system is a type of operating system that uses two or more central processing units (CPUs) within a single computer. It refers to a computer system's ability to support multiple processes simultaneously.<br/><br/>
+It uses two or more central processing units (CPUs) within a single computer.<br/>It refers to a computer system's ability to support multiple processes simultaneously.<br/><br/>
 <img src ="./Cap111ture.PNG" width = "400"/><br/>
 Types of multiprocessing<br/>
  - Symmetric
@@ -64,8 +63,7 @@ Types of multiprocessing<br/>
  3. Large main memory required.
 
 ### **<br/>Define Real-Time Operating System**
-A real-time operating system is a type of operating system that serves real-time applications.<br/>
-In a real-time operating system, the response should be guaranteed within a specified timing constraint or the system should meet the specified deadline.<br/>
+A real-time operating system is an operating system intended to serve real-time applications. <br/>Response should be guaranteed within a specified timing constraint or the system should meet the specified deadline.<br/>
 Types of Real-Time Operating System:<br/>
  - Hard Real-Time System
  - Soft Real-Time System<br/>

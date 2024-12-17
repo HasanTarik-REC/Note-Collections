@@ -23,12 +23,233 @@ CPU scheduling algorithms rely on various criteria to determine how to prioritiz
 - `Average Response Time:` This is the time it takes for a process to first respond after submitting a request. A good scheduler minimizes response time for a more responsive user experience.<br/>
 ### **<br/>Times of CPU Scheduling Algorithm**
 `Arrival Time: ` Time at which the process arrives in the ready queue. 10.00 AM <br/>
-`Burst Time: ` Burst time is the total time taken by the process for its execution on the CPU. 0.05 min <br/>
+`Burst Time: ` Burst time is the total time the process takes to execute on the CPU. 0.05 min <br/>
 `Completion/Exit Time: ` A process that completes execution and terminates. 10.45 AM<br/>
 `Turn Around Time: ` It is also called total execution time. Formula: Exit time - Arrival time. 10.45 AM - 10.00 AM = 0.45 min<br/>
-Another formula: waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
+Another formula: Waiting time + burst time. 0.40 min + 0.05 min = 0.45 min<br/>
 `Waiting Time: `Turn Around time - Burst time. 0.45 min - 0.05 min = 0.40 min<br/>
 `Response Time: `The first time the process gets the CPU - Arrival time. 10.15 AM - 10.00 AM = 0.15 min<br/><br/>
- <img src ="./Capture1.PNG" width = "650" title = "Times of CPU Scheduling Algorithm."/>
+ <img src ="./Capture1.PNG" width = "650" title = "Times of CPU Scheduling Algorithm."/><br/>
 
+
+
+### **<br/>First Come First Serve with arrival time for non-preemptive**
+ | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|
+| P1 | 3 | 1 | 4 | 1 | 0 | 0 |
+| P2 | 4 | 5 | 16 | 12 | 7 | 7 |
+| P3 | 0 | 2 | 2 | 2 | 0 | 0 |
+| P4 | 3 | 7 | 11 | 8 | 1 | 1 |
+| P5 | 5 | 5 | 21 | 16 | 11 | 11 |
+<br/>
+
+### Gantt chart:<br/>
+| P3 | idle | P1 | P4 | P2 | P5 |<br/>
+0---2-----3---4---11--16--21
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 39 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 21<br/>
+            =<br/>
+
+            
+### **<br/>First Come First Serve without arrival time for non-preemptive**
+| Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|
+| P1 | 1 | 1 | 1 | 0 | 0 |
+| P2 | 5 | 6 | 6 | 1 | 1 |
+| P3 | 2 | 8 | 8 | 6 | 6 |
+| P4 | 7 | 15 | 15 | 8 | 8 |
+| P5 | 5 | 20 | 20 | 15 | 15 |
+<br/>
+
+### Gantt chart:<br/>
+| P1 | P2 | P3 | P4 | P5 |<br/>
+0---1---6----8--15-- 20
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 50 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 20<br/>
+            =<br/>
+
+
+### **<br/>Shortest Job First with arrival time for non-preemptive**<br/>
+#### `Shortest Job First working with Burst Time`<br/>
+ | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|
+| P1 | 4 | 5 | 15 | 11 | 6 | 6 |
+| P2 | 0 | 2 | 2 | 2 | 0 | 0 |
+| P3 | 1 | 5 | 10 | 9 | 4 | 4 |
+| P4 | 6 | 7 | 22 | 16 | 9 | 9 |
+| P5 | 2 | 3 | 5 | 3 | 0 | 0 |
+<br/>
+
+### Gantt chart:<br/>
+| P3 | P1 | P4 | P2 | P5 |<br/>
+0---2---5---10--15--22
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 41 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 22<br/>
+            =<br/>
+
+### **<br/>Shortest Job First without arrival time for non-preemptive**
+#### `Shortest Job First working with Burst Time`<br/>
+| Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|
+| P1 | 5 | 10 | 10 | 5 | 5 |
+| P2 | 2 | 2 | 2 | 0 | 0 |
+| P3 | 5 | 15 | 15 | 10 | 10 |
+| P4 | 7 | 22 | 22 | 15 | 15 |
+| P5 | 3 | 5 | 5 | 2 | 2 |
+<br/>
+
+### Gantt chart:<br/>
+| P1 | P2 | P3 | P4 | P5 |<br/>
+0---2---5----10--15-- 22
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 54 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 22<br/>
+            =<br/>
+
+### **<br/>Priority Scheduling Algorithm with arrival time for non-preemptive**
+ | Process | Priority | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|---|
+| P1 | 2 | 3 | 5 | 11 | 8 | 3 | 3 |
+| P2 | 1 | 2 | 4 | 6 | 4 | 0 | 0 |
+| P3 | 3 | 5 | 1 | 18 | 13 | 12 | 12 |
+| P4 | 4 | 4 | 7 | 25 | 21 | 14 | 14 |
+| P5 | 3 | 1 | 6 | 17 | 16 | 10 | 10 |
+| p6 | 5 | 0 | 2 | 2 | 2 | 0 | 0 |
+<br/>
+
+#### `It works with Arrival time. If multiple processes arise then Less value high priority.`<br/>
+
+### Gantt chart:<br/>
+| P6 | P2 | P1 | P5 | P3 | P4 |<br/>
+0---2---6---11--17--18--25
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 54 / 6<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 6 / 25<br/>
+            =<br/>
+
+
+### **<br/>Priority Scheduling Algorithm without arrival time for non-preemptive**
+Try it by yourself.
+
+
+
+### **<br/>Shortest Job First/SRTF with arrival time for preemptive**
+#### `Shortest Job First working with Burst Time and for preemptive each unit of time`<br/>
+ | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|
+| P1 | 2 | 6 | 20 | 18 | 12 | 12 |
+| P2 | 1 | 3 | 4 | 3 | 0 | 0 |
+| P3 | 4 | 2 | 6 | 2 | 0 | 0 |
+| P4 | 0 | 5 | 10 | 10 | 5 | 0 |
+| P5 | 6 | 4 | 14 | 8 | 4 | 4 |
+<br/>
+
+### Gantt chart:<br/>
+| P4 | P2 | P2 | P2 | P3 | P3 | P4 | P4 | P4 | P4 | P5 | P1 |<br/>
+0---1---2----3---4---5----6---7----8---9---10--14--20
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 41 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 20<br/>
+            =<br/>
+
+
+### **<br/>Round Robin scheduling algorithm with arrival time for preemptive**
+`Time Quantum: 02 sec`<br/>
+ | Process | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|
+| P1 | 0 | 6 | 16 | 16 | 10 |0 |
+| P2 | 1 | 3 | 12 | 11 | 8 | 1 |
+| P3 | 2 | 5 | 19 | 17 | 12 | 2 |
+| P4 | 3 | 1 | 9 | 6 | 5 | 5 |
+| P5 | 4 | 4 | 18 | 14 | 10 | 5 |
+<br/>
+
+### Ready Queue:<br/>
+| P1 | P2 | P3 | P1 | P4 | P5 | P2 | P3 | P1 | P5 | P3 |<br/>
+### Gantt chart:<br/>
+| P1 | P2 | P3 | P1 | P4 | P5 | P2 | P3 | P1 | P5 | P3 |<br/>
+0---2---4----6---8---9---11--12--14--16--18--19
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 64 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 19<br/>
+            =<br/>
+
+
+### **<br/>Round Robin scheduling algorithm without arrival time for preemptive**
+`Time Quantum: 02 sec`<br/>
+ | Process | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|
+| P1 | 53 | 134 | 134 | 81 |0 |
+| P2 | 17 | 37 | 37 | 20 | 20 |
+| P3 | 68 | 162 | 162 | 94 | 37 |
+| P4 | 24 | 121 | 121 | 97 | 57 |
+<br/>
+
+### Ready Queue:<br/>
+| P1 | P2 | P3 | P4 | P1 | P3 | P4 | P1 | P3 | P3 |<br/>
+### Gantt chart:<br/>
+| P1 | P2 | P3 | P4 | P1 | P3 | P4 | P1 | P3 | P3 |<br/>
+0--20--37--57--77--97--117-121-134-152-162
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 454 / 4<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 4 / 162<br/>
+            =<br/>
+
+
+### **<br/>Priority Scheduling Algorithm with arrival time for preemptive**
+#### `It works with Arrival time. If multiple processes arise then the Highest value highest priority.`<br/>
+ | Process | Priority | Arrival Time | Burst Time | Completion Time | Turn Around Time | Waiting Time | Response Time |
+|---|---|---|---|---|---|---|---|
+| P0 | 2 | 3 | 5 | 23 | 20 | 15 | 15 |
+| P1 | 1 | 2 | 4 | 27 | 25 | 21 | 21 |
+| P2 | 3 | 5 | 6 | 18 | 13 | 7 | 7 |
+| P3 | 4 | 1 | 7 | 8 | 7 | 0 | 0 |
+| P4 | 3 | 0 | 5 | 12 | 12 | 7 | 0 |
+<br/>
+
+
+### Gantt chart:<br/>
+| P4 | P3 | P3 | P3 | P3 | P3 | P4 | P2 | P0 | P1 |<br/>
+0---1---2---3---4---5---8--12--18--23--27
+<br/>
+`Average T.Around Time` = Total T.Around Time / Number of Processes<br/>
+                        = 77 / 5<br/>
+                        =<br/>
+`Throughput` = Number of Processes / Total Number of Unit Time<br/>
+            = 5 / 27<br/>
+            =<br/>
+
+### **<br/>Multilevel queue scheduling algorithm**
+ <img src ="./Capture2.PNG" width = "550" title = "Multilevel queue scheduling algorithm."/><br/>
+
+
+### **<br/>Multilevel feedback queue scheduling algorithm**
+ <img src ="./Capture3.PNG" width = "450" title = "Multilevel feedback queue scheduling algorithm."/><br/>
 
