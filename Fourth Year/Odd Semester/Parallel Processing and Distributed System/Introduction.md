@@ -1,7 +1,15 @@
 ### Chapter 1 (Introduction)
 
-### **<br/>What is Computer Network?**
-A computer network is a Collection of autonomous computers interconnected by a
-single technology. Two computers are said to be interconnected if they can exchange information. The connection need not be via a copper wire; fiber optics, microwaves, infrared, and communication satellites can also be used.
+### **<br/>What do you mean by parallel processing?**
+Parallel processing is a computing technique where multiple tasks are executed simultaneously by dividing a larger task into smaller, independent sub-tasks that can run concurrently. This is achieved by utilizing multiple processors or cores within a system, allowing the work to be distributed and completed more efficiently than sequential processing.
+
+### **<br/>Application of Parallel Processing**
+  - High-performance computing
+  - Image and video rendering
+  - Scientific simulations (e.g., climate modeling, molecular dynamics)
+  - Data analytics and machine learning
+  - Real-time systems, such as gaming or autonomous vehicles
+<br/>
+
 
 
