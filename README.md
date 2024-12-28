@@ -13,7 +13,7 @@ In this repository, I have stored all my notes.
     - [Parallel Processing and Distributed System][PPDS]
     - [Object Oriented Design and Design Pattern][PP1]
     - [Computer Simulation and Modeling][S11]
-    - [Microprocessor Interfacing and Microcontrollers][]
+    - [Computer Peripherals and Interfacing][CPI]
     - [Digital Image Processing][CN1]
 # CSE Third Year
 - ## Even Semester
@@ -74,3 +74,4 @@ In this repository, I have stored all my notes.
   [SE]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Software%20Engineering/ContentsOfSoftwareEngineering.md
   [CM11]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Communication%20Engineering/Contents%20of%20Communication%20Engineering.md
   [CG]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Computer%20Graphics/ContentsOfComputerGraphics.md
+  [CPI]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Odd%20Semester/Computer%20Peripherals%20and%20Interfacing/Contents%20of%20Computer%20Peripherals%20and%20Interfacing.md
