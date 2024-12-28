@@ -2,7 +2,7 @@
 # Computer Peripherals and Interfacing
 
 
-## </br></br>Chapter<hr/>
+## </br>Chapter<hr/>
 
 - [Basic concepts of microprocessor interfacing][P1]
 - [Interfacing peripherals][P2]
