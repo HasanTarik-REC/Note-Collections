@@ -12,7 +12,7 @@ In this repository, I have stored all my notes.
 - ## Odd Semester
     - [Parallel Processing and Distributed System][PPDS]
     - [Object Oriented Design and Design Pattern][PP1]
-    - [Computer Simulation and Modeling][S11]
+    - [Computer Simulation and Modeling][CSM]
     - [Computer Peripherals and Interfacing][CPI]
     - [Digital Image Processing][CN1]
 # CSE Third Year
@@ -75,3 +75,4 @@ In this repository, I have stored all my notes.
   [CM11]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Communication%20Engineering/Contents%20of%20Communication%20Engineering.md
   [CG]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Even%20Semester/Computer%20Graphics/ContentsOfComputerGraphics.md
   [CPI]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Odd%20Semester/Computer%20Peripherals%20and%20Interfacing/Contents%20of%20Computer%20Peripherals%20and%20Interfacing.md
+  [CSM]: https://github.com/HasanTarik-REC/Note-Collections/blob/Feature/Fourth%20Year/Odd%20Semester/Computer%20Simulation%20and%20Modeling/Contents%20of%20Computer%20Simulation%20and%20Modeling.md
