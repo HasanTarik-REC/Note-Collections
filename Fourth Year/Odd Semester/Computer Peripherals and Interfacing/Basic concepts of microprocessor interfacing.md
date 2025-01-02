@@ -18,5 +18,8 @@ To interface among peripheral devices three components are needed.
   - `I/O Module:` While computer peripheral interfacing there must be a mediator between peripherals and processors. Which is normally known as the I/O module.
   - `I/O Device:` I/O device is the peripheral device with which the interface will occur. This can be any input or output device.
 
-
+##### `Examples of Computer Peripheral Interfacing:`
+  - Taking input from a keyboard is peripheral interfacing. Here the keyboard is the peripheral device.
+  - Printing a document with a printer is peripheral interfacing where the printer is the peripheral device.
+  - Showing a video on the monitor is peripheral interfacing and in this case monitor is the peripheral device.
 
