@@ -15,8 +15,8 @@ occurs through a peripheral device is computer peripheral interfacing.<br/>
 ##### `Components of Computer Peripheral Interfacing:`
 To interface among peripheral devices three components are needed.
   - `I/O Processor:` I/O processor is the processor of the computer which means CPU. To interface between peripherals, there must be a central device that will control the interface.
-  - I/O Module: While computer peripheral interfacing there must be a mediator between peripherals and processors. Which is normally known as the I/O module.
-  - I/O Device: I/O device is the peripheral device with which the interface will occur. This can be any input or output device.
+  - `I/O Module:` While computer peripheral interfacing there must be a mediator between peripherals and processors. Which is normally known as the I/O module.
+  - `I/O Device:` I/O device is the peripheral device with which the interface will occur. This can be any input or output device.
 
 
 
