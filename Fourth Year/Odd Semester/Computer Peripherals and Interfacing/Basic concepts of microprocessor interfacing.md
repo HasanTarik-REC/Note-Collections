@@ -7,4 +7,8 @@ Computer Peripherals are the components or devices that are connected to the pro
 In other words, Computer peripherals are the hardware that is connected to the CPU of the computer.<br/>
 ##### `Interface:`
 An interface is the concept of communication between two components, objects, elements, or two parts of a single object or component and it may occur on both hardware and software levels.<br/>
-Simplifying, the interface is the interaction between two things.
+Simplifying, the interface is the interaction between two things.<br/>
+#### `Computer Peripherals and Interfacing:`
+Computer Peripheral Interfacing is the interaction between computer processors and computer peripherals. Any input or output process that
+occurs through a peripheral device is known as computer peripheral interfacing.<br/>
+
