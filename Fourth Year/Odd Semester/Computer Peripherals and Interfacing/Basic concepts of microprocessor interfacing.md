@@ -30,26 +30,13 @@ Differences between port-addressed I/O and memory-mapped I/O are given below.<br
 | Port-Addressed I/O | Memory-Mapped I/O |
 |---|---|
 | It uses an 8-bit address. | It uses a 16-bit address. |
-| Control Signals for input/output is
-IOR/IOW.| Control Signals for input/output is
-MEMR/MEMW. |
-| Available instructions are IN and OUT. | Available instructions are STA, LDA, MOV
-M, R, ADD M, SUB M, etc. |
-| Data transfer occurs between I/O devices
-and accumulators. | Data transfer occurs between I/O devices
-and registers. |
-| The I/O map is independent of the memory
-map. 256 input devices and 256 output
-devices can be connected. | The memory map is shared between I/Os
-and system memory. |
-| Execution speed is 10 T-states. | Execution speed is 13 T-states for STA,
-LDA, and 7 T-states for MOV M, R. |
-| Less Hardware is needed to decode 8-bit
-addresses. | More hardware is needed to decode 16-bit
-addresses. |
-| Arithmetic and Logical Operations can not
-be directly performed with I/O data. | Arithmetic and Logical Operations can be
-directly performed with I/O data. |
+| Control Signals for input/output is IOR/IOW.| Control Signals for input/output are MEMR/MEMW. |
+| Available instructions are IN and OUT. | Available instructions are STA, LDA, MOV M, R, ADD M, SUB M, etc. |
+| Data transfer occurs between I/O devices and accumulators. | Data transfer occurs between I/O devices and registers. |
+| The I/O map is independent of the memory map. 256 input devices and 256 output devices can be connected. | The memory map is shared between I/Os and system memory. |
+| Execution speed is 10 T-states. | Execution speed is 13 T-states for STA, LDA, and 7 T-states for MOV M, R. |
+| Less Hardware is needed to decode 8-bit addresses. | More hardware is needed to decode 16-bit addresses. |
+| Arithmetic and Logical Operations can not be directly performed with I/O data. | Arithmetic and Logical Operations can be directly performed with I/O data. |
 
 
 
