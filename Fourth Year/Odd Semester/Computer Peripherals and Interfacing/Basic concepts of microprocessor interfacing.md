@@ -39,6 +39,13 @@ Differences between port-addressed I/O and memory-mapped I/O are given below.<br
 | Arithmetic and Logical Operations can not be directly performed with I/O data. | Arithmetic and Logical Operations can be directly performed with I/O data. |
 
 
+### **<br/>Is it possible to interfacing, IN 20H and OUT 20H? Explain why and why not.**
+Yes. It is possible to interfacing, IN 20H and OUT 20H.<br/>
+Since the instructions are IN, OUT. So it’s a port-addressed I/O. And since port-addressed I/O uses an 8-bit address. So, the second byte of IN and OUT instructions can be any of the 256 combinations of eight bits from 00H to FFH. Since 20H falls between 00H and FFH, it is
+possible to interfacing IN 20H and OUT 20H.
+
+
+
 
 
 
