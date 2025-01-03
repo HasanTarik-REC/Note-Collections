@@ -1,4 +1,4 @@
-### Chapter 1 (Basic concepts of microprocessor interfacing))
+### Chapter 1 (Interfacing IO Devices))
 
 ### **<br/>What is meant by computer peripheral interfacing? Explain with an example.**
 

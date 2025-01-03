@@ -4,9 +4,11 @@
 
 ## </br>Chapter<hr/>
 
-- [Basic concepts of microprocessor interfacing][P1]
-- [Interfacing peripherals][P2]
-- [Programmable Interface device][P3]
+- [Interfacing IO Devices][P1]
+- [8085 Microprocessor Architecture and Memory Interfacing][P2]
+- [Interrupts][P3]
+- [Interfacing Data Converters][P4]
+- [Programmable Interface Device][P5]
 
 
 
