@@ -27,13 +27,20 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
   - The modern system is so complex that its internal interaction can be treated only by simulation.
 
 
-### **<br/>Discuss the situation when simulation is not appropriate tool.**
+### **<br/>Discuss the situation when the simulation is not an appropriate tool.**
   - If the problem can be solved using common sense.
   - When the problem can be solved analytically(logically).
   - If it is easier to perform direct experiments.
   - If the cost exceeds savings.
   - If resources or time are not available.
   - If system behavior is too complex.
+
+
+### **<br/>Advantage of Simulation**
+  - New policies, operating procedures, decision rules, information flows, organizational procedures, etc can be explored without disrupting the ongoing operations of the real system.
+  - New hardware designs, physical layouts, transportation systems, etc can be tested without committing resources for their acquisition.
+  - Hypotheses about how or why certain phenomena occur can be tested for feasibility.
+  - 
 
 
 
