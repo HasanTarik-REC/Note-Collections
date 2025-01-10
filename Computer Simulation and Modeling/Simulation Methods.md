@@ -37,10 +37,17 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
 
 
 ### **<br/>Advantage of Simulation**
-  - New policies, operating procedures, decision rules, information flows, organizational procedures, etc can be explored without disrupting the ongoing operations of the real system.
-  - New hardware designs, physical layouts, transportation systems, etc can be tested without committing resources for their acquisition.
+  - New policies, operating procedures, decision rules, information flows, and organizational procedures can be explored without disrupting the real system's ongoing operations.
+  - New hardware designs, physical layouts, transportation systems, etc can be tested without committing resources to their acquisition.
   - Hypotheses about how or why certain phenomena occur can be tested for feasibility.
-  - 
+  - Time can be compressed or expanded allowing for a speedup or slowdown of the phenomena under investigation.
+  -  Insight can be obtained about the interaction of variables.
+  -  Insight can be obtained about the importance of variables to the system's performance.
+
+
+
+
+  
 
 
 
