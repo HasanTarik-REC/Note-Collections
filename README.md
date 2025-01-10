@@ -3,18 +3,10 @@ In this repository, I have stored all my notes.
 
 # CSE Fourth Year
 - ## Even Semester
-    - [Artificial Intelligence][SE]
-    - [Web Engineering][CG]
-    - [Cryptography and Network Security][MAL]
-    - [Distributed Database Management System][OS1]
-    - [Wireless Communication][CM11]
 
 - ## [Odd Semester][OddSemester]
-    - [Parallel Processing and Distributed System][PPDS]
-    - [Object Oriented Design and Design Pattern][PP1]
-    - [Computer Simulation and Modeling][CSM]
-    - [Computer Peripherals and Interfacing][CPI]
-    - [Digital Image Processing][CN1]
+
+
 # CSE Third Year
 - ## Even Semester
     - [Software Engineering][SE]
