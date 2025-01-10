@@ -45,6 +45,8 @@ Since the instructions are IN, OUT. So it’s a port-addressed I/O. Since port-a
 possible to interfacing IN 20H and OUT 20H.
 
 ### **<br/>Explain absolute address decoding and partial address decoding with examples.**
+`Absolute Decoding:` If all lines are decoded to generate one unique output pulse then it’ll be called absolute decoding and good design practice. Such as in Fig 4.4 all eight lines are decoded to generate one unique output pulse. The device will be selected only with the
+address, 01H.
 
 
 
