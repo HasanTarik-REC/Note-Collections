@@ -10,5 +10,6 @@
 
 
 !--Links-->
-     [PPDS]: https://github.com/HasanTarik-REC/Note-Collections/blob/PartFourOddSemester/Parallel%20Processing%20and%20Distributed%20System/2018-2019/Contents%20of%20Parallel%20Programming.md
+
+[PPDS]: https://github.com/HasanTarik-REC/Note-Collections/blob/PartFourOddSemester/Parallel%20Processing%20and%20Distributed%20System/2018-2019/Contents%20of%20Parallel%20Programming.md
      
