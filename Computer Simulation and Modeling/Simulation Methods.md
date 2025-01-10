@@ -45,8 +45,11 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
   -  Insight can be obtained about the importance of variables to the system's performance.
 
 
-
-
+### **<br/>Disadvantage of Simulation**
+  - Model building requires special training.
+  - Simulation results can be difficult to interpret.
+  - Simulation modeling and analysis can be time-consuming and expensive.
+  - Simulation is sometimes used when an analytical solution is possible or even preferable.
   
 
 
