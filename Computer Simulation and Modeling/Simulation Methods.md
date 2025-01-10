@@ -51,6 +51,26 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
   - Simulation modeling and analysis can be time-consuming and expensive.
   - Simulation is sometimes used when an analytical solution is possible or even preferable.
   
-
-
+### **<br/>Application of Simulation
+  - Manufacturing Systems
+      - Aircraft, Automobile, etc.
+      - Semiconductor Manufacturing   
+  - Public Systems
+      - Health care
+      - Military
+      - Natural resource   
+  - Transportation System
+      - Cargo transport system   
+  - Construction Systems
+      - Cable-stayed bridge   
+  - Restaurant and entertainment  system
+      - Quick service restaurant traffic analysis   
+  - Business process reengineering
+      - Business process modeling and analysis tools   
+  - Food processing
+      - Fishing boat operations in fish processing industries   
+  - Computer system performance
+      - Client-server system architecture
+   
+  
 
