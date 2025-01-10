@@ -47,12 +47,12 @@ possible to interfacing IN 20H and OUT 20H.
 ### **<br/>Explain absolute address decoding and partial address decoding with examples.**
 `Absolute Decoding:` If all lines are decoded to generate one unique output pulse then it’ll be called absolute decoding and good design practice. Such as in Fig 4.4 all eight lines are decoded to generate one unique output pulse. The device will be selected only with the
 address, 01H.<br/><br/>
-<img src ="./4.4Capture1.PNG" width = "550" title = "Absolute Address Decoding"/>
+<img src ="./4.4Capture1.PNG" width = "750" title = "Absolute Address Decoding"/>
 
 
-`Partial Decoding:` To minimize the cost, the output port can be selected by decoding some of the address lines, called partial decoding. Such as in Fig 4.5 the address lines A0 and A1 are not connected, and they are replaced by IO/M and WR signals. Because the address lines A0 and A1 are at the don’t care logic level, they can be assumed 0 or 1. Thus this output port (latch) can be accessed by the addresses 00H, 01H, 02H, and 03H. Partial decoding is a commonly used technique in small systems. Such multiple addresses will not cause any problem, provided these addresses are not assigned to any other output ports.
+`Partial Decoding:` To minimize the cost, the output port can be selected by decoding some of the address lines, called partial decoding. Such as in Fig 4.5 the address lines A0 and A1 are not connected, and they are replaced by IO/M and WR signals. Because the address lines A0 and A1 are at the don’t care logic level, they can be assumed 0 or 1. Thus this output port (latch) can be accessed by the addresses 00H, 01H, 02H, and 03H. Partial decoding is a commonly used technique in small systems. Such multiple addresses will not cause any problem, provided these addresses are not assigned to any other output ports.<br/><br/>
 
-
+<img src ="./4.5Capture2.PNG" width = "650" title = "Partial Address Decoding"/>
 
 
 
