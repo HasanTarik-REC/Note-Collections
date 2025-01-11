@@ -75,14 +75,14 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
 
   ### **<br/>What are the different components of a system? Explain each of them.**
   A system is defined as a group of objects that are joined together in some regular interaction or interdependence to accomplish some purpose.<br/>
-  The different components of a system are:<br/>
-    - Entity: An object of interest in the system, such as machines in the factory.
-    - Attribute: The property of an entity. Such as speed, capacity, etc.
-    - Activity: A period of specified length. Such as welding, stamping, etc.
-    - State: A collection of variables that describe the system at any time. Such as the status of machines (busy, idle, down, etc).
-    - Event: An instantaneous occurrence that might change the state of the system. Example: breakdown.
-    - Endogenous: Activities and events occurring within the system.
-    - Exogenous:  Activities and events occurring within the environment.
+  The different components of a system are:
+      - Entity: An object of interest in the system, such as machines in the factory.
+      - Attribute: The property of an entity. Such as speed, capacity, etc.
+      - Activity: A period of specified length. Such as welding, stamping, etc.
+      - State: A collection of variables that describe the system at any time. Such as the status of machines (busy, idle, down, etc).
+      - Event: An instantaneous occurrence that might change the state of the system. Example: breakdown.
+      - Endogenous: Activities and events occurring within the system.
+      - Exogenous:  Activities and events occurring within the environment.
 
     
 
