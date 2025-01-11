@@ -51,7 +51,7 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
   - Simulation modeling and analysis can be time-consuming and expensive.
   - Simulation is sometimes used when an analytical solution is possible or even preferable.
   
-### **<br/>Application of Simulation
+### **<br/>Application of Simulation**
   - Manufacturing Systems
       - Aircraft, Automobile, etc.
       - Semiconductor Manufacturing   
@@ -73,7 +73,7 @@ A simulation is the imitation (নকল করা) of the operation of a real-w
       - Client-server system architecture
    
 
-  ### **<br/>What are the different components of a system? Explain each of them.
+  ### **<br/>What are the different components of a system? Explain each of them.**
   A system is defined as a group of objects that are joined together in some regular interaction or interdependence to accomplish some purpose.<br/>
   The different components of a system are:<br/>
     - Entity: An object of interest in the system, such as machines in the factory.
