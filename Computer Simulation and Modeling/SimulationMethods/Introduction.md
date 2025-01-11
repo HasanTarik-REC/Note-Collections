@@ -84,9 +84,10 @@ The different components of a system are:<br/>
   - Endogenous: Activities and events occurring within the system.
   - Exogenous:  Activities and events occurring within the environment.
 
+
     
-### ** Examples of the system and its components**
-  <img src ="./Picture1.png" width = "900" title = "Examples of system and its components"/>
+### **<br/>Examples of the system and its components**
+  <img src ="./Picture1.png" width = "1000" title = "Examples of system and its components"/>
 
 
 
