@@ -55,5 +55,21 @@ address, 01H.<br/><br/>
 <img src ="./4.5Capture2.PNG" width = "600" title = "Partial Address Decoding"/>
 
 
+### **<br/>Distinguish between absolute and partial address decoding.**
+| Absolute address decoding | Partial address decoding |
+|---|---|
+|All lines are decoded to generate one unique output pulse.|The output port can be selected by decoding some of the address lines.|
+| The device has only one address. | The device has multiple addresses. |
+| Can be used in any system.|Can be used in a small system where multiple addresses will not cause any problem.|
+| Costly | Less costly  |
+
+
+
+
+
+
+
+
+
 
 
